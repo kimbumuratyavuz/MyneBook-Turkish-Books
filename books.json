@@ -1,5 +1,5 @@
 {
-  "count": 121,
+  "count": 122,
   "next": null,
   "previous": null,
   "results": [
@@ -4246,6 +4246,41 @@
       "download_count": 35847,
       "summaries": [
         "Gençlik sancılarını, arkadaşlık ilişkilerini ve büyüme sürecindeki komik ve karmaşık duyguları samimi ve akıcı bir dille aktaran eğlenceli bir romandır."
+      ]
+    },
+    {
+      "id": 10122,
+      "title": "Hobbit",
+      "authors": [
+        {
+          "name": "J.R.R. Tolkien",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Masal",
+        "Fantastik",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/j_r_r_tolkien_hobbit.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/j_r_r_tolkien_hobbit.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/j_r_r_tolkien_hobbit.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Bir İngiliz Edebiyatı Profesörü olan J.R.R. Tolkien bundan yaklaşık yetmiş yıl kadar önce dünyaya bir kitap hediye etti. Bu kitapla birlikte insanlar ilk defa hobbit denen ahaliyle karşılaşıyordu. Cücelerden bile kısa boylu, yemeye, içmeye ve eğlenmeye düşkün, iyi yürekli, mutlu ve kendi küçük köylerinde her tür maceradan uzak yaşayan bir ahaliydi hobbitler. Ta ki büyücü Gandalf onları ziyaret edene kadar.\"Hobbit\", diğer hobbitlerden aslında hiç de farklı olmayan bir hobbitin, Bilbo Baggins'in fantastik maceralarından oluşuyor. Bilbo Baggins, büyücü Gandalf ve cücelerle birlikte, cücelerin hazinesini kötü ejderha Smaug'dan geri almak için aslında hiç de istemediği bir yolculuğa çıkar. Ama yine de hobbitin içinde henüz keşfedemediği maceracı bir yan vardır ve yolculuk ilerledikçe Bilbo Baggins kendi cesaretinin ve gücünün farkına varmaya başlar. Tolkien'in aslında çocuklar için kaleme aldığı \"Hobbit\", çok geçmeden yetişkinlerden, özellikle de 60'ların asi gençliğinden büyük ilgi gördü. Bunun üzerine Tolkien hobbitlerin, elflerin, cücelerin ve insanların goblinler, troller, kurtlar ve her tür kötü ve çarpık yaratıkla olan mücadelesini anlatmaya devam ederek \"Yüzüklerin Efendisi\"ni yarattı. Bugün \"Hobbit\"le birlikte \"Yüzüklerin Efendisi\" fantastik edebiyatın kült eserleri arasında yer alıyor."
       ]
     }
   ]
