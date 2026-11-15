@@ -1,5 +1,5 @@
 {
-  "count": 28,
+  "count": 121,
   "next": null,
   "previous": null,
   "results": [
@@ -904,6 +904,2986 @@
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tersi_yuzu.epub"
       },
       "download_count": 51900
+    },
+    {
+      "id": 10029,
+      "title": "Eski Zaman Yamaları",
+      "authors": [
+        {
+          "name": "Akın Güngör",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/akin_gungor_eski_zaman_yamalari.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/akin_gungor_eski_zaman_yamalari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/akin_gungor_eski_zaman_yamalari.epub"
+      },
+      "download_count": 35203
+    },
+    {
+      "id": 10030,
+      "title": "John Kobler",
+      "authors": [
+        {
+          "name": "Al Capone",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/al_capone_john_kobler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/al_capone_john_kobler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/al_capone_john_kobler.epub"
+      },
+      "download_count": 35210
+    },
+    {
+      "id": 10031,
+      "title": "Modernliğin Eleştirisi",
+      "authors": [
+        {
+          "name": "Alain Touraine",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alain_touraine_modernligin_elestirisi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alain_touraine_modernligin_elestirisi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alain_touraine_modernligin_elestirisi.epub"
+      },
+      "download_count": 35217
+    },
+    {
+      "id": 10032,
+      "title": "Einstein'in Düşleri",
+      "authors": [
+        {
+          "name": "Alan Lightman",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alan_lightman_einstein_in_dusleri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alan_lightman_einstein_in_dusleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alan_lightman_einstein_in_dusleri.epub"
+      },
+      "download_count": 35224
+    },
+    {
+      "id": 10033,
+      "title": "Veba",
+      "authors": [
+        {
+          "name": "Albert Camus",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Felsefe",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Felsefe"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/albert_camus_veba.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/albert_camus_veba.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/albert_camus_veba.epub"
+      },
+      "download_count": 35231
+    },
+    {
+      "id": 10034,
+      "title": "Yabancı",
+      "authors": [
+        {
+          "name": "Albert Camus",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Felsefe",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Felsefe"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/albert_camus_yabanci.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/albert_camus_yabanci.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/albert_camus_yabanci.epub"
+      },
+      "download_count": 35238
+    },
+    {
+      "id": 10035,
+      "title": "Ölüler Kitabı",
+      "authors": [
+        {
+          "name": "Albert Champdor",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/albert_champdor_oluler_kitabi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/albert_champdor_oluler_kitabi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/albert_champdor_oluler_kitabi.epub"
+      },
+      "download_count": 35245
+    },
+    {
+      "id": 10036,
+      "title": "Cesur Yeni Dünya",
+      "authors": [
+        {
+          "name": "Aldous Huxley",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aldous_huxley_cesur_yeni_dunya.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aldous_huxley_cesur_yeni_dunya.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aldous_huxley_cesur_yeni_dunya.epub"
+      },
+      "download_count": 35252
+    },
+    {
+      "id": 10037,
+      "title": "Bu Hesapta Yoktu",
+      "authors": [
+        {
+          "name": "Aleksandr Ostrovski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_ostrovski_bu_hesapta_yoktu.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_ostrovski_bu_hesapta_yoktu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_ostrovski_bu_hesapta_yoktu.epub"
+      },
+      "download_count": 35259
+    },
+    {
+      "id": 10038,
+      "title": "Büyük Petro'nun Arabı",
+      "authors": [
+        {
+          "name": "Aleksandr Puşkin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_buyuk_petro_nun_arabi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_puskin_buyuk_petro_nun_arabi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_buyuk_petro_nun_arabi.epub"
+      },
+      "download_count": 35266
+    },
+    {
+      "id": 10039,
+      "title": "Dubrovski",
+      "authors": [
+        {
+          "name": "Aleksandr Puşkin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_dubrovski.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_puskin_dubrovski.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_dubrovski.epub"
+      },
+      "download_count": 35273
+    },
+    {
+      "id": 10040,
+      "title": "Küçük Tragedyalar",
+      "authors": [
+        {
+          "name": "Aleksandr Puşkin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_kucuk_tragedyalar.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_puskin_kucuk_tragedyalar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_kucuk_tragedyalar.epub"
+      },
+      "download_count": 35280
+    },
+    {
+      "id": 10041,
+      "title": "Yüzbaşının Kızı",
+      "authors": [
+        {
+          "name": "Aleksandr Puşkin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_yuzbasinin_kizi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_puskin_yuzbasinin_kizi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_yuzbasinin_kizi.epub"
+      },
+      "download_count": 35287
+    },
+    {
+      "id": 10042,
+      "title": "Schrödinger'in Kedisi (Kabus)",
+      "authors": [
+        {
+          "name": "Alev Alatlı",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alev_alatli_schrodinger_in_kedisi_kabus.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alev_alatli_schrodinger_in_kedisi_kabus.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alev_alatli_schrodinger_in_kedisi_kabus.epub"
+      },
+      "download_count": 35294
+    },
+    {
+      "id": 10043,
+      "title": "Monte Cristo Kontu",
+      "authors": [
+        {
+          "name": "Alexandre Dumas",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_monte_cristo_kontu.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alexandre_dumas_monte_cristo_kontu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_monte_cristo_kontu.epub"
+      },
+      "download_count": 35301
+    },
+    {
+      "id": 10044,
+      "title": "Üç Silahşörler",
+      "authors": [
+        {
+          "name": "Alexandre Dumas",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_uc_silahsorler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alexandre_dumas_uc_silahsorler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_uc_silahsorler.epub"
+      },
+      "download_count": 35308
+    },
+    {
+      "id": 10045,
+      "title": "Kaplan! Kaplan!",
+      "authors": [
+        {
+          "name": "Alfred Bester",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alfred_bester_kaplan_kaplan.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alfred_bester_kaplan_kaplan.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alfred_bester_kaplan_kaplan.epub"
+      },
+      "download_count": 35315
+    },
+    {
+      "id": 10046,
+      "title": "Katilin Uşağı",
+      "authors": [
+        {
+          "name": "Algan Sezgintüredi",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/algan_sezginturedi_katilin_usagi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/algan_sezginturedi_katilin_usagi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/algan_sezginturedi_katilin_usagi.epub"
+      },
+      "download_count": 35322
+    },
+    {
+      "id": 10047,
+      "title": "Direnişi Nasıl Dokuduk",
+      "authors": [
+        {
+          "name": "Ali Karadas",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ali_karadas_direnisi_nasil_dokuduk.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ali_karadas_direnisi_nasil_dokuduk.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ali_karadas_direnisi_nasil_dokuduk.epub"
+      },
+      "download_count": 35329
+    },
+    {
+      "id": 10048,
+      "title": "Dine Karsi Din",
+      "authors": [
+        {
+          "name": "Ali Şeriati",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ali_seriati_dine_karsi_din.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ali_seriati_dine_karsi_din.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ali_seriati_dine_karsi_din.epub"
+      },
+      "download_count": 35336
+    },
+    {
+      "id": 10049,
+      "title": "Dinler Tarihi",
+      "authors": [
+        {
+          "name": "Ali Şeriati",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Tarih",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Tarih"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ali_seriati_dinler_tarihi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ali_seriati_dinler_tarihi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ali_seriati_dinler_tarihi.epub"
+      },
+      "download_count": 35343
+    },
+    {
+      "id": 10050,
+      "title": "Sigarayı Bırakmanın Kolay Yolu",
+      "authors": [
+        {
+          "name": "Allen Carr",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/allen_carr_sigarayi_birakmanin_kolay_yolu.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/allen_carr_sigarayi_birakmanin_kolay_yolu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/allen_carr_sigarayi_birakmanin_kolay_yolu.epub"
+      },
+      "download_count": 35350
+    },
+    {
+      "id": 10051,
+      "title": "Degirmenimden Mektuplar",
+      "authors": [
+        {
+          "name": "Alphonse Daudet",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_degirmenimden_mektuplar.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alphonse_daudet_degirmenimden_mektuplar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_degirmenimden_mektuplar.epub"
+      },
+      "download_count": 35357
+    },
+    {
+      "id": 10052,
+      "title": "Pazartesi Öyküleri I",
+      "authors": [
+        {
+          "name": "Alphonse Daudet",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_pazartesi_oykuleri_i.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alphonse_daudet_pazartesi_oykuleri_i.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_pazartesi_oykuleri_i.epub"
+      },
+      "download_count": 35364
+    },
+    {
+      "id": 10053,
+      "title": "Pazartesi Öyküleri II",
+      "authors": [
+        {
+          "name": "Alphonse Daudet",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_pazartesi_oykuleri_ii.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alphonse_daudet_pazartesi_oykuleri_ii.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_pazartesi_oykuleri_ii.epub"
+      },
+      "download_count": 35371
+    },
+    {
+      "id": 10054,
+      "title": "Doğunun Limanları",
+      "authors": [
+        {
+          "name": "Amin Maalouf",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/amin_maalouf_dogunun_limanlari.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/amin_maalouf_dogunun_limanlari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/amin_maalouf_dogunun_limanlari.epub"
+      },
+      "download_count": 35378
+    },
+    {
+      "id": 10055,
+      "title": "Semerkant",
+      "authors": [
+        {
+          "name": "Amin Maalouf",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/amin_maalouf_semerkant.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/amin_maalouf_semerkant.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/amin_maalouf_semerkant.epub"
+      },
+      "download_count": 35385
+    },
+    {
+      "id": 10056,
+      "title": "Ölümcül Kimlikler",
+      "authors": [
+        {
+          "name": "Amin Maalouf",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/amin_maalouf_olumcul_kimlikler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/amin_maalouf_olumcul_kimlikler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/amin_maalouf_olumcul_kimlikler.epub"
+      },
+      "download_count": 35392
+    },
+    {
+      "id": 10057,
+      "title": "Anadolu Medeniyetleri",
+      "authors": [
+        {
+          "name": "Anonim",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Tarih",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Tarih"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_anadolu_medeniyetleri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_anadolu_medeniyetleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_anadolu_medeniyetleri.epub"
+      },
+      "download_count": 35399
+    },
+    {
+      "id": 10058,
+      "title": "Thais",
+      "authors": [
+        {
+          "name": "Anatole France",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anatole_france_thais.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anatole_france_thais.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anatole_france_thais.epub"
+      },
+      "download_count": 35406
+    },
+    {
+      "id": 10059,
+      "title": "Secme Masallar I",
+      "authors": [
+        {
+          "name": "Andersen",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Öykü",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Öykü"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/andersen_secme_masallar_i.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/andersen_secme_masallar_i.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/andersen_secme_masallar_i.epub"
+      },
+      "download_count": 35413
+    },
+    {
+      "id": 10060,
+      "title": "NADJA",
+      "authors": [
+        {
+          "name": "Andre Breton",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/andre_breton_nadja.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/andre_breton_nadja.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/andre_breton_nadja.epub"
+      },
+      "download_count": 35420
+    },
+    {
+      "id": 10061,
+      "title": "Muhteşem Süleyman",
+      "authors": [
+        {
+          "name": "Andre Clot",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/andre_clot_muhtesem_suleyman.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/andre_clot_muhtesem_suleyman.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/andre_clot_muhtesem_suleyman.epub"
+      },
+      "download_count": 35427
+    },
+    {
+      "id": 10062,
+      "title": "Safiye Sultan I - Hadim Edilmiş Bir Aşk",
+      "authors": [
+        {
+          "name": "Ann Chamberlin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_safiye_sultan_i_hadim_edilmis_bir_ask.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ann_chamberlin_safiye_sultan_i_hadim_edilmis_bir_ask.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_safiye_sultan_i_hadim_edilmis_bir_ask.epub"
+      },
+      "download_count": 35434
+    },
+    {
+      "id": 10063,
+      "title": "Safiye Sultan II - Ya Ipek Urgan Ya Gümüş Hançer",
+      "authors": [
+        {
+          "name": "Ann Chamberlin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_safiye_sultan_ii_ya_ipek_urgan_ya_gumus_hance.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ann_chamberlin_safiye_sultan_ii_ya_ipek_urgan_ya_gumus_hance.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_safiye_sultan_ii_ya_ipek_urgan_ya_gumus_hance.epub"
+      },
+      "download_count": 35441
+    },
+    {
+      "id": 10064,
+      "title": "Safiye Sultan III - Sözüm ki Tek Sana Geçmez Celladımsın Ey Zaman",
+      "authors": [
+        {
+          "name": "Ann Chamberlin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_safiye_sultan_iii_sozum_ki_tek_sana_gecmez_ce.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ann_chamberlin_safiye_sultan_iii_sozum_ki_tek_sana_gecmez_ce.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_safiye_sultan_iii_sozum_ki_tek_sana_gecmez_ce.epub"
+      },
+      "download_count": 35448
+    },
+    {
+      "id": 10065,
+      "title": "Sözüm ki Tek Sana Geçmez, Celladımsın Ey Zaman",
+      "authors": [
+        {
+          "name": "Ann Chamberlin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_sozum_ki_tek_sana_gecmez_celladimsin_ey_zaman.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ann_chamberlin_sozum_ki_tek_sana_gecmez_celladimsin_ey_zaman.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_sozum_ki_tek_sana_gecmez_celladimsin_ey_zaman.epub"
+      },
+      "download_count": 35455
+    },
+    {
+      "id": 10066,
+      "title": "Transit",
+      "authors": [
+        {
+          "name": "Anna Seghers",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anna_seghers_transit.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anna_seghers_transit.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anna_seghers_transit.epub"
+      },
+      "download_count": 35462
+    },
+    {
+      "id": 10067,
+      "title": "Ejder Uçuşu",
+      "authors": [
+        {
+          "name": "Anne McCaffrey",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anne_mccaffrey_ejder_ucusu.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anne_mccaffrey_ejder_ucusu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anne_mccaffrey_ejder_ucusu.epub"
+      },
+      "download_count": 35469
+    },
+    {
+      "id": 10068,
+      "title": "Generation Warriors",
+      "authors": [
+        {
+          "name": "Anne McCaffrey",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anne_mccaffrey_generation_warriors.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anne_mccaffrey_generation_warriors.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anne_mccaffrey_generation_warriors.epub"
+      },
+      "download_count": 35476
+    },
+    {
+      "id": 10069,
+      "title": "Bilimkurgu Öyküleri Seckisi",
+      "authors": [
+        {
+          "name": "Anonim",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_bilimkurgu_oykuleri_seckisi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_bilimkurgu_oykuleri_seckisi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_bilimkurgu_oykuleri_seckisi.epub"
+      },
+      "download_count": 35483
+    },
+    {
+      "id": 10070,
+      "title": "Karadeniz Fıkraları",
+      "authors": [
+        {
+          "name": "Anonim",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_karadeniz_fikralari.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_karadeniz_fikralari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_karadeniz_fikralari.epub"
+      },
+      "download_count": 35490
+    },
+    {
+      "id": 10071,
+      "title": "Osmanlı Padişahları",
+      "authors": [
+        {
+          "name": "Anonim",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_osmanli_padisahlari.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_osmanli_padisahlari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_osmanli_padisahlari.epub"
+      },
+      "download_count": 35497
+    },
+    {
+      "id": 10072,
+      "title": "Rüya Tabirleri I",
+      "authors": [
+        {
+          "name": "Anonim",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_ruya_tabirleri_i.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_ruya_tabirleri_i.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_ruya_tabirleri_i.epub"
+      },
+      "download_count": 35504
+    },
+    {
+      "id": 10073,
+      "title": "Rüya Tabirleri II",
+      "authors": [
+        {
+          "name": "Anonim",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_ruya_tabirleri_ii.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_ruya_tabirleri_ii.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_ruya_tabirleri_ii.epub"
+      },
+      "download_count": 35511
+    },
+    {
+      "id": 10074,
+      "title": "Tarihteki İlginc Olaylar",
+      "authors": [
+        {
+          "name": "Anonim",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Tarih",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Tarih"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_tarihteki_ilginc_olaylar.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_tarihteki_ilginc_olaylar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_tarihteki_ilginc_olaylar.epub"
+      },
+      "download_count": 35518
+    },
+    {
+      "id": 10075,
+      "title": "6. Koğuş",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_6_kogus.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_6_kogus.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_6_kogus.epub"
+      },
+      "download_count": 35525
+    },
+    {
+      "id": 10076,
+      "title": "Besleme",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_besleme.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_besleme.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_besleme.epub"
+      },
+      "download_count": 35532
+    },
+    {
+      "id": 10077,
+      "title": "Düello",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_duello.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_duello.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_duello.epub"
+      },
+      "download_count": 35539
+    },
+    {
+      "id": 10078,
+      "title": "Hikayeler IV",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Öykü",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Öykü"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_hikayeler_iv.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_hikayeler_iv.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_hikayeler_iv.epub"
+      },
+      "download_count": 35546
+    },
+    {
+      "id": 10079,
+      "title": "Korkunç Bir Gece",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_korkunc_bir_gece.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_korkunc_bir_gece.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_korkunc_bir_gece.epub"
+      },
+      "download_count": 35553
+    },
+    {
+      "id": 10080,
+      "title": "Köylüler",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_koyluler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_koyluler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_koyluler.epub"
+      },
+      "download_count": 35560
+    },
+    {
+      "id": 10081,
+      "title": "Tek Perdelik 9 Oyun",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_tek_perdelik_9_oyun.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_tek_perdelik_9_oyun.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_tek_perdelik_9_oyun.epub"
+      },
+      "download_count": 35567
+    },
+    {
+      "id": 10082,
+      "title": "Vişne Bahçesi",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_visne_bahcesi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_visne_bahcesi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_visne_bahcesi.epub"
+      },
+      "download_count": 35574
+    },
+    {
+      "id": 10083,
+      "title": "Otomatik Portakal",
+      "authors": [
+        {
+          "name": "Antony Burgess",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/antony_burgess_otomatik_portakal.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/antony_burgess_otomatik_portakal.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/antony_burgess_otomatik_portakal.epub"
+      },
+      "download_count": 35581
+    },
+    {
+      "id": 10084,
+      "title": "Giyotinli Labirent",
+      "authors": [
+        {
+          "name": "Arif Kaptan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arif_kaptan_giyotinli_labirent.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arif_kaptan_giyotinli_labirent.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arif_kaptan_giyotinli_labirent.epub"
+      },
+      "download_count": 35588
+    },
+    {
+      "id": 10085,
+      "title": "Atinalilarin Devleti",
+      "authors": [
+        {
+          "name": "Aristoteles",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Tarih",
+        "Felsefe",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Tarih",
+        "Felsefe"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aristoteles_atinalilarin_devleti.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aristoteles_atinalilarin_devleti.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aristoteles_atinalilarin_devleti.epub"
+      },
+      "download_count": 35595
+    },
+    {
+      "id": 10086,
+      "title": "Atinalıların Devleti",
+      "authors": [
+        {
+          "name": "Aristoteles",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Tarih",
+        "Felsefe",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Tarih",
+        "Felsefe"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aristoteles_atinalilarin_devleti.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aristoteles_atinalilarin_devleti.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aristoteles_atinalilarin_devleti.epub"
+      },
+      "download_count": 35602
+    },
+    {
+      "id": 10087,
+      "title": "İktidar Mahkumları",
+      "authors": [
+        {
+          "name": "Arkadi",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arkadi_iktidar_mahkumlari.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arkadi_iktidar_mahkumlari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arkadi_iktidar_mahkumlari.epub"
+      },
+      "download_count": 35609
+    },
+    {
+      "id": 10088,
+      "title": "2001 Bir Uzay Efsanesi",
+      "authors": [
+        {
+          "name": "Arthur C. Clarke",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_c_clarke_2001_bir_uzay_efsanesi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_c_clarke_2001_bir_uzay_efsanesi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_c_clarke_2001_bir_uzay_efsanesi.epub"
+      },
+      "download_count": 35616
+    },
+    {
+      "id": 10089,
+      "title": "2001 Uzay Efsanesi",
+      "authors": [
+        {
+          "name": "Arthur Charles Clarke",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_charles_clarke_2001_uzay_efsanesi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_charles_clarke_2001_uzay_efsanesi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_charles_clarke_2001_uzay_efsanesi.epub"
+      },
+      "download_count": 35623
+    },
+    {
+      "id": 10090,
+      "title": "3001 Uzay Efsanesi Son Efsane",
+      "authors": [
+        {
+          "name": "Arthur Charles Clarke",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_charles_clarke_3001_uzay_efsanesi_son_efsane.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_charles_clarke_3001_uzay_efsanesi_son_efsane.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_charles_clarke_3001_uzay_efsanesi_son_efsane.epub"
+      },
+      "download_count": 35630
+    },
+    {
+      "id": 10091,
+      "title": "Rama'yla Buluşma",
+      "authors": [
+        {
+          "name": "Arthur Charles Clarke",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Bilimkurgu"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_charles_clarke_rama_yla_bulusma.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_charles_clarke_rama_yla_bulusma.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_charles_clarke_rama_yla_bulusma.epub"
+      },
+      "download_count": 35637
+    },
+    {
+      "id": 10092,
+      "title": "Peygamberler Tarihi",
+      "authors": [
+        {
+          "name": "Asim Koksal",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Tarih",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Tarih"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/asim_koksal_peygamberler_tarihi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/asim_koksal_peygamberler_tarihi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/asim_koksal_peygamberler_tarihi.epub"
+      },
+      "download_count": 35644
+    },
+    {
+      "id": 10093,
+      "title": "Dil Felsefesine Giriş",
+      "authors": [
+        {
+          "name": "Atakan Altınörs",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Felsefe",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Felsefe"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/atakan_altinors_dil_felsefesine_giris.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/atakan_altinors_dil_felsefesine_giris.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/atakan_altinors_dil_felsefesine_giris.epub"
+      },
+      "download_count": 35651
+    },
+    {
+      "id": 10094,
+      "title": "Ben Sana Mecburum",
+      "authors": [
+        {
+          "name": "Atilla İlhan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Şiir",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Şiir"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/atilla_ilhan_ben_sana_mecburum.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/atilla_ilhan_ben_sana_mecburum.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/atilla_ilhan_ben_sana_mecburum.epub"
+      },
+      "download_count": 35658
+    },
+    {
+      "id": 10095,
+      "title": "Bütün Kaleler Zaptedilmedi",
+      "authors": [
+        {
+          "name": "Attila İlhan & Hulki Cevizoğlu",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_hulki_cevizoglu_butun_kaleler_zaptedilmedi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_hulki_cevizoglu_butun_kaleler_zaptedilmedi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_hulki_cevizoglu_butun_kaleler_zaptedilmedi.epub"
+      },
+      "download_count": 35665
+    },
+    {
+      "id": 10096,
+      "title": "Elde Var Hüzün",
+      "authors": [
+        {
+          "name": "Attila İlhan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_elde_var_huzun.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_elde_var_huzun.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_elde_var_huzun.epub"
+      },
+      "download_count": 35672
+    },
+    {
+      "id": 10097,
+      "title": "Hayatı ve Şiirleri",
+      "authors": [
+        {
+          "name": "Attila İlhan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_hayati_ve_siirleri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_hayati_ve_siirleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_hayati_ve_siirleri.epub"
+      },
+      "download_count": 35679
+    },
+    {
+      "id": 10098,
+      "title": "Sisler Bulvarı",
+      "authors": [
+        {
+          "name": "Attila İlhan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_sisler_bulvari.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_sisler_bulvari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_sisler_bulvari.epub"
+      },
+      "download_count": 35686
+    },
+    {
+      "id": 10099,
+      "title": "Yasak Sevişmek",
+      "authors": [
+        {
+          "name": "Attila İlhan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_yasak_sevismek.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_yasak_sevismek.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_yasak_sevismek.epub"
+      },
+      "download_count": 35693
+    },
+    {
+      "id": 10100,
+      "title": "Ömür Diyorlar Buna",
+      "authors": [
+        {
+          "name": "Ayfer Tunç",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayfer_tunc_omur_diyorlar_buna.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayfer_tunc_omur_diyorlar_buna.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayfer_tunc_omur_diyorlar_buna.epub"
+      },
+      "download_count": 35700
+    },
+    {
+      "id": 10101,
+      "title": "Hiç Kimsenin Krali",
+      "authors": [
+        {
+          "name": "Ayhan Koç",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayhan_koc_hic_kimsenin_krali.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayhan_koc_hic_kimsenin_krali.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayhan_koc_hic_kimsenin_krali.epub"
+      },
+      "download_count": 35707
+    },
+    {
+      "id": 10102,
+      "title": "Aşk Aşka Karşı",
+      "authors": [
+        {
+          "name": "Aysel Aksümer",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aysel_aksumer_ask_aska_karsi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aysel_aksumer_ask_aska_karsi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aysel_aksumer_ask_aska_karsi.epub"
+      },
+      "download_count": 35714
+    },
+    {
+      "id": 10103,
+      "title": "Adi Aylin",
+      "authors": [
+        {
+          "name": "Ayşe Kulin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_adi_aylin.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_adi_aylin.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_adi_aylin.epub"
+      },
+      "download_count": 35721
+    },
+    {
+      "id": 10104,
+      "title": "Bir Gün",
+      "authors": [
+        {
+          "name": "Ayşe Kulin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_bir_gun.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_bir_gun.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_bir_gun.epub"
+      },
+      "download_count": 35728
+    },
+    {
+      "id": 10105,
+      "title": "Fureya",
+      "authors": [
+        {
+          "name": "Ayşe Kulin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_fureya.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_fureya.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_fureya.epub"
+      },
+      "download_count": 35735
+    },
+    {
+      "id": 10106,
+      "title": "Gece Sesleri",
+      "authors": [
+        {
+          "name": "Ayşe Kulin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_gece_sesleri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_gece_sesleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_gece_sesleri.epub"
+      },
+      "download_count": 35742
+    },
+    {
+      "id": 10107,
+      "title": "Geniş Zamanlar",
+      "authors": [
+        {
+          "name": "Ayşe Kulin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_genis_zamanlar.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_genis_zamanlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_genis_zamanlar.epub"
+      },
+      "download_count": 35749
+    },
+    {
+      "id": 10108,
+      "title": "Kardelenler",
+      "authors": [
+        {
+          "name": "Ayşe Kulin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_kardelenler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_kardelenler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_kardelenler.epub"
+      },
+      "download_count": 35756
+    },
+    {
+      "id": 10109,
+      "title": "Köprü",
+      "authors": [
+        {
+          "name": "Ayşe Kulin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_kopru.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_kopru.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_kopru.epub"
+      },
+      "download_count": 35763
+    },
+    {
+      "id": 10110,
+      "title": "Nefes Nefese",
+      "authors": [
+        {
+          "name": "Ayşe Kulin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_nefes_nefese.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_nefes_nefese.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_nefes_nefese.epub"
+      },
+      "download_count": 35770
+    },
+    {
+      "id": 10111,
+      "title": "Sevdalinka",
+      "authors": [
+        {
+          "name": "Ayşe Kulin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_sevdalinka.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_sevdalinka.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_sevdalinka.epub"
+      },
+      "download_count": 35777
+    },
+    {
+      "id": 10112,
+      "title": "Bir",
+      "authors": [
+        {
+          "name": "Ayşehan Demirtaş",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aysehan_demirtas_bir.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aysehan_demirtas_bir.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aysehan_demirtas_bir.epub"
+      },
+      "download_count": 35784
+    },
+    {
+      "id": 10113,
+      "title": "Borclu Olduklarimiz",
+      "authors": [
+        {
+          "name": "Aziz Nesin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Mizah",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Mizah"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_borclu_olduklarimiz.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_borclu_olduklarimiz.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_borclu_olduklarimiz.epub"
+      },
+      "download_count": 35791
+    },
+    {
+      "id": 10114,
+      "title": "Borçlu Olduklarimiz",
+      "authors": [
+        {
+          "name": "Aziz Nesin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Mizah",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Mizah"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_borclu_olduklarimiz.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_borclu_olduklarimiz.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_borclu_olduklarimiz.epub"
+      },
+      "download_count": 35798
+    },
+    {
+      "id": 10115,
+      "title": "Damda Deli Var",
+      "authors": [
+        {
+          "name": "Aziz Nesin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Mizah",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Mizah"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_damda_deli_var.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_damda_deli_var.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_damda_deli_var.epub"
+      },
+      "download_count": 35805
+    },
+    {
+      "id": 10116,
+      "title": "Memleketin Birinde",
+      "authors": [
+        {
+          "name": "Aziz Nesin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Mizah",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Mizah"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_memleketin_birinde.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_memleketin_birinde.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_memleketin_birinde.epub"
+      },
+      "download_count": 35812
+    },
+    {
+      "id": 10117,
+      "title": "Sizin Memlekette Eşek Yok Mu",
+      "authors": [
+        {
+          "name": "Aziz Nesin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Mizah",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Mizah"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_sizin_memlekette_esek_yok_mu.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_sizin_memlekette_esek_yok_mu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_sizin_memlekette_esek_yok_mu.epub"
+      },
+      "download_count": 35819
+    },
+    {
+      "id": 10118,
+      "title": "Tatlı Betüş",
+      "authors": [
+        {
+          "name": "Aziz Nesin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Mizah",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Mizah"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_tatli_betus.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_tatli_betus.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_tatli_betus.epub"
+      },
+      "download_count": 35826
+    },
+    {
+      "id": 10119,
+      "title": "Şimdiki Çocuklar Harika",
+      "authors": [
+        {
+          "name": "Aziz Nesin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Mizah",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Mizah"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_simdiki_cocuklar_harika.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_simdiki_cocuklar_harika.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_simdiki_cocuklar_harika.epub"
+      },
+      "download_count": 35833
+    },
+    {
+      "id": 10120,
+      "title": "Mitoloji Sözlüğü",
+      "authors": [
+        {
+          "name": "Azra Erhat",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/azra_erhat_mitoloji_sozlugu.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/azra_erhat_mitoloji_sozlugu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/azra_erhat_mitoloji_sozlugu.epub"
+      },
+      "download_count": 35840
+    },
+    {
+      "id": 10121,
+      "title": "Sevgili Salak",
+      "authors": [
+        {
+          "name": "Aşkın Güngör",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat",
+        "Tam Metin"
+      ],
+      "bookshelves": [
+        "Türkçe Kitaplar",
+        "Roman & Edebiyat"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/askin_gungor_sevgili_salak.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/askin_gungor_sevgili_salak.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/askin_gungor_sevgili_salak.epub"
+      },
+      "download_count": 35847
     }
   ]
 }
