@@ -1,5 +1,5 @@
 {
-  "count": 25,
+  "count": 28,
   "next": null,
   "previous": null,
   "results": [
@@ -16,12 +16,13 @@
       "translators": [],
       "subjects": [
         "Türk Edebiyatı",
-        "Roman",
-        "Aşk"
+        "Psikolojik Roman",
+        "Aşk",
+        "Modern Klasikler"
       ],
       "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
       ],
       "languages": [
         "tr"
@@ -31,12 +32,9 @@
       "formats": {
         "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kurk_mantolu_madonna.epub",
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kurk_mantolu_madonna.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kurk_mantolu_madonna.epub"
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kurk_mantolu_madonna.epub"
       },
-      "download_count": 9200,
-      "summaries": [
-        "Sabahattin Ali'nin 1943 yılında yayımlanan, yalnızlık, aşk ve yabancılaşma temalarını işleyen başyapıtı. Raif Efendi ile Maria Puder arasındaki unutulmaz aşkı konu alır."
-      ]
+      "download_count": 85420
     },
     {
       "id": 10002,
@@ -51,12 +49,11 @@
       "translators": [],
       "subjects": [
         "Türk Edebiyatı",
-        "Roman",
-        "Dram"
+        "Toplumcu Gerçekçilik",
+        "Roman"
       ],
       "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
+        "Türk Klasikleri"
       ],
       "languages": [
         "tr"
@@ -66,12 +63,9 @@
       "formats": {
         "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kuyucakli_yusuf.epub",
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kuyucakli_yusuf.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kuyucakli_yusuf.epub"
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kuyucakli_yusuf.epub"
       },
-      "download_count": 8880,
-      "summaries": [
-        "Anadolu kasaba hayatının çürümüş düzenini, bir köylü çocuğunun mertliğini ve haksızlığa karşı isyanını anlatan Türk edebiyatının en güçlü klasiklerinden biri."
-      ]
+      "download_count": 64300
     },
     {
       "id": 10003,
@@ -86,12 +80,11 @@
       "translators": [],
       "subjects": [
         "Türk Edebiyatı",
-        "Roman",
-        "Psikolojik"
+        "Felsefe",
+        "Toplumsal Eleştiri"
       ],
       "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
+        "Türk Klasikleri"
       ],
       "languages": [
         "tr"
@@ -101,15 +94,137 @@
       "formats": {
         "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/icimizdeki_seytan.epub",
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/icimizdeki_seytan.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/icimizdeki_seytan.epub"
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/icimizdeki_seytan.epub"
       },
-      "download_count": 8560,
-      "summaries": [
-        "İnsanın kendi iradesizliğini ve zaaflarını 'içimizdeki şeytan' bahanesine sığınarak açıklamaya çalışmasını irdeleyen sarsıcı bir aydın eleştirisi."
-      ]
+      "download_count": 58900
     },
     {
       "id": 10004,
+      "title": "Değirmen",
+      "authors": [
+        {
+          "name": "Sabahattin Ali",
+          "birth_year": 1907,
+          "death_year": 1948
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Öykü"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/degirmen.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/degirmen.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/degirmen.epub"
+      },
+      "download_count": 31200
+    },
+    {
+      "id": 10005,
+      "title": "Sırça Köşk",
+      "authors": [
+        {
+          "name": "Sabahattin Ali",
+          "birth_year": 1907,
+          "death_year": 1948
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Hiciv",
+        "Öykü"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sirca_kosk.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sirca_kosk.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sirca_kosk.epub"
+      },
+      "download_count": 29800
+    },
+    {
+      "id": 10006,
+      "title": "Bütün Şiirleri",
+      "authors": [
+        {
+          "name": "Sabahattin Ali",
+          "birth_year": 1907,
+          "death_year": 1948
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Şiir"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "Şiir"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sabahattin_ali_siirler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sabahattin_ali_siirler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sabahattin_ali_siirler.epub"
+      },
+      "download_count": 24500
+    },
+    {
+      "id": 10007,
+      "title": "Bütün Hikâyeleri (Büyük Seçki)",
+      "authors": [
+        {
+          "name": "Ömer Seyfettin",
+          "birth_year": 1884,
+          "death_year": 1920
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Tarihi Öykü",
+        "Milli Edebiyat",
+        "Klasik Hikayeler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "Öykü"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/omer_seyfettin_butun_hikayeleri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/omer_seyfettin_butun_hikayeleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/omer_seyfettin_butun_hikayeleri.epub"
+      },
+      "download_count": 78900
+    },
+    {
+      "id": 10008,
       "title": "Kaşağı",
       "authors": [
         {
@@ -121,12 +236,12 @@
       "translators": [],
       "subjects": [
         "Türk Edebiyatı",
-        "Öykü",
-        "Çocuk"
+        "Çocukluk",
+        "Öykü"
       ],
       "bookshelves": [
-        "Category: Children",
-        "Category: Classics"
+        "Türk Klasikleri",
+        "Öykü"
       ],
       "languages": [
         "tr"
@@ -136,15 +251,12 @@
       "formats": {
         "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kasagi.epub",
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kasagi.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kasagi.epub"
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kasagi.epub"
       },
-      "download_count": 8240,
-      "summaries": [
-        "Vicdan azabı ve dürüstlük temalarını çocukluk anıları üzerinden unutulmaz bir duyguyla anlatan Ömer Seyfettin klasiği."
-      ]
+      "download_count": 51200
     },
     {
-      "id": 10005,
+      "id": 10009,
       "title": "Diyet",
       "authors": [
         {
@@ -156,12 +268,12 @@
       "translators": [],
       "subjects": [
         "Türk Edebiyatı",
-        "Öykü",
-        "Tarih"
+        "Fedakarlık",
+        "Öykü"
       ],
       "bookshelves": [
-        "Category: History",
-        "Category: Classics"
+        "Türk Klasikleri",
+        "Öykü"
       ],
       "languages": [
         "tr"
@@ -171,15 +283,43 @@
       "formats": {
         "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/diyet.epub",
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/diyet.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/diyet.epub"
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/diyet.epub"
       },
-      "download_count": 7920,
-      "summaries": [
-        "Onur ve gururun bedelini anlatan sarsıcı bir hikaye. Koca Ali'nin minnet altında kalmaktansa ödediği ağır diyetin öyküsü."
-      ]
+      "download_count": 42100
     },
     {
-      "id": 10006,
+      "id": 10010,
+      "title": "Falaka",
+      "authors": [
+        {
+          "name": "Ömer Seyfettin",
+          "birth_year": 1884,
+          "death_year": 1920
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Öykü"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "Öykü"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/falaka.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/falaka.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/falaka.epub"
+      },
+      "download_count": 39500
+    },
+    {
+      "id": 10011,
       "title": "Dönüşüm",
       "authors": [
         {
@@ -192,11 +332,12 @@
       "subjects": [
         "Dünya Edebiyatı",
         "Modern Klasik",
-        "Felsefe"
+        "Absürd",
+        "Yabancılaşma"
       ],
       "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
+        "Dünya Klasikleri",
+        "Modern Klasikler"
       ],
       "languages": [
         "tr"
@@ -206,225 +347,12 @@
       "formats": {
         "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/donusum.epub",
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/donusum.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/donusum.epub"
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/donusum.epub"
       },
-      "download_count": 7600,
-      "summaries": [
-        "Gregor Samsa'nın bir sabah dev bir böceğe dönüşmesiyle başlayan, modern toplumun yabancılaşma ve aile dinamiklerini derinlemesine eleştiren 20. yüzyılın en büyük başyapıtı."
-      ]
-    },
-    {
-      "id": 10007,
-      "title": "Satranç",
-      "authors": [
-        {
-          "name": "Stefan Zweig",
-          "birth_year": 1881,
-          "death_year": 1942
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Psikolojik",
-        "Novella"
-      ],
-      "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/satranc.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/satranc.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/satranc.epub"
-      },
-      "download_count": 7280,
-      "summaries": [
-        "Nazi baskısı altında bir otel odasında tecrit edilen bir adamın, satranç kitabıyla zihninde kurduğu dünyayı ve insan psikolojisinin sınırlarını anlatan olağanüstü bir eser."
-      ]
-    },
-    {
-      "id": 10008,
-      "title": "Beyaz Geceler",
-      "authors": [
-        {
-          "name": "Fyodor Dostoyevski",
-          "birth_year": 1821,
-          "death_year": 1881
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Roman",
-        "Romantik"
-      ],
-      "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/beyaz_geceler.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/beyaz_geceler.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/beyaz_geceler.epub"
-      },
-      "download_count": 6960,
-      "summaries": [
-        "Petersburg'un aydınlık yaz gecelerinde yalnız bir hayalperest ile kalbi kırık bir genç kızın dört gecelik masalsı karşılaşması ve karşılıksız sevginin hüznü."
-      ]
-    },
-    {
-      "id": 10009,
-      "title": "İnsan Ne İle Yaşar?",
-      "authors": [
-        {
-          "name": "Lev Tolstoy",
-          "birth_year": 1828,
-          "death_year": 1910
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Felsefe",
-        "Ahlak"
-      ],
-      "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/insan_ne_ile_yasar.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/insan_ne_ile_yasar.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/insan_ne_ile_yasar.epub"
-      },
-      "download_count": 6640,
-      "summaries": [
-        "Tolstoy'un sevgi, merhamet ve insan doğası üzerine kaleme aldığı, dünya edebiyatının en çok okunan ve ders veren hikayelerinden biri."
-      ]
-    },
-    {
-      "id": 10010,
-      "title": "Küçük Prens",
-      "authors": [
-        {
-          "name": "Antoine de Saint-Exupéry",
-          "birth_year": 1900,
-          "death_year": 1944
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Felsefe",
-        "Masal"
-      ],
-      "bookshelves": [
-        "Category: Children",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kucuk_prens.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kucuk_prens.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kucuk_prens.epub"
-      },
-      "download_count": 6320,
-      "summaries": [
-        "Bir pilotun Sahra Çölü'nde karşılaştığı küçük prens aracılığıyla büyüklere sevgi, dostluk ve hayatın gerçek değerlerini hatırlatan zamansız bir eser."
-      ]
-    },
-    {
-      "id": 10011,
-      "title": "Suç ve Ceza",
-      "authors": [
-        {
-          "name": "Fyodor Dostoyevski",
-          "birth_year": 1821,
-          "death_year": 1881
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Psikolojik Roman",
-        "Klasik"
-      ],
-      "bookshelves": [
-        "Category: Crime",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/suc_ve_ceza.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/suc_ve_ceza.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/suc_ve_ceza.epub"
-      },
-      "download_count": 6000,
-      "summaries": [
-        "Yoksul öğrenci Raskolnikov'un tefeci kadını öldürmesi ve ardından vicdanıyla, toplumla ve hukukla giriştiği psikolojik hesaplaşmanın ölümsüz başyapıtı."
-      ]
+      "download_count": 92100
     },
     {
       "id": 10012,
-      "title": "Kumarbaz",
-      "authors": [
-        {
-          "name": "Fyodor Dostoyevski",
-          "birth_year": 1821,
-          "death_year": 1881
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Roman",
-        "Psikolojik"
-      ],
-      "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kumarbaz.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kumarbaz.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kumarbaz.epub"
-      },
-      "download_count": 5680,
-      "summaries": [
-        "Rulet masasındaki tutkunun, hırsın ve imkansız bir aşkın insan ruhunu nasıl esir aldığını anlatan sürükleyici bir Dostoyevski klasiği."
-      ]
-    },
-    {
-      "id": 10013,
       "title": "Dava",
       "authors": [
         {
@@ -437,11 +365,11 @@
       "subjects": [
         "Dünya Edebiyatı",
         "Hukuk",
+        "Distopya",
         "Felsefe"
       ],
       "bookshelves": [
-        "Category: Law",
-        "Category: Classics"
+        "Dünya Klasikleri"
       ],
       "languages": [
         "tr"
@@ -451,191 +379,46 @@
       "formats": {
         "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dava.epub",
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/dava.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dava.epub"
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dava.epub"
       },
-      "download_count": 5360,
-      "summaries": [
-        "Josef K.'nın bir sabah hiçbir suç işlemediği halde tutuklanmasıyla başlayan, bürokrasinin ve adaletsizliğin karanlık labirentlerinde geçen bir başyapıt."
-      ]
+      "download_count": 68400
+    },
+    {
+      "id": 10013,
+      "title": "Satranç",
+      "authors": [
+        {
+          "name": "Stefan Zweig",
+          "birth_year": 1881,
+          "death_year": 1942
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Edebiyatı",
+        "Psikolojik Gerilim",
+        "Satranç",
+        "Modern Klasik"
+      ],
+      "bookshelves": [
+        "Dünya Klasikleri",
+        "Modern Klasikler"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/satranc.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/satranc.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/satranc.epub"
+      },
+      "download_count": 88300
     },
     {
       "id": 10014,
-      "title": "Beyaz Diş",
-      "authors": [
-        {
-          "name": "Jack London",
-          "birth_year": 1876,
-          "death_year": 1916
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Macera",
-        "Hayvanlar"
-      ],
-      "bookshelves": [
-        "Category: Animals",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/beyaz_dis.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/beyaz_dis.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/beyaz_dis.epub"
-      },
-      "download_count": 5040,
-      "summaries": [
-        "Kuzeyin vahşi doğasında doğan bir kurt kırmasının, insanların acımasız dünyasından sevgi dolu bir dostluğa uzanan destansı yaşam mücadelesi."
-      ]
-    },
-    {
-      "id": 10015,
-      "title": "Vahşetin Çağrısı",
-      "authors": [
-        {
-          "name": "Jack London",
-          "birth_year": 1876,
-          "death_year": 1916
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Macera",
-        "Hayvanlar"
-      ],
-      "bookshelves": [
-        "Category: Animals",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/vahsetin_cagrisi.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/vahsetin_cagrisi.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/vahsetin_cagrisi.epub"
-      },
-      "download_count": 4720,
-      "summaries": [
-        "Medeni bir çiftlik köpeği olan Buck'ın kaçırılarak Klondike altın hücumunun vahşi şartlarına sürüklenişi ve atalarının vahşi doğasına dönüşü."
-      ]
-    },
-    {
-      "id": 10016,
-      "title": "Bir Delinin Hatıra Defteri",
-      "authors": [
-        {
-          "name": "Nikolay Gogol",
-          "birth_year": 1809,
-          "death_year": 1852
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Psikolojik",
-        "Klasik"
-      ],
-      "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bir_delinin_hatira_defteri.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bir_delinin_hatira_defteri.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bir_delinin_hatira_defteri.epub"
-      },
-      "download_count": 4400,
-      "summaries": [
-        "Aşağılanan küçük bir devlet memurunun yalnızlık, gurur ve imkansız aşk karşısında akıl sağlığını kaybederek İspanya Kralı olduğuna inanışının trajikomik hikayesi."
-      ]
-    },
-    {
-      "id": 10017,
-      "title": "Aşk-ı Memnu",
-      "authors": [
-        {
-          "name": "Halit Ziya Uşaklıgil",
-          "birth_year": 1866,
-          "death_year": 1945
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Türk Edebiyatı",
-        "Roman",
-        "Dram"
-      ],
-      "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ask_i_memnu.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ask_i_memnu.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ask_i_memnu.epub"
-      },
-      "download_count": 4080,
-      "summaries": [
-        "Türk edebiyatında batılı anlamda ilk büyük roman kabul edilen, Boğaziçi yalısında geçen yasak bir aşkın ve çöken bir ailenin trajedisi."
-      ]
-    },
-    {
-      "id": 10018,
-      "title": "Eylül",
-      "authors": [
-        {
-          "name": "Mehmet Rauf",
-          "birth_year": 1875,
-          "death_year": 1931
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Türk Edebiyatı",
-        "Psikolojik Roman",
-        "Dram"
-      ],
-      "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/eylul.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/eylul.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/eylul.epub"
-      },
-      "download_count": 3760,
-      "summaries": [
-        "Türk edebiyatının ilk psikolojik romanı. Necip, Suat ve Süreyya arasındaki platonik aşkın, fedakarlığın ve sonbahar hüznünün iç içe geçtiği klasik."
-      ]
-    },
-    {
-      "id": 10019,
-      "title": "Bilinmeyen Bir Kadının Mektubu",
+      "title": "Bir Kadının Yaşamından 24 Saat & Bir Yüreğin Ölümü",
       "authors": [
         {
           "name": "Stefan Zweig",
@@ -646,82 +429,11 @@
       "translators": [],
       "subjects": [
         "Dünya Edebiyatı",
-        "Novella",
-        "Romantik"
-      ],
-      "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bilinmeyen_bir_kadinin_mektubu.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bilinmeyen_bir_kadinin_mektubu.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bilinmeyen_bir_kadinin_mektubu.epub"
-      },
-      "download_count": 3440,
-      "summaries": [
-        "Ünlü bir yazarın doğum gününde aldığı imzasız uzun mektup: Bir kadının tüm ömrü boyunca gizlice beslediği karşılıksız ve tüketici aşkın itirafı."
-      ]
-    },
-    {
-      "id": 10020,
-      "title": "Palto",
-      "authors": [
-        {
-          "name": "Nikolay Gogol",
-          "birth_year": 1809,
-          "death_year": 1852
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Klasik",
-        "Hiciv"
-      ],
-      "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "copyright": false,
-      "media_type": "Text",
-      "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/palto.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/palto.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/palto.epub"
-      },
-      "download_count": 3120,
-      "summaries": [
-        "Dostoyevski'nin 'Hepimiz Gogol'ün Palto'sundan çıktık' dediği, küçük bir memurun hayat mücadelesini ve hüzünlü sonunu anlatan unutulmaz başyapıt."
-      ]
-    },
-    {
-      "id": 10021,
-      "title": "Olağanüstü Bir Gece",
-      "authors": [
-        {
-          "name": "Stefan Zweig",
-          "birth_year": 1881,
-          "death_year": 1942
-        }
-      ],
-      "translators": [],
-      "subjects": [
-        "Dünya Edebiyatı",
-        "Psikolojik",
+        "Psikoloji",
         "Novella"
       ],
       "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
+        "Dünya Klasikleri"
       ],
       "languages": [
         "tr"
@@ -729,34 +441,31 @@
       "copyright": false,
       "media_type": "Text",
       "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/olaganustu_bir_gece.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/olaganustu_bir_gece.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/olaganustu_bir_gece.epub"
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bir_kadinin_yasamindan_24_saat.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bir_kadinin_yasamindan_24_saat.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bir_kadinin_yasamindan_24_saat.epub"
       },
-      "download_count": 2800,
-      "summaries": [
-        "Viyana sosyetesinde zevk ve kayıtsızlık içinde yaşayan bir soylunun, bir pazar gecesi at yarışlarında işlediği küçük bir suçla başlayan içsel uyanışı."
-      ]
+      "download_count": 45600
     },
     {
-      "id": 10022,
-      "title": "Değirmen",
+      "id": 10015,
+      "title": "Montaigne",
       "authors": [
         {
-          "name": "Sabahattin Ali",
-          "birth_year": 1907,
-          "death_year": 1948
+          "name": "Stefan Zweig",
+          "birth_year": 1881,
+          "death_year": 1942
         }
       ],
       "translators": [],
       "subjects": [
-        "Türk Edebiyatı",
-        "Öykü",
-        "Dram"
+        "Biyografi",
+        "Felsefe",
+        "Dünya Edebiyatı"
       ],
       "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
+        "Biyografi",
+        "Felsefe"
       ],
       "languages": [
         "tr"
@@ -764,34 +473,31 @@
       "copyright": false,
       "media_type": "Text",
       "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/degirmen.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/degirmen.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/degirmen.epub"
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/montaigne.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/montaigne.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/montaigne.epub"
       },
-      "download_count": 2480,
-      "summaries": [
-        "Sabahattin Ali'nin ilk öykü kitabı. Bir çingene kızına duyulan tutkunun değirmen çarkında bedenini feda etmeye varan sarsıcı fedakarlığı."
-      ]
+      "download_count": 27800
     },
     {
-      "id": 10023,
-      "title": "Sırça Köşk",
+      "id": 10016,
+      "title": "Rotterdamlı Erasmus - Zaferi ve Trajedisi",
       "authors": [
         {
-          "name": "Sabahattin Ali",
-          "birth_year": 1907,
-          "death_year": 1948
+          "name": "Stefan Zweig",
+          "birth_year": 1881,
+          "death_year": 1942
         }
       ],
       "translators": [],
       "subjects": [
-        "Türk Edebiyatı",
-        "Öykü",
-        "Hiciv"
+        "Tarih",
+        "Biyografi",
+        "Hümanizm"
       ],
       "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
+        "Biyografi",
+        "Tarih"
       ],
       "languages": [
         "tr"
@@ -799,34 +505,32 @@
       "copyright": false,
       "media_type": "Text",
       "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sirca_kosk.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sirca_kosk.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sirca_kosk.epub"
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rotterdamli_erasmus.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/rotterdamli_erasmus.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rotterdamli_erasmus.epub"
       },
-      "download_count": 2160,
-      "summaries": [
-        "Toplumsal adaletsizlikleri ve halkın emeğini sömüren düzenleri masalsı ve hiciv dolu bir dille eleştiren unutulmaz öyküler derlemesi."
-      ]
+      "download_count": 23400
     },
     {
-      "id": 10024,
-      "title": "Falaka",
+      "id": 10017,
+      "title": "Suç ve Ceza",
       "authors": [
         {
-          "name": "Ömer Seyfettin",
-          "birth_year": 1884,
-          "death_year": 1920
+          "name": "Fyodor Dostoyevski",
+          "birth_year": 1821,
+          "death_year": 1881
         }
       ],
       "translators": [],
       "subjects": [
-        "Türk Edebiyatı",
-        "Öykü",
-        "Çocuk"
+        "Dünya Edebiyatı",
+        "Rus Edebiyatı",
+        "Psikolojik Roman",
+        "Vicdan"
       ],
       "bookshelves": [
-        "Category: Children",
-        "Category: Classics"
+        "Dünya Klasikleri",
+        "En Çok Okunanlar"
       ],
       "languages": [
         "tr"
@@ -834,18 +538,15 @@
       "copyright": false,
       "media_type": "Text",
       "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/falaka.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/falaka.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/falaka.epub"
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/suc_ve_ceza.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/suc_ve_ceza.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/suc_ve_ceza.epub"
       },
-      "download_count": 1840,
-      "summaries": [
-        "Eski mahalle mekteplerindeki eğitimi, hoca korkusunu ve çocukların masum yaramazlıklarını gülümseten bir dille anlatan klasik öykü."
-      ]
+      "download_count": 115000
     },
     {
-      "id": 10025,
-      "title": "İvan İlyiç'in Ölümü",
+      "id": 10018,
+      "title": "İnsan Ne İle Yaşar?",
       "authors": [
         {
           "name": "Lev Tolstoy",
@@ -856,12 +557,13 @@
       "translators": [],
       "subjects": [
         "Dünya Edebiyatı",
+        "Ahlak",
         "Felsefe",
-        "Klasik"
+        "Rus Edebiyatı"
       ],
       "bookshelves": [
-        "Category: Fiction",
-        "Category: Classics"
+        "Dünya Klasikleri",
+        "Felsefe"
       ],
       "languages": [
         "tr"
@@ -869,14 +571,339 @@
       "copyright": false,
       "media_type": "Text",
       "formats": {
-        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ivan_ilyicin_olumu.epub",
-        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ivan_ilyicin_olumu.jpg",
-        "text/html": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ivan_ilyicin_olumu.epub"
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/insan_ne_ile_yasar.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/insan_ne_ile_yasar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/insan_ne_ile_yasar.epub"
       },
-      "download_count": 1520,
-      "summaries": [
-        "Saygın bir yargıcın ölümcül hastalığı karşısında sahte başarılarla dolu geçmişini sorgulamasını anlatan, edebiyat tarihinin en derin ölüm ve yaşam çözümlemesi."
-      ]
+      "download_count": 96700
+    },
+    {
+      "id": 10019,
+      "title": "Küçük Prens",
+      "authors": [
+        {
+          "name": "Antoine de Saint-Exupéry",
+          "birth_year": 1900,
+          "death_year": 1944
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Edebiyatı",
+        "Felsefe",
+        "Masal",
+        "Dostluk"
+      ],
+      "bookshelves": [
+        "Dünya Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kucuk_prens.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kucuk_prens.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kucuk_prens.epub"
+      },
+      "download_count": 128000
+    },
+    {
+      "id": 10020,
+      "title": "Martin Eden",
+      "authors": [
+        {
+          "name": "Jack London",
+          "birth_year": 1876,
+          "death_year": 1916
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Edebiyatı",
+        "Amerikan Edebiyatı",
+        "Yazar Olmak",
+        "Sosyalizm"
+      ],
+      "bookshelves": [
+        "Dünya Klasikleri",
+        "Macera"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/martin_eden.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/martin_eden.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/martin_eden.epub"
+      },
+      "download_count": 76500
+    },
+    {
+      "id": 10021,
+      "title": "Denizin Çağrısı",
+      "authors": [
+        {
+          "name": "Jack London",
+          "birth_year": 1876,
+          "death_year": 1916
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Edebiyatı",
+        "Macera",
+        "Denizcilik"
+      ],
+      "bookshelves": [
+        "Macera",
+        "Dünya Klasikleri"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/denizin_cagrisi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/denizin_cagrisi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/denizin_cagrisi.epub"
+      },
+      "download_count": 34200
+    },
+    {
+      "id": 10022,
+      "title": "Hamlet",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Tiyatro",
+        "Tragedya",
+        "Dünya Edebiyatı",
+        "İntikam"
+      ],
+      "bookshelves": [
+        "Tiyatro",
+        "Dünya Klasikleri"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hamlet.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/hamlet.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hamlet.epub"
+      },
+      "download_count": 84100
+    },
+    {
+      "id": 10023,
+      "title": "Macbeth",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Tiyatro",
+        "Tragedya",
+        "İktidar",
+        "Kader"
+      ],
+      "bookshelves": [
+        "Tiyatro",
+        "Dünya Klasikleri"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/macbeth.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/macbeth.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/macbeth.epub"
+      },
+      "download_count": 52300
+    },
+    {
+      "id": 10024,
+      "title": "Kral Lear",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Tiyatro",
+        "Tragedya",
+        "Aile",
+        "İhanet"
+      ],
+      "bookshelves": [
+        "Tiyatro",
+        "Dünya Klasikleri"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kral_lear.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kral_lear.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kral_lear.epub"
+      },
+      "download_count": 41800
+    },
+    {
+      "id": 10025,
+      "title": "Othello",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Tiyatro",
+        "Tragedya",
+        "Kıskançlık",
+        "Aşk"
+      ],
+      "bookshelves": [
+        "Tiyatro",
+        "Dünya Klasikleri"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/othello.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/othello.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/othello.epub"
+      },
+      "download_count": 47900
+    },
+    {
+      "id": 10026,
+      "title": "Aylak Adam",
+      "authors": [
+        {
+          "name": "Yusuf Atılgan",
+          "birth_year": 1921,
+          "death_year": 1989
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Modern Türk Romanı",
+        "Yabancılaşma",
+        "Birey"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "Modern Klasikler"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aylak_adam.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aylak_adam.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aylak_adam.epub"
+      },
+      "download_count": 69200
+    },
+    {
+      "id": 10027,
+      "title": "Anayurt Oteli",
+      "authors": [
+        {
+          "name": "Yusuf Atılgan",
+          "birth_year": 1921,
+          "death_year": 1989
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Psikolojik Roman",
+        "Yalnızlık"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "Modern Klasikler"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anayurt_oteli.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anayurt_oteli.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anayurt_oteli.epub"
+      },
+      "download_count": 63400
+    },
+    {
+      "id": 10028,
+      "title": "Tersi ve Yüzü",
+      "authors": [
+        {
+          "name": "Albert Camus",
+          "birth_year": 1913,
+          "death_year": 1960
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Edebiyatı",
+        "Varoluşçuluk",
+        "Deneme",
+        "Felsefe"
+      ],
+      "bookshelves": [
+        "Dünya Klasikleri",
+        "Felsefe"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tersi_yuzu.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tersi_yuzu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tersi_yuzu.epub"
+      },
+      "download_count": 51900
     }
   ]
 }
