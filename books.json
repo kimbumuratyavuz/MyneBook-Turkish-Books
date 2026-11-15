@@ -34,7 +34,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kurk_mantolu_madonna.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kurk_mantolu_madonna.epub"
       },
-      "download_count": 85420
+      "download_count": 85420,
+      "summaries": []
     },
     {
       "id": 10002,
@@ -65,7 +66,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kuyucakli_yusuf.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kuyucakli_yusuf.epub"
       },
-      "download_count": 64300
+      "download_count": 64300,
+      "summaries": []
     },
     {
       "id": 10003,
@@ -96,7 +98,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/icimizdeki_seytan.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/icimizdeki_seytan.epub"
       },
-      "download_count": 58900
+      "download_count": 58900,
+      "summaries": []
     },
     {
       "id": 10004,
@@ -126,7 +129,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/degirmen.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/degirmen.epub"
       },
-      "download_count": 31200
+      "download_count": 31200,
+      "summaries": []
     },
     {
       "id": 10005,
@@ -157,7 +161,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sirca_kosk.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sirca_kosk.epub"
       },
-      "download_count": 29800
+      "download_count": 29800,
+      "summaries": []
     },
     {
       "id": 10006,
@@ -188,7 +193,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sabahattin_ali_siirler.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sabahattin_ali_siirler.epub"
       },
-      "download_count": 24500
+      "download_count": 24500,
+      "summaries": []
     },
     {
       "id": 10007,
@@ -221,7 +227,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/omer_seyfettin_butun_hikayeleri.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/omer_seyfettin_butun_hikayeleri.epub"
       },
-      "download_count": 78900
+      "download_count": 78900,
+      "summaries": []
     },
     {
       "id": 10008,
@@ -253,7 +260,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kasagi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kasagi.epub"
       },
-      "download_count": 51200
+      "download_count": 51200,
+      "summaries": []
     },
     {
       "id": 10009,
@@ -285,7 +293,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/diyet.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/diyet.epub"
       },
-      "download_count": 42100
+      "download_count": 42100,
+      "summaries": []
     },
     {
       "id": 10010,
@@ -316,7 +325,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/falaka.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/falaka.epub"
       },
-      "download_count": 39500
+      "download_count": 39500,
+      "summaries": []
     },
     {
       "id": 10011,
@@ -349,7 +359,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/donusum.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/donusum.epub"
       },
-      "download_count": 92100
+      "download_count": 92100,
+      "summaries": []
     },
     {
       "id": 10012,
@@ -381,7 +392,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/dava.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dava.epub"
       },
-      "download_count": 68400
+      "download_count": 68400,
+      "summaries": []
     },
     {
       "id": 10013,
@@ -414,7 +426,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/satranc.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/satranc.epub"
       },
-      "download_count": 88300
+      "download_count": 88300,
+      "summaries": []
     },
     {
       "id": 10014,
@@ -445,7 +458,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bir_kadinin_yasamindan_24_saat.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bir_kadinin_yasamindan_24_saat.epub"
       },
-      "download_count": 45600
+      "download_count": 45600,
+      "summaries": []
     },
     {
       "id": 10015,
@@ -477,7 +491,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/montaigne.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/montaigne.epub"
       },
-      "download_count": 27800
+      "download_count": 27800,
+      "summaries": []
     },
     {
       "id": 10016,
@@ -509,7 +524,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/rotterdamli_erasmus.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rotterdamli_erasmus.epub"
       },
-      "download_count": 23400
+      "download_count": 23400,
+      "summaries": []
     },
     {
       "id": 10017,
@@ -542,7 +558,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/suc_ve_ceza.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/suc_ve_ceza.epub"
       },
-      "download_count": 115000
+      "download_count": 115000,
+      "summaries": []
     },
     {
       "id": 10018,
@@ -575,7 +592,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/insan_ne_ile_yasar.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/insan_ne_ile_yasar.epub"
       },
-      "download_count": 96700
+      "download_count": 96700,
+      "summaries": []
     },
     {
       "id": 10019,
@@ -608,7 +626,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kucuk_prens.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kucuk_prens.epub"
       },
-      "download_count": 128000
+      "download_count": 128000,
+      "summaries": []
     },
     {
       "id": 10020,
@@ -641,7 +660,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/martin_eden.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/martin_eden.epub"
       },
-      "download_count": 76500
+      "download_count": 76500,
+      "summaries": []
     },
     {
       "id": 10021,
@@ -673,7 +693,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/denizin_cagrisi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/denizin_cagrisi.epub"
       },
-      "download_count": 34200
+      "download_count": 34200,
+      "summaries": []
     },
     {
       "id": 10022,
@@ -706,7 +727,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/hamlet.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hamlet.epub"
       },
-      "download_count": 84100
+      "download_count": 84100,
+      "summaries": []
     },
     {
       "id": 10023,
@@ -739,7 +761,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/macbeth.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/macbeth.epub"
       },
-      "download_count": 52300
+      "download_count": 52300,
+      "summaries": []
     },
     {
       "id": 10024,
@@ -772,7 +795,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kral_lear.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kral_lear.epub"
       },
-      "download_count": 41800
+      "download_count": 41800,
+      "summaries": []
     },
     {
       "id": 10025,
@@ -805,7 +829,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/othello.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/othello.epub"
       },
-      "download_count": 47900
+      "download_count": 47900,
+      "summaries": []
     },
     {
       "id": 10026,
@@ -838,7 +863,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aylak_adam.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aylak_adam.epub"
       },
-      "download_count": 69200
+      "download_count": 69200,
+      "summaries": []
     },
     {
       "id": 10027,
@@ -870,7 +896,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anayurt_oteli.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anayurt_oteli.epub"
       },
-      "download_count": 63400
+      "download_count": 63400,
+      "summaries": []
     },
     {
       "id": 10028,
@@ -903,7 +930,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tersi_yuzu.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tersi_yuzu.epub"
       },
-      "download_count": 51900
+      "download_count": 51900,
+      "summaries": []
     },
     {
       "id": 10029,
@@ -935,7 +963,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/akin_gungor_eski_zaman_yamalari.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/akin_gungor_eski_zaman_yamalari.epub"
       },
-      "download_count": 35203
+      "download_count": 35203,
+      "summaries": []
     },
     {
       "id": 10030,
@@ -967,7 +996,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/al_capone_john_kobler.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/al_capone_john_kobler.epub"
       },
-      "download_count": 35210
+      "download_count": 35210,
+      "summaries": []
     },
     {
       "id": 10031,
@@ -999,7 +1029,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alain_touraine_modernligin_elestirisi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alain_touraine_modernligin_elestirisi.epub"
       },
-      "download_count": 35217
+      "download_count": 35217,
+      "summaries": []
     },
     {
       "id": 10032,
@@ -1031,7 +1062,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alan_lightman_einstein_in_dusleri.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alan_lightman_einstein_in_dusleri.epub"
       },
-      "download_count": 35224
+      "download_count": 35224,
+      "summaries": []
     },
     {
       "id": 10033,
@@ -1063,7 +1095,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/albert_camus_veba.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/albert_camus_veba.epub"
       },
-      "download_count": 35231
+      "download_count": 35231,
+      "summaries": []
     },
     {
       "id": 10034,
@@ -1095,7 +1128,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/albert_camus_yabanci.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/albert_camus_yabanci.epub"
       },
-      "download_count": 35238
+      "download_count": 35238,
+      "summaries": []
     },
     {
       "id": 10035,
@@ -1127,7 +1161,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/albert_champdor_oluler_kitabi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/albert_champdor_oluler_kitabi.epub"
       },
-      "download_count": 35245
+      "download_count": 35245,
+      "summaries": []
     },
     {
       "id": 10036,
@@ -1159,7 +1194,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aldous_huxley_cesur_yeni_dunya.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aldous_huxley_cesur_yeni_dunya.epub"
       },
-      "download_count": 35252
+      "download_count": 35252,
+      "summaries": []
     },
     {
       "id": 10037,
@@ -1191,7 +1227,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_ostrovski_bu_hesapta_yoktu.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_ostrovski_bu_hesapta_yoktu.epub"
       },
-      "download_count": 35259
+      "download_count": 35259,
+      "summaries": []
     },
     {
       "id": 10038,
@@ -1223,7 +1260,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_puskin_buyuk_petro_nun_arabi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_buyuk_petro_nun_arabi.epub"
       },
-      "download_count": 35266
+      "download_count": 35266,
+      "summaries": []
     },
     {
       "id": 10039,
@@ -1255,7 +1293,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_puskin_dubrovski.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_dubrovski.epub"
       },
-      "download_count": 35273
+      "download_count": 35273,
+      "summaries": []
     },
     {
       "id": 10040,
@@ -1287,7 +1326,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_puskin_kucuk_tragedyalar.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_kucuk_tragedyalar.epub"
       },
-      "download_count": 35280
+      "download_count": 35280,
+      "summaries": []
     },
     {
       "id": 10041,
@@ -1319,7 +1359,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_puskin_yuzbasinin_kizi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_yuzbasinin_kizi.epub"
       },
-      "download_count": 35287
+      "download_count": 35287,
+      "summaries": []
     },
     {
       "id": 10042,
@@ -1351,7 +1392,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alev_alatli_schrodinger_in_kedisi_kabus.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alev_alatli_schrodinger_in_kedisi_kabus.epub"
       },
-      "download_count": 35294
+      "download_count": 35294,
+      "summaries": []
     },
     {
       "id": 10043,
@@ -1383,7 +1425,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alexandre_dumas_monte_cristo_kontu.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_monte_cristo_kontu.epub"
       },
-      "download_count": 35301
+      "download_count": 35301,
+      "summaries": []
     },
     {
       "id": 10044,
@@ -1415,7 +1458,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alexandre_dumas_uc_silahsorler.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_uc_silahsorler.epub"
       },
-      "download_count": 35308
+      "download_count": 35308,
+      "summaries": []
     },
     {
       "id": 10045,
@@ -1447,7 +1491,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alfred_bester_kaplan_kaplan.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alfred_bester_kaplan_kaplan.epub"
       },
-      "download_count": 35315
+      "download_count": 35315,
+      "summaries": []
     },
     {
       "id": 10046,
@@ -1479,7 +1524,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/algan_sezginturedi_katilin_usagi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/algan_sezginturedi_katilin_usagi.epub"
       },
-      "download_count": 35322
+      "download_count": 35322,
+      "summaries": []
     },
     {
       "id": 10047,
@@ -1511,7 +1557,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ali_karadas_direnisi_nasil_dokuduk.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ali_karadas_direnisi_nasil_dokuduk.epub"
       },
-      "download_count": 35329
+      "download_count": 35329,
+      "summaries": []
     },
     {
       "id": 10048,
@@ -1543,7 +1590,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ali_seriati_dine_karsi_din.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ali_seriati_dine_karsi_din.epub"
       },
-      "download_count": 35336
+      "download_count": 35336,
+      "summaries": []
     },
     {
       "id": 10049,
@@ -1575,7 +1623,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ali_seriati_dinler_tarihi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ali_seriati_dinler_tarihi.epub"
       },
-      "download_count": 35343
+      "download_count": 35343,
+      "summaries": []
     },
     {
       "id": 10050,
@@ -1607,7 +1656,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/allen_carr_sigarayi_birakmanin_kolay_yolu.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/allen_carr_sigarayi_birakmanin_kolay_yolu.epub"
       },
-      "download_count": 35350
+      "download_count": 35350,
+      "summaries": []
     },
     {
       "id": 10051,
@@ -1639,7 +1689,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alphonse_daudet_degirmenimden_mektuplar.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_degirmenimden_mektuplar.epub"
       },
-      "download_count": 35357
+      "download_count": 35357,
+      "summaries": []
     },
     {
       "id": 10052,
@@ -1671,7 +1722,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alphonse_daudet_pazartesi_oykuleri_i.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_pazartesi_oykuleri_i.epub"
       },
-      "download_count": 35364
+      "download_count": 35364,
+      "summaries": []
     },
     {
       "id": 10053,
@@ -1703,7 +1755,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alphonse_daudet_pazartesi_oykuleri_ii.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_pazartesi_oykuleri_ii.epub"
       },
-      "download_count": 35371
+      "download_count": 35371,
+      "summaries": []
     },
     {
       "id": 10054,
@@ -1735,7 +1788,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/amin_maalouf_dogunun_limanlari.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/amin_maalouf_dogunun_limanlari.epub"
       },
-      "download_count": 35378
+      "download_count": 35378,
+      "summaries": []
     },
     {
       "id": 10055,
@@ -1767,7 +1821,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/amin_maalouf_semerkant.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/amin_maalouf_semerkant.epub"
       },
-      "download_count": 35385
+      "download_count": 35385,
+      "summaries": []
     },
     {
       "id": 10056,
@@ -1799,7 +1854,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/amin_maalouf_olumcul_kimlikler.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/amin_maalouf_olumcul_kimlikler.epub"
       },
-      "download_count": 35392
+      "download_count": 35392,
+      "summaries": []
     },
     {
       "id": 10057,
@@ -1831,7 +1887,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_anadolu_medeniyetleri.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_anadolu_medeniyetleri.epub"
       },
-      "download_count": 35399
+      "download_count": 35399,
+      "summaries": []
     },
     {
       "id": 10058,
@@ -1863,7 +1920,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anatole_france_thais.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anatole_france_thais.epub"
       },
-      "download_count": 35406
+      "download_count": 35406,
+      "summaries": []
     },
     {
       "id": 10059,
@@ -1895,7 +1953,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/andersen_secme_masallar_i.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/andersen_secme_masallar_i.epub"
       },
-      "download_count": 35413
+      "download_count": 35413,
+      "summaries": []
     },
     {
       "id": 10060,
@@ -1927,7 +1986,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/andre_breton_nadja.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/andre_breton_nadja.epub"
       },
-      "download_count": 35420
+      "download_count": 35420,
+      "summaries": []
     },
     {
       "id": 10061,
@@ -1959,7 +2019,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/andre_clot_muhtesem_suleyman.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/andre_clot_muhtesem_suleyman.epub"
       },
-      "download_count": 35427
+      "download_count": 35427,
+      "summaries": []
     },
     {
       "id": 10062,
@@ -1991,7 +2052,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ann_chamberlin_safiye_sultan_i_hadim_edilmis_bir_ask.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_safiye_sultan_i_hadim_edilmis_bir_ask.epub"
       },
-      "download_count": 35434
+      "download_count": 35434,
+      "summaries": []
     },
     {
       "id": 10063,
@@ -2023,7 +2085,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ann_chamberlin_safiye_sultan_ii_ya_ipek_urgan_ya_gumus_hance.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_safiye_sultan_ii_ya_ipek_urgan_ya_gumus_hance.epub"
       },
-      "download_count": 35441
+      "download_count": 35441,
+      "summaries": []
     },
     {
       "id": 10064,
@@ -2055,7 +2118,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ann_chamberlin_safiye_sultan_iii_sozum_ki_tek_sana_gecmez_ce.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_safiye_sultan_iii_sozum_ki_tek_sana_gecmez_ce.epub"
       },
-      "download_count": 35448
+      "download_count": 35448,
+      "summaries": []
     },
     {
       "id": 10065,
@@ -2087,7 +2151,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ann_chamberlin_sozum_ki_tek_sana_gecmez_celladimsin_ey_zaman.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ann_chamberlin_sozum_ki_tek_sana_gecmez_celladimsin_ey_zaman.epub"
       },
-      "download_count": 35455
+      "download_count": 35455,
+      "summaries": []
     },
     {
       "id": 10066,
@@ -2119,7 +2184,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anna_seghers_transit.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anna_seghers_transit.epub"
       },
-      "download_count": 35462
+      "download_count": 35462,
+      "summaries": []
     },
     {
       "id": 10067,
@@ -2151,7 +2217,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anne_mccaffrey_ejder_ucusu.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anne_mccaffrey_ejder_ucusu.epub"
       },
-      "download_count": 35469
+      "download_count": 35469,
+      "summaries": []
     },
     {
       "id": 10068,
@@ -2183,7 +2250,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anne_mccaffrey_generation_warriors.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anne_mccaffrey_generation_warriors.epub"
       },
-      "download_count": 35476
+      "download_count": 35476,
+      "summaries": []
     },
     {
       "id": 10069,
@@ -2215,7 +2283,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_bilimkurgu_oykuleri_seckisi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_bilimkurgu_oykuleri_seckisi.epub"
       },
-      "download_count": 35483
+      "download_count": 35483,
+      "summaries": []
     },
     {
       "id": 10070,
@@ -2247,7 +2316,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_karadeniz_fikralari.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_karadeniz_fikralari.epub"
       },
-      "download_count": 35490
+      "download_count": 35490,
+      "summaries": []
     },
     {
       "id": 10071,
@@ -2279,7 +2349,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_osmanli_padisahlari.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_osmanli_padisahlari.epub"
       },
-      "download_count": 35497
+      "download_count": 35497,
+      "summaries": []
     },
     {
       "id": 10072,
@@ -2311,7 +2382,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_ruya_tabirleri_i.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_ruya_tabirleri_i.epub"
       },
-      "download_count": 35504
+      "download_count": 35504,
+      "summaries": []
     },
     {
       "id": 10073,
@@ -2343,7 +2415,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_ruya_tabirleri_ii.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_ruya_tabirleri_ii.epub"
       },
-      "download_count": 35511
+      "download_count": 35511,
+      "summaries": []
     },
     {
       "id": 10074,
@@ -2375,7 +2448,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anonim_tarihteki_ilginc_olaylar.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anonim_tarihteki_ilginc_olaylar.epub"
       },
-      "download_count": 35518
+      "download_count": 35518,
+      "summaries": []
     },
     {
       "id": 10075,
@@ -2407,7 +2481,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_6_kogus.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_6_kogus.epub"
       },
-      "download_count": 35525
+      "download_count": 35525,
+      "summaries": []
     },
     {
       "id": 10076,
@@ -2439,7 +2514,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_besleme.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_besleme.epub"
       },
-      "download_count": 35532
+      "download_count": 35532,
+      "summaries": []
     },
     {
       "id": 10077,
@@ -2471,7 +2547,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_duello.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_duello.epub"
       },
-      "download_count": 35539
+      "download_count": 35539,
+      "summaries": []
     },
     {
       "id": 10078,
@@ -2503,7 +2580,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_hikayeler_iv.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_hikayeler_iv.epub"
       },
-      "download_count": 35546
+      "download_count": 35546,
+      "summaries": []
     },
     {
       "id": 10079,
@@ -2535,7 +2613,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_korkunc_bir_gece.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_korkunc_bir_gece.epub"
       },
-      "download_count": 35553
+      "download_count": 35553,
+      "summaries": []
     },
     {
       "id": 10080,
@@ -2567,7 +2646,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_koyluler.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_koyluler.epub"
       },
-      "download_count": 35560
+      "download_count": 35560,
+      "summaries": []
     },
     {
       "id": 10081,
@@ -2599,7 +2679,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_tek_perdelik_9_oyun.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_tek_perdelik_9_oyun.epub"
       },
-      "download_count": 35567
+      "download_count": 35567,
+      "summaries": []
     },
     {
       "id": 10082,
@@ -2631,7 +2712,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_visne_bahcesi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_visne_bahcesi.epub"
       },
-      "download_count": 35574
+      "download_count": 35574,
+      "summaries": []
     },
     {
       "id": 10083,
@@ -2663,7 +2745,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/antony_burgess_otomatik_portakal.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/antony_burgess_otomatik_portakal.epub"
       },
-      "download_count": 35581
+      "download_count": 35581,
+      "summaries": []
     },
     {
       "id": 10084,
@@ -2695,7 +2778,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arif_kaptan_giyotinli_labirent.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arif_kaptan_giyotinli_labirent.epub"
       },
-      "download_count": 35588
+      "download_count": 35588,
+      "summaries": []
     },
     {
       "id": 10085,
@@ -2729,7 +2813,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aristoteles_atinalilarin_devleti.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aristoteles_atinalilarin_devleti.epub"
       },
-      "download_count": 35595
+      "download_count": 35595,
+      "summaries": []
     },
     {
       "id": 10086,
@@ -2763,7 +2848,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aristoteles_atinalilarin_devleti.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aristoteles_atinalilarin_devleti.epub"
       },
-      "download_count": 35602
+      "download_count": 35602,
+      "summaries": []
     },
     {
       "id": 10087,
@@ -2795,7 +2881,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arkadi_iktidar_mahkumlari.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arkadi_iktidar_mahkumlari.epub"
       },
-      "download_count": 35609
+      "download_count": 35609,
+      "summaries": []
     },
     {
       "id": 10088,
@@ -2827,7 +2914,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_c_clarke_2001_bir_uzay_efsanesi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_c_clarke_2001_bir_uzay_efsanesi.epub"
       },
-      "download_count": 35616
+      "download_count": 35616,
+      "summaries": []
     },
     {
       "id": 10089,
@@ -2859,7 +2947,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_charles_clarke_2001_uzay_efsanesi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_charles_clarke_2001_uzay_efsanesi.epub"
       },
-      "download_count": 35623
+      "download_count": 35623,
+      "summaries": []
     },
     {
       "id": 10090,
@@ -2891,7 +2980,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_charles_clarke_3001_uzay_efsanesi_son_efsane.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_charles_clarke_3001_uzay_efsanesi_son_efsane.epub"
       },
-      "download_count": 35630
+      "download_count": 35630,
+      "summaries": []
     },
     {
       "id": 10091,
@@ -2923,7 +3013,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_charles_clarke_rama_yla_bulusma.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_charles_clarke_rama_yla_bulusma.epub"
       },
-      "download_count": 35637
+      "download_count": 35637,
+      "summaries": []
     },
     {
       "id": 10092,
@@ -2955,7 +3046,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/asim_koksal_peygamberler_tarihi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/asim_koksal_peygamberler_tarihi.epub"
       },
-      "download_count": 35644
+      "download_count": 35644,
+      "summaries": []
     },
     {
       "id": 10093,
@@ -2987,7 +3079,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/atakan_altinors_dil_felsefesine_giris.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/atakan_altinors_dil_felsefesine_giris.epub"
       },
-      "download_count": 35651
+      "download_count": 35651,
+      "summaries": []
     },
     {
       "id": 10094,
@@ -3019,7 +3112,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/atilla_ilhan_ben_sana_mecburum.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/atilla_ilhan_ben_sana_mecburum.epub"
       },
-      "download_count": 35658
+      "download_count": 35658,
+      "summaries": []
     },
     {
       "id": 10095,
@@ -3051,7 +3145,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_hulki_cevizoglu_butun_kaleler_zaptedilmedi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_hulki_cevizoglu_butun_kaleler_zaptedilmedi.epub"
       },
-      "download_count": 35665
+      "download_count": 35665,
+      "summaries": []
     },
     {
       "id": 10096,
@@ -3083,7 +3178,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_elde_var_huzun.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_elde_var_huzun.epub"
       },
-      "download_count": 35672
+      "download_count": 35672,
+      "summaries": []
     },
     {
       "id": 10097,
@@ -3115,7 +3211,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_hayati_ve_siirleri.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_hayati_ve_siirleri.epub"
       },
-      "download_count": 35679
+      "download_count": 35679,
+      "summaries": []
     },
     {
       "id": 10098,
@@ -3147,7 +3244,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_sisler_bulvari.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_sisler_bulvari.epub"
       },
-      "download_count": 35686
+      "download_count": 35686,
+      "summaries": []
     },
     {
       "id": 10099,
@@ -3179,7 +3277,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_yasak_sevismek.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_yasak_sevismek.epub"
       },
-      "download_count": 35693
+      "download_count": 35693,
+      "summaries": []
     },
     {
       "id": 10100,
@@ -3211,7 +3310,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayfer_tunc_omur_diyorlar_buna.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayfer_tunc_omur_diyorlar_buna.epub"
       },
-      "download_count": 35700
+      "download_count": 35700,
+      "summaries": []
     },
     {
       "id": 10101,
@@ -3243,7 +3343,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayhan_koc_hic_kimsenin_krali.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayhan_koc_hic_kimsenin_krali.epub"
       },
-      "download_count": 35707
+      "download_count": 35707,
+      "summaries": []
     },
     {
       "id": 10102,
@@ -3275,7 +3376,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aysel_aksumer_ask_aska_karsi.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aysel_aksumer_ask_aska_karsi.epub"
       },
-      "download_count": 35714
+      "download_count": 35714,
+      "summaries": []
     },
     {
       "id": 10103,
@@ -3307,7 +3409,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_adi_aylin.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_adi_aylin.epub"
       },
-      "download_count": 35721
+      "download_count": 35721,
+      "summaries": []
     },
     {
       "id": 10104,
@@ -3339,7 +3442,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_bir_gun.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_bir_gun.epub"
       },
-      "download_count": 35728
+      "download_count": 35728,
+      "summaries": []
     },
     {
       "id": 10105,
@@ -3371,7 +3475,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_fureya.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_fureya.epub"
       },
-      "download_count": 35735
+      "download_count": 35735,
+      "summaries": []
     },
     {
       "id": 10106,
@@ -3403,7 +3508,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_gece_sesleri.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_gece_sesleri.epub"
       },
-      "download_count": 35742
+      "download_count": 35742,
+      "summaries": []
     },
     {
       "id": 10107,
@@ -3435,7 +3541,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_genis_zamanlar.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_genis_zamanlar.epub"
       },
-      "download_count": 35749
+      "download_count": 35749,
+      "summaries": []
     },
     {
       "id": 10108,
@@ -3467,7 +3574,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_kardelenler.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_kardelenler.epub"
       },
-      "download_count": 35756
+      "download_count": 35756,
+      "summaries": []
     },
     {
       "id": 10109,
@@ -3499,7 +3607,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_kopru.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_kopru.epub"
       },
-      "download_count": 35763
+      "download_count": 35763,
+      "summaries": []
     },
     {
       "id": 10110,
@@ -3531,7 +3640,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_nefes_nefese.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_nefes_nefese.epub"
       },
-      "download_count": 35770
+      "download_count": 35770,
+      "summaries": []
     },
     {
       "id": 10111,
@@ -3563,7 +3673,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ayse_kulin_sevdalinka.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ayse_kulin_sevdalinka.epub"
       },
-      "download_count": 35777
+      "download_count": 35777,
+      "summaries": []
     },
     {
       "id": 10112,
@@ -3595,7 +3706,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aysehan_demirtas_bir.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aysehan_demirtas_bir.epub"
       },
-      "download_count": 35784
+      "download_count": 35784,
+      "summaries": []
     },
     {
       "id": 10113,
@@ -3627,7 +3739,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_borclu_olduklarimiz.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_borclu_olduklarimiz.epub"
       },
-      "download_count": 35791
+      "download_count": 35791,
+      "summaries": []
     },
     {
       "id": 10114,
@@ -3659,7 +3772,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_borclu_olduklarimiz.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_borclu_olduklarimiz.epub"
       },
-      "download_count": 35798
+      "download_count": 35798,
+      "summaries": []
     },
     {
       "id": 10115,
@@ -3691,7 +3805,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_damda_deli_var.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_damda_deli_var.epub"
       },
-      "download_count": 35805
+      "download_count": 35805,
+      "summaries": []
     },
     {
       "id": 10116,
@@ -3723,7 +3838,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_memleketin_birinde.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_memleketin_birinde.epub"
       },
-      "download_count": 35812
+      "download_count": 35812,
+      "summaries": []
     },
     {
       "id": 10117,
@@ -3755,7 +3871,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_sizin_memlekette_esek_yok_mu.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_sizin_memlekette_esek_yok_mu.epub"
       },
-      "download_count": 35819
+      "download_count": 35819,
+      "summaries": []
     },
     {
       "id": 10118,
@@ -3787,7 +3904,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_tatli_betus.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_tatli_betus.epub"
       },
-      "download_count": 35826
+      "download_count": 35826,
+      "summaries": []
     },
     {
       "id": 10119,
@@ -3819,7 +3937,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aziz_nesin_simdiki_cocuklar_harika.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aziz_nesin_simdiki_cocuklar_harika.epub"
       },
-      "download_count": 35833
+      "download_count": 35833,
+      "summaries": []
     },
     {
       "id": 10120,
@@ -3851,7 +3970,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/azra_erhat_mitoloji_sozlugu.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/azra_erhat_mitoloji_sozlugu.epub"
       },
-      "download_count": 35840
+      "download_count": 35840,
+      "summaries": []
     },
     {
       "id": 10121,
@@ -3883,7 +4003,8 @@
         "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/askin_gungor_sevgili_salak.jpg",
         "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/askin_gungor_sevgili_salak.epub"
       },
-      "download_count": 35847
+      "download_count": 35847,
+      "summaries": []
     }
   ]
 }
