@@ -1,5 +1,5 @@
 {
-  "count": 122,
+  "count": 123,
   "next": null,
   "previous": null,
   "results": [
@@ -4281,6 +4281,41 @@
       "download_count": 1000,
       "summaries": [
         "Bir İngiliz Edebiyatı Profesörü olan J.R.R. Tolkien bundan yaklaşık yetmiş yıl kadar önce dünyaya bir kitap hediye etti. Bu kitapla birlikte insanlar ilk defa hobbit denen ahaliyle karşılaşıyordu. Cücelerden bile kısa boylu, yemeye, içmeye ve eğlenmeye düşkün, iyi yürekli, mutlu ve kendi küçük köylerinde her tür maceradan uzak yaşayan bir ahaliydi hobbitler. Ta ki büyücü Gandalf onları ziyaret edene kadar.\"Hobbit\", diğer hobbitlerden aslında hiç de farklı olmayan bir hobbitin, Bilbo Baggins'in fantastik maceralarından oluşuyor. Bilbo Baggins, büyücü Gandalf ve cücelerle birlikte, cücelerin hazinesini kötü ejderha Smaug'dan geri almak için aslında hiç de istemediği bir yolculuğa çıkar. Ama yine de hobbitin içinde henüz keşfedemediği maceracı bir yan vardır ve yolculuk ilerledikçe Bilbo Baggins kendi cesaretinin ve gücünün farkına varmaya başlar. Tolkien'in aslında çocuklar için kaleme aldığı \"Hobbit\", çok geçmeden yetişkinlerden, özellikle de 60'ların asi gençliğinden büyük ilgi gördü. Bunun üzerine Tolkien hobbitlerin, elflerin, cücelerin ve insanların goblinler, troller, kurtlar ve her tür kötü ve çarpık yaratıkla olan mücadelesini anlatmaya devam ederek \"Yüzüklerin Efendisi\"ni yarattı. Bugün \"Hobbit\"le birlikte \"Yüzüklerin Efendisi\" fantastik edebiyatın kült eserleri arasında yer alıyor."
+      ]
+    },
+    {
+      "id": 10123,
+      "title": "İstanbul Hatırası",
+      "authors": [
+        {
+          "name": "Ahmet Ümit",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Roman",
+        "Polisiye",
+        "Gerilim"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ahmet_umit_istanbul_hatirasi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ahmet_umit_istanbul_hatirasi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ahmet_umit_istanbul_hatirasi.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Profesör Necdet Denizel, bir Atatürk heykelinin önünde elleri bağlı halde ölü bulunur. Elinde de sikke vardır Polis, soruşturmaları sonucunda cüzdanını ve bozuk telefonunu bulur. Daha detaylı araştırma için evlerine giderler. Karısıyla temasa geçerler ama sonuç alamazlar. Bunun üzerine eski eşinin sevgilisi ile bir görüşme yapılır. Bu kişi Sayın Namık’dır. Namık bir cerrah ve aynı zamanda İstanbul savunma derneğinin üyesidir. Namık, cinayetle hiçbir ilgisi olmadığını ve bilmediğini söyler. O sırada başka bir ceset bulunur. Profesör gibi merhumun elinde bir sikke vardır. Sikkenin üzerine Byzantion yazar. Bu İstanbul’un ilk adıdır. Profesörün eski eşinin sevgilisi 2 polis memurunu yaralamış ve bir süre hapis cezasına çarptırılmıştır. İkinci kurbanın evine gidip araştırma yaparlar. Merhumun 3 yıl önce boşandığını ve başka biriyle evlendiğini öğrenirler. Bunun dışında herhangi bir bilgi bulamazlar. Sıradaki kurban gazeteci ve dördüncü kurban ise bir mimardır. Tanıkların ifadelerine göre, cesedi beyaz bir minibüs bırakmıştır. Beşinci kurban, eski bir belediye başkan yardımcısıdır. Polis olayı iyice araştırmaya başlar ancak hayla ortada somut bir delil yoktur. Bir sonraki cesedin nereye bırakılacağına dair görüşler türetilir, ancak bir sonuca varılamaz. Altıncı cesede ulaşırlar. Başkomiser Nevzat bunun şu anda gerçekten sinir bozucu hale geldiğini söyleyerek, yedinci cesedi nereye bırakacağını araştırıyor. Çalışmalar sonuç vermeye başlar. Cinayetin faillerinin kendi polis arkadaşları olduğunu öğrenirler. İki arkadaşın bir sonraki cesedi bıraktığı görülüyor. Biri kaçar, diğeri yakalanır ve vurulur. Kaçan arkadaşını bir mezarlıkta bulurlar. Arkadaşı, ailesinin ölümüne sebep olanları tek tek tespit edip öldürmüş ve bu anlamda intikam almıştır. Arkadaşı orada kendini de vurup canına kıyıyor.\n\nKaynak: https://kitapdiyari.com.tr/polisiye/istanbul-hatirasi/"
       ]
     }
   ]

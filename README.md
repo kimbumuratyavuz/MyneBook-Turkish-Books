@@ -2,7 +2,7 @@
 
 Bu depo, **MyneBook** Android uygulaması için hazırlanan ücretsiz, tam metin ve yüksek kaliteli Türkçe e-kitap kataloğudur.
 
-> **Katalog Durumu:** Toplam **122** kitap bulunmaktadır.
+> **Katalog Durumu:** Toplam **123** kitap bulunmaktadır.
 
 ---
 
@@ -132,6 +132,7 @@ Bu depo, **MyneBook** Android uygulaması için hazırlanan ücretsiz, tam metin
 | 10120 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/azra_erhat_mitoloji_sozlugu.jpg" width="40" height="60" /> | **Mitoloji Sözlüğü** | Azra Erhat | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/azra_erhat_mitoloji_sozlugu.epub) |
 | 10121 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/askin_gungor_sevgili_salak.jpg" width="40" height="60" /> | **Sevgili Salak** | Aşkın Güngör | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/askin_gungor_sevgili_salak.epub) |
 | 10122 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/j_r_r_tolkien_hobbit.jpg" width="40" height="60" /> | **Hobbit** | J.R.R. Tolkien | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/j_r_r_tolkien_hobbit.epub) |
+| 10123 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ahmet_umit_istanbul_hatirasi.jpg" width="40" height="60" /> | **İstanbul Hatırası** | Ahmet Ümit | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ahmet_umit_istanbul_hatirasi.epub) |
 
 ---
 Made with ❤️ for MyneBook by Murat Yavuz (MimuEngine).
