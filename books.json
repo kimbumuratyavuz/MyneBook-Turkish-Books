@@ -1,5 +1,5 @@
 {
-  "count": 950,
+  "count": 1000,
   "next": null,
   "previous": null,
   "results": [
@@ -33102,6 +33102,1756 @@
       "download_count": 0,
       "summaries": [
         "Vadi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10951,
+      "title": "Latife Hanìm",
+      "authors": [
+        {
+          "name": "ÿpek Çalìƒlar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/pek_cal_lar_latife_han_m.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/pek_cal_lar_latife_han_m.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/pek_cal_lar_latife_han_m.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/pek_cal_lar_latife_han_m.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Latife Hanìm eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10952,
+      "title": "Mustafa Kemal Atatürk",
+      "authors": [
+        {
+          "name": "ÿpek Çalìƒlar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/pek_cal_lar_mustafa_kemal_ataturk.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/pek_cal_lar_mustafa_kemal_ataturk.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/pek_cal_lar_mustafa_kemal_ataturk.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/pek_cal_lar_mustafa_kemal_ataturk.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Mustafa Kemal Atatürk eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10953,
+      "title": "Kedileri Severken Aºlayìnìz",
+      "authors": [
+        {
+          "name": "ÿsmail Uyaroºlu",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/smail_uyaro_lu_kedileri_severken_a_lay_n_z.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/smail_uyaro_lu_kedileri_severken_a_lay_n_z.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/smail_uyaro_lu_kedileri_severken_a_lay_n_z.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/smail_uyaro_lu_kedileri_severken_a_lay_n_z.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kedileri Severken Aºlayìnìz eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10954,
+      "title": "Defterler 1919-1973",
+      "authors": [
+        {
+          "name": "Ÿsmet Ÿnönü",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/smet_nonu_defterler_1919_1973.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/smet_nonu_defterler_1919_1973.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/smet_nonu_defterler_1919_1973.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/smet_nonu_defterler_1919_1973.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Defterler 1919-1973 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10955,
+      "title": "Klara Miliç",
+      "authors": [
+        {
+          "name": "ÿvan Sergeyeviç Turgenyev",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/van_sergeyevic_turgenyev_klara_milic.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/van_sergeyevic_turgenyev_klara_milic.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/van_sergeyevic_turgenyev_klara_milic.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/van_sergeyevic_turgenyev_klara_milic.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Klara Miliç eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10956,
+      "title": "Atatürk Hakkında Hatıralar ve Belgeler",
+      "authors": [
+        {
+          "name": "Afet İnan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/afet_i_nan_atatu_rk_hakkinda_hatiralar_ve_belgeler.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/afet_i_nan_atatu_rk_hakkinda_hatiralar_ve_belgeler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/afet_i_nan_atatu_rk_hakkinda_hatiralar_ve_belgeler.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/afet_i_nan_atatu_rk_hakkinda_hatiralar_ve_belgeler.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Atatürk Hakkında Hatıralar ve Belgeler eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10957,
+      "title": "Paul Celan, Ellerin Zamanlarla Dolu",
+      "authors": [
+        {
+          "name": "Ahmet Cemal",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ahmet_cemal_paul_celan_ellerin_zamanlarla_dolu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ahmet_cemal_paul_celan_ellerin_zamanlarla_dolu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ahmet_cemal_paul_celan_ellerin_zamanlarla_dolu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ahmet_cemal_paul_celan_ellerin_zamanlarla_dolu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Paul Celan, Ellerin Zamanlarla Dolu eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10958,
+      "title": "Toplu Şiirler (2008-1973)",
+      "authors": [
+        {
+          "name": "Alova",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alova_toplu_siirler_2008_1973.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alova_toplu_siirler_2008_1973.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alova_toplu_siirler_2008_1973.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alova_toplu_siirler_2008_1973.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Toplu Şiirler (2008-1973) eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10959,
+      "title": "Kurtlar Sofrası",
+      "authors": [
+        {
+          "name": "Attila İlhan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_kurtlar_sofrasi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_kurtlar_sofrasi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_kurtlar_sofrasi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_kurtlar_sofrasi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kurtlar Sofrası eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10960,
+      "title": "Tutuklunun Günlüğü",
+      "authors": [
+        {
+          "name": "Attila İlhan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_tutuklunun_gunlugu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_tutuklunun_gunlugu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_tutuklunun_gunlugu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_tutuklunun_gunlugu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Tutuklunun Günlüğü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10961,
+      "title": "Yasak Sevişmek",
+      "authors": [
+        {
+          "name": "Attila İlhan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_yasak_sevismek.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/attila_ilhan_yasak_sevismek.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_yasak_sevismek.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/attila_ilhan_yasak_sevismek.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yasak Sevişmek eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10962,
+      "title": "Eren Eyupoğlu - Aşk Mektupları (1932-1933)",
+      "authors": [
+        {
+          "name": "Bedri Rahmi",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bedri_rahmi_eren_eyupoglu_ask_mektuplari_1932_1933.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bedri_rahmi_eren_eyupoglu_ask_mektuplari_1932_1933.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bedri_rahmi_eren_eyupoglu_ask_mektuplari_1932_1933.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bedri_rahmi_eren_eyupoglu_ask_mektuplari_1932_1933.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Eren Eyupoğlu - Aşk Mektupları (1932-1933) eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10963,
+      "title": "Eren Eyupoğlu - Aşk Mektupları 2. Cilt (1933-1934)",
+      "authors": [
+        {
+          "name": "Bedri Rahmi",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bedri_rahmi_eren_eyupoglu_ask_mektuplari_2_cilt_1933_1934.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bedri_rahmi_eren_eyupoglu_ask_mektuplari_2_cilt_1933_1934.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bedri_rahmi_eren_eyupoglu_ask_mektuplari_2_cilt_1933_1934.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bedri_rahmi_eren_eyupoglu_ask_mektuplari_2_cilt_1933_1934.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Eren Eyupoğlu - Aşk Mektupları 2. Cilt (1933-1934) eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10964,
+      "title": "Anılardan Sayfalar",
+      "authors": [
+        {
+          "name": "Bozkurt Güvenç",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bozkurt_guvenc_anilardan_sayfalar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bozkurt_guvenc_anilardan_sayfalar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bozkurt_guvenc_anilardan_sayfalar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bozkurt_guvenc_anilardan_sayfalar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Anılardan Sayfalar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10965,
+      "title": "Güneşdil",
+      "authors": [
+        {
+          "name": "Can Alkor",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_alkor_gunesdil.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/can_alkor_gunesdil.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_alkor_gunesdil.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_alkor_gunesdil.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Güneşdil eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10966,
+      "title": "Bir Siyasinin Şiirleri",
+      "authors": [
+        {
+          "name": "Can Yücel",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_yucel_bir_siyasinin_siirleri.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/can_yucel_bir_siyasinin_siirleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_yucel_bir_siyasinin_siirleri.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_yucel_bir_siyasinin_siirleri.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Siyasinin Şiirleri eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10967,
+      "title": "Sevgi Duvarı",
+      "authors": [
+        {
+          "name": "Can Yücel",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_yucel_sevgi_duvari.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/can_yucel_sevgi_duvari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_yucel_sevgi_duvari.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_yucel_sevgi_duvari.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sevgi Duvarı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10968,
+      "title": "Paranın Tarihi",
+      "authors": [
+        {
+          "name": "Catherine Eagleton & Jonathan Williams",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/catherine_eagleton_jonathan_williams_paranin_tarihi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/catherine_eagleton_jonathan_williams_paranin_tarihi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/catherine_eagleton_jonathan_williams_paranin_tarihi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/catherine_eagleton_jonathan_williams_paranin_tarihi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Paranın Tarihi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10969,
+      "title": "Bir Bilim Adamın Serüveni",
+      "authors": [
+        {
+          "name": "Celâl Şengör",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cel_l_sengor_bir_bilim_adamin_seruveni.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cel_l_sengor_bir_bilim_adamin_seruveni.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cel_l_sengor_bir_bilim_adamin_seruveni.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cel_l_sengor_bir_bilim_adamin_seruveni.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Bilim Adamın Serüveni eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10970,
+      "title": "Hatıralar",
+      "authors": [
+        {
+          "name": "Cemal Paşa",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cemal_pasa_hatiralar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cemal_pasa_hatiralar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cemal_pasa_hatiralar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cemal_pasa_hatiralar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Hatıralar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10971,
+      "title": "20. Yüzyıl Felsefe Tarihi",
+      "authors": [
+        {
+          "name": "Christian Delacampagne",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/christian_delacampagne_20_yuzyil_felsefe_tarihi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/christian_delacampagne_20_yuzyil_felsefe_tarihi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/christian_delacampagne_20_yuzyil_felsefe_tarihi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/christian_delacampagne_20_yuzyil_felsefe_tarihi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "20. Yüzyıl Felsefe Tarihi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10972,
+      "title": "Schopenhauer",
+      "authors": [
+        {
+          "name": "David E. Cartwright",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/david_e_cartwright_schopenhauer.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/david_e_cartwright_schopenhauer.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/david_e_cartwright_schopenhauer.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/david_e_cartwright_schopenhauer.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Schopenhauer eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10973,
+      "title": "Bir Beyoğlu Düşü",
+      "authors": [
+        {
+          "name": "Demir Özlü",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/demir_ozlu_bir_beyoglu_dusu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/demir_ozlu_bir_beyoglu_dusu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/demir_ozlu_bir_beyoglu_dusu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/demir_ozlu_bir_beyoglu_dusu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Beyoğlu Düşü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10974,
+      "title": "Beklenmedik Anlar",
+      "authors": [
+        {
+          "name": "Dermot Healy",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dermot_healy_beklenmedik_anlar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/dermot_healy_beklenmedik_anlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dermot_healy_beklenmedik_anlar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dermot_healy_beklenmedik_anlar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Beklenmedik Anlar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10975,
+      "title": "Aşkın En Güzel Tarihi",
+      "authors": [
+        {
+          "name": "Dominique Simonnet & Jean Courtin & Paul Veyne & Jacques Le Goff & Jacques Solé & Mona Ozouf & Alain Corbin & Anne Marie Soh",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dominique_simonnet_jean_courtin_paul_veyne_jacques_le_goff_jacques_sol_mona.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/dominique_simonnet_jean_courtin_paul_veyne_jacques_le_goff_jacques_sol_mona.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dominique_simonnet_jean_courtin_paul_veyne_jacques_le_goff_jacques_sol_mona.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dominique_simonnet_jean_courtin_paul_veyne_jacques_le_goff_jacques_sol_mona.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Aşkın En Güzel Tarihi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10976,
+      "title": "Balkan Savaşı Günlüğü",
+      "authors": [
+        {
+          "name": "G. V. Hochwachter",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/g_v_hochwachter_balkan_savasi_gunlugu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/g_v_hochwachter_balkan_savasi_gunlugu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/g_v_hochwachter_balkan_savasi_gunlugu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/g_v_hochwachter_balkan_savasi_gunlugu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Balkan Savaşı Günlüğü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10977,
+      "title": "Cambridge Savaş Tarihi",
+      "authors": [
+        {
+          "name": "Geoffrey Parker",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/geoffrey_parker_cambridge_savas_tarihi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/geoffrey_parker_cambridge_savas_tarihi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/geoffrey_parker_cambridge_savas_tarihi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/geoffrey_parker_cambridge_savas_tarihi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Cambridge Savaş Tarihi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10978,
+      "title": "Siyasal Antropoloji",
+      "authors": [
+        {
+          "name": "Georges Balandier",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_balandier_siyasal_antropoloji.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/georges_balandier_siyasal_antropoloji.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_balandier_siyasal_antropoloji.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_balandier_siyasal_antropoloji.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Siyasal Antropoloji eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10979,
+      "title": "Kadınların Tarihi 1",
+      "authors": [
+        {
+          "name": "Georges Duby & Michelle Perrot",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_1.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/georges_duby_michelle_perrot_kadinlarin_tarihi_1.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_1.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_1.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kadınların Tarihi 1 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10980,
+      "title": "Kadınların Tarihi 2",
+      "authors": [
+        {
+          "name": "Georges Duby & Michelle Perrot",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_2.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/georges_duby_michelle_perrot_kadinlarin_tarihi_2.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_2.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_2.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kadınların Tarihi 2 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10981,
+      "title": "Kadınların Tarihi 3",
+      "authors": [
+        {
+          "name": "Georges Duby & Michelle Perrot",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_3.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/georges_duby_michelle_perrot_kadinlarin_tarihi_3.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_3.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_3.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kadınların Tarihi 3 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10982,
+      "title": "Kadınların Tarihi 4",
+      "authors": [
+        {
+          "name": "Georges Duby & Michelle Perrot",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_4.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/georges_duby_michelle_perrot_kadinlarin_tarihi_4.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_4.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_4.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kadınların Tarihi 4 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10983,
+      "title": "Kadınların Tarihi 5",
+      "authors": [
+        {
+          "name": "Georges Duby & Michelle Perrot",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_5.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/georges_duby_michelle_perrot_kadinlarin_tarihi_5.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_5.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/georges_duby_michelle_perrot_kadinlarin_tarihi_5.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kadınların Tarihi 5 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10984,
+      "title": "Gog",
+      "authors": [
+        {
+          "name": "Giovanni Papini",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/giovanni_papini_gog.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/giovanni_papini_gog.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/giovanni_papini_gog.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/giovanni_papini_gog.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Gog eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10985,
+      "title": "Anadolu'da Roma Hakimiyeti- Direniş ve Düzen",
+      "authors": [
+        {
+          "name": "Gurkan Ergin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gurkan_ergin_anadolu_da_roma_hakimiyeti_direnis_ve_duzen.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gurkan_ergin_anadolu_da_roma_hakimiyeti_direnis_ve_duzen.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gurkan_ergin_anadolu_da_roma_hakimiyeti_direnis_ve_duzen.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gurkan_ergin_anadolu_da_roma_hakimiyeti_direnis_ve_duzen.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Anadolu'da Roma Hakimiyeti- Direniş ve Düzen eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10986,
+      "title": "Sosyal Psikoloji Tarihi",
+      "authors": [
+        {
+          "name": "Gustav Jahoda",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gustav_jahoda_sosyal_psikoloji_tarihi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gustav_jahoda_sosyal_psikoloji_tarihi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gustav_jahoda_sosyal_psikoloji_tarihi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gustav_jahoda_sosyal_psikoloji_tarihi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sosyal Psikoloji Tarihi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10987,
+      "title": "Abidin Dino Mektupları (1952-1973)",
+      "authors": [
+        {
+          "name": "Güzin Dino",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guzin_dino_abidin_dino_mektuplari_1952_1973.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/guzin_dino_abidin_dino_mektuplari_1952_1973.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guzin_dino_abidin_dino_mektuplari_1952_1973.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guzin_dino_abidin_dino_mektuplari_1952_1973.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Abidin Dino Mektupları (1952-1973) eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10988,
+      "title": "Budha",
+      "authors": [
+        {
+          "name": "Hajime Nakamura",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hajime_nakamura_budha.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/hajime_nakamura_budha.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hajime_nakamura_budha.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hajime_nakamura_budha.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Budha eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10989,
+      "title": "Cumhuriyet Dönemi Türk Şiirinde Garip Hareketi",
+      "authors": [
+        {
+          "name": "Hakan Sazyek",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hakan_sazyek_cumhuriyet_donemi_turk_siirinde_garip_hareketi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/hakan_sazyek_cumhuriyet_donemi_turk_siirinde_garip_hareketi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hakan_sazyek_cumhuriyet_donemi_turk_siirinde_garip_hareketi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hakan_sazyek_cumhuriyet_donemi_turk_siirinde_garip_hareketi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Cumhuriyet Dönemi Türk Şiirinde Garip Hareketi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10990,
+      "title": "Kupaların Kupası- Dünya Kupası 1930'dan 2002'ye",
+      "authors": [
+        {
+          "name": "Halit Kıvanç",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halit_kivanc_kupalarin_kupasi_dunya_kupasi_1930_dan_2002_ye.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halit_kivanc_kupalarin_kupasi_dunya_kupasi_1930_dan_2002_ye.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halit_kivanc_kupalarin_kupasi_dunya_kupasi_1930_dan_2002_ye.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halit_kivanc_kupalarin_kupasi_dunya_kupasi_1930_dan_2002_ye.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kupaların Kupası- Dünya Kupası 1930'dan 2002'ye eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10991,
+      "title": "Şarkılar Kitabı",
+      "authors": [
+        {
+          "name": "Heinrich Heine",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/heinrich_heine_sarkilar_kitabi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/heinrich_heine_sarkilar_kitabi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/heinrich_heine_sarkilar_kitabi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/heinrich_heine_sarkilar_kitabi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Şarkılar Kitabı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10992,
+      "title": "Edebiyat Anıları",
+      "authors": [
+        {
+          "name": "Hüseyin Cahit Yalçın",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/huseyin_cahit_yalcin_edebiyat_anilari.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/huseyin_cahit_yalcin_edebiyat_anilari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/huseyin_cahit_yalcin_edebiyat_anilari.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/huseyin_cahit_yalcin_edebiyat_anilari.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Edebiyat Anıları eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10993,
+      "title": "Tarih Hırsızlığı",
+      "authors": [
+        {
+          "name": "Jack Goody",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jack_goody_tarih_hirsizligi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/jack_goody_tarih_hirsizligi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jack_goody_tarih_hirsizligi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jack_goody_tarih_hirsizligi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Tarih Hırsızlığı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10994,
+      "title": "İnsanın Hikayesi",
+      "authors": [
+        {
+          "name": "James C. Davis",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/james_c_davis_insanin_hikayesi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/james_c_davis_insanin_hikayesi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/james_c_davis_insanin_hikayesi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/james_c_davis_insanin_hikayesi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "İnsanın Hikayesi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10995,
+      "title": "1. Dünya Savaşı ve 20. Yüzyıl",
+      "authors": [
+        {
+          "name": "Jay Winter & Geoffrey Parker & Mary R. Habeck",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jay_winter_geoffrey_parker_mary_r_habeck_1_dunya_savasi_ve_20_yuzyil.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/jay_winter_geoffrey_parker_mary_r_habeck_1_dunya_savasi_ve_20_yuzyil.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jay_winter_geoffrey_parker_mary_r_habeck_1_dunya_savasi_ve_20_yuzyil.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jay_winter_geoffrey_parker_mary_r_habeck_1_dunya_savasi_ve_20_yuzyil.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "1. Dünya Savaşı ve 20. Yüzyıl eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10996,
+      "title": "Bilinmeyen Adanın Öyküsüı",
+      "authors": [
+        {
+          "name": "Jose Saramago",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jose_saramago_bilinmeyen_adanin_oykusui.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/jose_saramago_bilinmeyen_adanin_oykusui.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jose_saramago_bilinmeyen_adanin_oykusui.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jose_saramago_bilinmeyen_adanin_oykusui.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bilinmeyen Adanın Öyküsüı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10997,
+      "title": "Prenses Aynagüzeli ve Uçan Atı",
+      "authors": [
+        {
+          "name": "Julia Donaldson",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/julia_donaldson_prenses_aynaguzeli_ve_ucan_ati.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/julia_donaldson_prenses_aynaguzeli_ve_ucan_ati.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/julia_donaldson_prenses_aynaguzeli_ve_ucan_ati.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/julia_donaldson_prenses_aynaguzeli_ve_ucan_ati.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Prenses Aynagüzeli ve Uçan Atı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10998,
+      "title": "Hüzün Nedeniyle Kapalıyız",
+      "authors": [
+        {
+          "name": "Kostas Mourselas",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kostas_mourselas_huzun_nedeniyle_kapaliyiz.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kostas_mourselas_huzun_nedeniyle_kapaliyiz.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kostas_mourselas_huzun_nedeniyle_kapaliyiz.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kostas_mourselas_huzun_nedeniyle_kapaliyiz.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Hüzün Nedeniyle Kapalıyız eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10999,
+      "title": "Kızıla Boyalı Saçlar",
+      "authors": [
+        {
+          "name": "Kostas Mourselas",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kostas_mourselas_kizila_boyali_saclar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/kostas_mourselas_kizila_boyali_saclar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kostas_mourselas_kizila_boyali_saclar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/kostas_mourselas_kizila_boyali_saclar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kızıla Boyalı Saçlar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11000,
+      "title": "Yabandomuzunun İzinde",
+      "authors": [
+        {
+          "name": "Lawrence Norfolk",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lawrence_norfolk_yabandomuzunun_izinde.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/lawrence_norfolk_yabandomuzunun_izinde.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lawrence_norfolk_yabandomuzunun_izinde.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lawrence_norfolk_yabandomuzunun_izinde.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yabandomuzunun İzinde eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
       ]
     }
   ]
