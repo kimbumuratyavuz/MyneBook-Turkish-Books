@@ -2,7 +2,7 @@
 
 Bu depo, **MyneBook** Android uygulaması için hazırlanan ücretsiz, tam metin ve yüksek kaliteli Türkçe e-kitap kataloğudur.
 
-> **Katalog Durumu:** Toplam **1021** kitap bulunmaktadır.
+> **Katalog Durumu:** Toplam **1020** kitap bulunmaktadır.
 
 ---
 
@@ -133,7 +133,6 @@ Bu depo, **MyneBook** Android uygulaması için hazırlanan ücretsiz, tam metin
 | 10123 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_yi_kalpli_erendira.jpg" width="40" height="60" /> | **İyi Kalpli Erendira** | Gabriel Garcia Marquez | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_yi_kalpli_erendira_10123.pdf) |
 | 10124 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garc_a_m_rquez_benim_huzunlu_orospularim.jpg" width="40" height="60" /> | **Benim Hüzünlü Orospularım** | Gabriel Garcí­a Márquez | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garc_a_m_rquez_benim_huzunlu_orospularim_10124.epub) |
 | 10125 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_kolera_gunlerinde_ask.jpg" width="40" height="60" /> | **Kolera Günlerinde Aşk** | Gabriel Garcia Marquez | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_kolera_gunlerinde_ask_10125.epub) |
-| 10126 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garc_a_m_rquez_yuzyillik_yalnizlik.jpg" width="40" height="60" /> | **Yüzyıllık Yalnızlık** | Gabriel Garcí­a Márquez | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garc_a_m_rquez_yuzyillik_yalnizlik_10126.epub) |
 | 10127 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/george_orwell_aspidistra.jpg" width="40" height="60" /> | **Aspidistra** | George Orwell | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_aspidistra_10127.epub) |
 | 10128 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/george_orwell_bin_dokuz_yuz_seksen_dort.jpg" width="40" height="60" /> | **Bin Dokuz Yüz Seksen Dört** | George Orwell | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_bin_dokuz_yuz_seksen_dort_10128.epub) |
 | 10129 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/george_orwell_burma_gunleri.jpg" width="40" height="60" /> | **Burma Günleri** | George Orwell | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_burma_gunleri_10129.epub) |
