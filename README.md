@@ -2,7 +2,7 @@
 
 Bu depo, **MyneBook** Android uygulaması için hazırlanan ücretsiz, tam metin ve yüksek kaliteli Türkçe e-kitap kataloğudur.
 
-> **Katalog Durumu:** Toplam **1023** kitap bulunmaktadır.
+> **Katalog Durumu:** Toplam **1022** kitap bulunmaktadır.
 
 ---
 
@@ -46,7 +46,6 @@ Bu depo, **MyneBook** Android uygulaması için hazırlanan ücretsiz, tam metin
 | 10034 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/boris_pasternak_erken_trenlerde.jpg" width="40" height="60" /> | **Erken Trenlerde** | Boris Pasternak | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/boris_pasternak_erken_trenlerde_10034.pdf) |
 | 10035 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/boris_vian_pekin_de_sonbahar.jpg" width="40" height="60" /> | **Pekin'de Sonbahar** | Boris Vian | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/boris_vian_pekin_de_sonbahar_10035.epub) |
 | 10036 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bram_stoker_dracula_can_yayinlari.jpg" width="40" height="60" /> | **Dracula** | Bram Stoker | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bram_stoker_dracula_can_yayinlari_10036.epub) |
-| 10037 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bret_easton_ellis_cekim_kurallar_ed_roman.jpg" width="40" height="60" /> | **Çekim Kurallarì (ed.roman)** | Bret Easton Ellis | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bret_easton_ellis_cekim_kurallar_ed_roman_10037.pdf) |
 | 10038 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/can_dundar_a_ka_veda.jpg" width="40" height="60" /> | **Aƒka Veda** | Can Dündar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_dundar_a_ka_veda_10038.pdf) |
 | 10039 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/can_dundar_k_rm_z_bisiklet.jpg" width="40" height="60" /> | **Kìrmìzì Bisiklet** | Can Dündar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_dundar_k_rm_z_bisiklet_10039.pdf) |
 | 10040 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/can_dundar_lusyen.jpg" width="40" height="60" /> | **Lüsyen** | Can Dündar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/can_dundar_lusyen_10040.pdf) |
