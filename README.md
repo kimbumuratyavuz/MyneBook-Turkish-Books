@@ -2,7 +2,7 @@
 
 Bu depo, **MyneBook** Android uygulaması için hazırlanan ücretsiz, tam metin ve yüksek kaliteli Türkçe e-kitap kataloğudur.
 
-> **Katalog Durumu:** Toplam **1022** kitap bulunmaktadır.
+> **Katalog Durumu:** Toplam **1021** kitap bulunmaktadır.
 
 ---
 
@@ -108,7 +108,6 @@ Bu depo, **MyneBook** Android uygulaması için hazırlanan ücretsiz, tam metin
 | 10097 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ferenc_molnar_pal_sokagi_cocuklari.jpg" width="40" height="60" /> | **Pal Sokağı Çocukları** | Ferenc Molnar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ferenc_molnar_pal_sokagi_cocuklari_10097.epub) |
 | 10098 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fernando_pessoa_anarsist_banker_seytanin_saati.jpg" width="40" height="60" /> | **Anarşist Banker - Şeytanın Saati** | Fernando Pessoa | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fernando_pessoa_anarsist_banker_seytanin_saati_10098.epub) |
 | 10099 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fernando_pessoa_huzursuzlugun_kitabi.jpg" width="40" height="60" /> | **Huzursuzluğun Kitabı** | Fernando Pessoa | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fernando_pessoa_huzursuzlugun_kitabi_10099.epub) |
-| 10100 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fernando_pessoa_huzursuzlu_un_kitab.jpg" width="40" height="60" /> | **Huzursuzluºun Kitabì** | Fernando Pessoa | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fernando_pessoa_huzursuzlu_un_kitab_10100.pdf) |
 | 10101 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/franz_kafka_amerika.jpg" width="40" height="60" /> | **Amerika** | Franz Kafka | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_amerika_10101.epub) |
 | 10102 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/franz_kafka_babaya_mektup.jpg" width="40" height="60" /> | **Babaya Mektup** | Franz Kafka | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_babaya_mektup_10102.epub) |
 | 10103 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/franz_kafka_ceza_kolonisinde.jpg" width="40" height="60" /> | **Ceza Kolonisinde** | Franz Kafka | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_ceza_kolonisinde_10103.epub) |
