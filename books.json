@@ -1,5 +1,5 @@
 {
-  "count": 400,
+  "count": 450,
   "next": null,
   "previous": null,
   "results": [
@@ -13854,6 +13854,1754 @@
       "download_count": 0,
       "summaries": [
         "Aforizmalar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10401,
+      "title": "Kopyalanmış Adam",
+      "authors": [
+        {
+          "name": "— 008. José Saramago",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/008_jos_saramago_kopyalanmis_adam.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/008_jos_saramago_kopyalanmis_adam.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/008_jos_saramago_kopyalanmis_adam.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/008_jos_saramago_kopyalanmis_adam.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kopyalanmış Adam eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10402,
+      "title": "Dört Oyun",
+      "authors": [
+        {
+          "name": "— 009. Bernard Shaw",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/009_bernard_shaw_dort_oyun.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/009_bernard_shaw_dort_oyun.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/009_bernard_shaw_dort_oyun.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/009_bernard_shaw_dort_oyun.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Dört Oyun eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10403,
+      "title": "Beyaz Diş",
+      "authors": [
+        {
+          "name": "— 010. Jack London",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/010_jack_london_beyaz_dis.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/010_jack_london_beyaz_dis.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/010_jack_london_beyaz_dis.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/010_jack_london_beyaz_dis.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Beyaz Diş eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10404,
+      "title": "Üç Örnek Öykü ve Bir Önsöz",
+      "authors": [
+        {
+          "name": "— 011. Miguel de Unamuno",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/011_miguel_de_unamuno_uc_ornek_oyku_ve_bir_onsoz.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/011_miguel_de_unamuno_uc_ornek_oyku_ve_bir_onsoz.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/011_miguel_de_unamuno_uc_ornek_oyku_ve_bir_onsoz.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/011_miguel_de_unamuno_uc_ornek_oyku_ve_bir_onsoz.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Üç Örnek Öykü ve Bir Önsöz eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10405,
+      "title": "Sherlock Holmes Dörtlerin Yemini",
+      "authors": [
+        {
+          "name": "— 012. Sir Arthur Conan Doyle",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/012_sir_arthur_conan_doyle_sherlock_holmes_dortlerin_yemini.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/012_sir_arthur_conan_doyle_sherlock_holmes_dortlerin_yemini.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/012_sir_arthur_conan_doyle_sherlock_holmes_dortlerin_yemini.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/012_sir_arthur_conan_doyle_sherlock_holmes_dortlerin_yemini.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sherlock Holmes Dörtlerin Yemini eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10406,
+      "title": "ABD 42. Enlem",
+      "authors": [
+        {
+          "name": "— 013. John Dos Passos",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/013_john_dos_passos_abd_42_enlem.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/013_john_dos_passos_abd_42_enlem.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/013_john_dos_passos_abd_42_enlem.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/013_john_dos_passos_abd_42_enlem.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "ABD 42. Enlem eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10407,
+      "title": "Üç Büyük Usta",
+      "authors": [
+        {
+          "name": "— 014. Stefan Zweig",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/014_stefan_zweig_uc_buyuk_usta.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/014_stefan_zweig_uc_buyuk_usta.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/014_stefan_zweig_uc_buyuk_usta.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/014_stefan_zweig_uc_buyuk_usta.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Üç Büyük Usta eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10408,
+      "title": "Kendileriyle Savaşanlar",
+      "authors": [
+        {
+          "name": "— 015. Stefan Zweig",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/015_stefan_zweig_kendileriyle_savasanlar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/015_stefan_zweig_kendileriyle_savasanlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/015_stefan_zweig_kendileriyle_savasanlar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/015_stefan_zweig_kendileriyle_savasanlar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kendileriyle Savaşanlar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10409,
+      "title": "Oda Müziği",
+      "authors": [
+        {
+          "name": "— 016. James Joyce",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/016_james_joyce_oda_muzigi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/016_james_joyce_oda_muzigi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/016_james_joyce_oda_muzigi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/016_james_joyce_oda_muzigi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Oda Müziği eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10410,
+      "title": "Küskün Kahvenin Türküsü",
+      "authors": [
+        {
+          "name": "— 017. Carson McCullers",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/017_carson_mccullers_kuskun_kahvenin_turkusu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/017_carson_mccullers_kuskun_kahvenin_turkusu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/017_carson_mccullers_kuskun_kahvenin_turkusu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/017_carson_mccullers_kuskun_kahvenin_turkusu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Küskün Kahvenin Türküsü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10411,
+      "title": "Kendi Hayatının Şiirini Yazanlar",
+      "authors": [
+        {
+          "name": "— 018. Stefan Zweig",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/018_stefan_zweig_kendi_hayatinin_siirini_yazanlar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/018_stefan_zweig_kendi_hayatinin_siirini_yazanlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/018_stefan_zweig_kendi_hayatinin_siirini_yazanlar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/018_stefan_zweig_kendi_hayatinin_siirini_yazanlar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kendi Hayatının Şiirini Yazanlar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10412,
+      "title": "Bahçede Eğlence",
+      "authors": [
+        {
+          "name": "— 019. Katherine Mansfield",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/019_katherine_mansfield_bahcede_eglence.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/019_katherine_mansfield_bahcede_eglence.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/019_katherine_mansfield_bahcede_eglence.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/019_katherine_mansfield_bahcede_eglence.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bahçede Eğlence eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10413,
+      "title": "ABD 1919",
+      "authors": [
+        {
+          "name": "— 020. John Dos Passos",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/020_john_dos_passos_abd_1919.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/020_john_dos_passos_abd_1919.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/020_john_dos_passos_abd_1919.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/020_john_dos_passos_abd_1919.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "ABD 1919 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10414,
+      "title": "Bilinmeyen Bir Kadının Mektubu",
+      "authors": [
+        {
+          "name": "— 022. Stefan Zweig",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/022_stefan_zweig_bilinmeyen_bir_kadinin_mektubu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/022_stefan_zweig_bilinmeyen_bir_kadinin_mektubu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/022_stefan_zweig_bilinmeyen_bir_kadinin_mektubu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/022_stefan_zweig_bilinmeyen_bir_kadinin_mektubu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bilinmeyen Bir Kadının Mektubu eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10415,
+      "title": "Demir Ökçe",
+      "authors": [
+        {
+          "name": "— 023. Jack London",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/023_jack_london_demir_okce.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/023_jack_london_demir_okce.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/023_jack_london_demir_okce.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/023_jack_london_demir_okce.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Demir Ökçe eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10416,
+      "title": "Mozart ve Deyyuslar",
+      "authors": [
+        {
+          "name": "— 024. Anthony Burgess",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/024_anthony_burgess_mozart_ve_deyyuslar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/024_anthony_burgess_mozart_ve_deyyuslar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/024_anthony_burgess_mozart_ve_deyyuslar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/024_anthony_burgess_mozart_ve_deyyuslar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Mozart ve Deyyuslar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10417,
+      "title": "Çocuksu Bir Şey",
+      "authors": [
+        {
+          "name": "— 025. Katherine Mansfield",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/025_katherine_mansfield_cocuksu_bir_sey.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/025_katherine_mansfield_cocuksu_bir_sey.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/025_katherine_mansfield_cocuksu_bir_sey.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/025_katherine_mansfield_cocuksu_bir_sey.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Çocuksu Bir Şey eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10418,
+      "title": "Kule",
+      "authors": [
+        {
+          "name": "— 027. William Golding",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/027_william_golding_kule.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/027_william_golding_kule.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/027_william_golding_kule.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/027_william_golding_kule.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kule eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10419,
+      "title": "Ermiş",
+      "authors": [
+        {
+          "name": "— 028. Halil Cibran",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/028_halil_cibran_ermis.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/028_halil_cibran_ermis.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/028_halil_cibran_ermis.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/028_halil_cibran_ermis.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ermiş eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10420,
+      "title": "Altın Gözde Yansımalar",
+      "authors": [
+        {
+          "name": "— 029. Carson McCullers",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/029_carson_mccullers_altin_gozde_yansimalar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/029_carson_mccullers_altin_gozde_yansimalar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/029_carson_mccullers_altin_gozde_yansimalar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/029_carson_mccullers_altin_gozde_yansimalar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Altın Gözde Yansımalar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10421,
+      "title": "Bir Yazarın Günlüğü",
+      "authors": [
+        {
+          "name": "— 030. Virginia Woolf",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/030_virginia_woolf_bir_yazarin_gunlugu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/030_virginia_woolf_bir_yazarin_gunlugu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/030_virginia_woolf_bir_yazarin_gunlugu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/030_virginia_woolf_bir_yazarin_gunlugu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Yazarın Günlüğü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10422,
+      "title": "Deniz Kurdu",
+      "authors": [
+        {
+          "name": "— 031. Jack London",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/031_jack_london_deniz_kurdu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/031_jack_london_deniz_kurdu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/031_jack_london_deniz_kurdu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/031_jack_london_deniz_kurdu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Deniz Kurdu eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10423,
+      "title": "Kum ve Köpük",
+      "authors": [
+        {
+          "name": "— 032. Halil Cibran",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/032_halil_cibran_kum_ve_kopuk.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/032_halil_cibran_kum_ve_kopuk.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/032_halil_cibran_kum_ve_kopuk.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/032_halil_cibran_kum_ve_kopuk.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kum ve Köpük eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10424,
+      "title": "Huckleberry Finn'in Maceraları",
+      "authors": [
+        {
+          "name": "— 033. Mark Twain",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/033_mark_twain_huckleberry_finn_in_maceralari.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/033_mark_twain_huckleberry_finn_in_maceralari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/033_mark_twain_huckleberry_finn_in_maceralari.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/033_mark_twain_huckleberry_finn_in_maceralari.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Huckleberry Finn'in Maceraları eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10425,
+      "title": "Martı",
+      "authors": [
+        {
+          "name": "— 034. Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/034_anton_cehov_marti.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/034_anton_cehov_marti.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/034_anton_cehov_marti.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/034_anton_cehov_marti.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Martı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10426,
+      "title": "Vanya Dayı",
+      "authors": [
+        {
+          "name": "— 035. Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/035_anton_cehov_vanya_dayi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/035_anton_cehov_vanya_dayi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/035_anton_cehov_vanya_dayi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/035_anton_cehov_vanya_dayi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Vanya Dayı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10427,
+      "title": "Bir Hanımefendinin Portresi",
+      "authors": [
+        {
+          "name": "— 036. Henry James",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/036_henry_james_bir_hanimefendinin_portresi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/036_henry_james_bir_hanimefendinin_portresi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/036_henry_james_bir_hanimefendinin_portresi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/036_henry_james_bir_hanimefendinin_portresi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Hanımefendinin Portresi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10428,
+      "title": "Çocukluğum",
+      "authors": [
+        {
+          "name": "— 037. Maksim Gorki",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/037_maksim_gorki_cocuklugum.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/037_maksim_gorki_cocuklugum.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/037_maksim_gorki_cocuklugum.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/037_maksim_gorki_cocuklugum.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Çocukluğum eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10429,
+      "title": "Martin Eden",
+      "authors": [
+        {
+          "name": "— 038. Jack London",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/038_jack_london_martin_eden.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/038_jack_london_martin_eden.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/038_jack_london_martin_eden.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/038_jack_london_martin_eden.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Martin Eden eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10430,
+      "title": "Ayaktakımı Arasında",
+      "authors": [
+        {
+          "name": "— 039. Maksim Gorki",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/039_maksim_gorki_ayaktakimi_arasinda.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/039_maksim_gorki_ayaktakimi_arasinda.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/039_maksim_gorki_ayaktakimi_arasinda.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/039_maksim_gorki_ayaktakimi_arasinda.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ayaktakımı Arasında eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10431,
+      "title": "Bütün Şiirlerinden Seçmeler",
+      "authors": [
+        {
+          "name": "— 040. Rainer Maria Rilke",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/040_rainer_maria_rilke_butun_siirlerinden_secmeler.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/040_rainer_maria_rilke_butun_siirlerinden_secmeler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/040_rainer_maria_rilke_butun_siirlerinden_secmeler.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/040_rainer_maria_rilke_butun_siirlerinden_secmeler.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bütün Şiirlerinden Seçmeler eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10432,
+      "title": "Bir Elin Sesi Var",
+      "authors": [
+        {
+          "name": "— 041. Anthony Burgess",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/041_anthony_burgess_bir_elin_sesi_var.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/041_anthony_burgess_bir_elin_sesi_var.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/041_anthony_burgess_bir_elin_sesi_var.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/041_anthony_burgess_bir_elin_sesi_var.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Elin Sesi Var eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10433,
+      "title": "Yirmi Aşk Şiiri ve Umutsuz Bir Şarkı",
+      "authors": [
+        {
+          "name": "— 042. Pablo Neruda",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/042_pablo_neruda_yirmi_ask_siiri_ve_umutsuz_bir_sarki.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/042_pablo_neruda_yirmi_ask_siiri_ve_umutsuz_bir_sarki.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/042_pablo_neruda_yirmi_ask_siiri_ve_umutsuz_bir_sarki.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/042_pablo_neruda_yirmi_ask_siiri_ve_umutsuz_bir_sarki.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yirmi Aşk Şiiri ve Umutsuz Bir Şarkı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10434,
+      "title": "Şato",
+      "authors": [
+        {
+          "name": "— 043. Franz Kafka",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/043_franz_kafka_sato.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/043_franz_kafka_sato.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/043_franz_kafka_sato.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/043_franz_kafka_sato.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Şato eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10435,
+      "title": "Yıldız Gezgini",
+      "authors": [
+        {
+          "name": "— 044. Jack London",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/044_jack_london_yildiz_gezgini.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/044_jack_london_yildiz_gezgini.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/044_jack_london_yildiz_gezgini.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/044_jack_london_yildiz_gezgini.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yıldız Gezgini eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10436,
+      "title": "Meczup",
+      "authors": [
+        {
+          "name": "— 045. Halil Cibran",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/045_halil_cibran_meczup.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/045_halil_cibran_meczup.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/045_halil_cibran_meczup.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/045_halil_cibran_meczup.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Meczup eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10437,
+      "title": "Küçük Burjuvalar",
+      "authors": [
+        {
+          "name": "— 046. Maksim Gorki",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/046_maksim_gorki_kucuk_burjuvalar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/046_maksim_gorki_kucuk_burjuvalar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/046_maksim_gorki_kucuk_burjuvalar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/046_maksim_gorki_kucuk_burjuvalar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Küçük Burjuvalar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10438,
+      "title": "Genç Bir Doktor'un Anıları",
+      "authors": [
+        {
+          "name": "— 047. Mihail Bulgakov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/047_mihail_bulgakov_genc_bir_doktor_un_anilari.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/047_mihail_bulgakov_genc_bir_doktor_un_anilari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/047_mihail_bulgakov_genc_bir_doktor_un_anilari.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/047_mihail_bulgakov_genc_bir_doktor_un_anilari.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Genç Bir Doktor'un Anıları eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10439,
+      "title": "Gitanjali İlâhiler",
+      "authors": [
+        {
+          "name": "— 048. Rabindranath Tagore",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/048_rabindranath_tagore_gitanjali_il_hiler.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/048_rabindranath_tagore_gitanjali_il_hiler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/048_rabindranath_tagore_gitanjali_il_hiler.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/048_rabindranath_tagore_gitanjali_il_hiler.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Gitanjali İlâhiler eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10440,
+      "title": "Ben, Claudius",
+      "authors": [
+        {
+          "name": "— 050. Robert Graves",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/050_robert_graves_ben_claudius.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/050_robert_graves_ben_claudius.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/050_robert_graves_ben_claudius.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/050_robert_graves_ben_claudius.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ben, Claudius eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10441,
+      "title": "Ellerin Zamanlarla Dolu",
+      "authors": [
+        {
+          "name": "— 051. Paul Celan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/051_paul_celan_ellerin_zamanlarla_dolu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/051_paul_celan_ellerin_zamanlarla_dolu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/051_paul_celan_ellerin_zamanlarla_dolu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/051_paul_celan_ellerin_zamanlarla_dolu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ellerin Zamanlarla Dolu eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10442,
+      "title": "Bir Kadının Yaşamından Yirmi Dört Saat",
+      "authors": [
+        {
+          "name": "— 052. Stefan Zweig",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/052_stefan_zweig_bir_kadinin_yasamindan_yirmi_dort_saat.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/052_stefan_zweig_bir_kadinin_yasamindan_yirmi_dort_saat.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/052_stefan_zweig_bir_kadinin_yasamindan_yirmi_dort_saat.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/052_stefan_zweig_bir_kadinin_yasamindan_yirmi_dort_saat.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Kadının Yaşamından Yirmi Dört Saat eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10443,
+      "title": "Deniz Feneri",
+      "authors": [
+        {
+          "name": "— 053. Virginia Woolf",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/053_virginia_woolf_deniz_feneri.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/053_virginia_woolf_deniz_feneri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/053_virginia_woolf_deniz_feneri.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/053_virginia_woolf_deniz_feneri.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Deniz Feneri eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10444,
+      "title": "Piramit",
+      "authors": [
+        {
+          "name": "— 054. William Golding",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/054_william_golding_piramit.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/054_william_golding_piramit.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/054_william_golding_piramit.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/054_william_golding_piramit.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Piramit eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10445,
+      "title": "Karmaşık Duygular",
+      "authors": [
+        {
+          "name": "— 055. Stefan Zweig",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/055_stefan_zweig_karmasik_duygular.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/055_stefan_zweig_karmasik_duygular.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/055_stefan_zweig_karmasik_duygular.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/055_stefan_zweig_karmasik_duygular.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Karmaşık Duygular eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10446,
+      "title": "GOG 1-2",
+      "authors": [
+        {
+          "name": "Giovanni Papini",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Modern Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/giovanni_papini_gog_1_2.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/giovanni_papini_gog_1_2.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/giovanni_papini_gog_1_2.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Aykırı düşüncelere sahip ateşli bir polemikçi olan Giovanni Papini, 20. yüzyılın ilk yarısının tartışmalı edebi kişiliklerinden biridir. 1931 yılında yayımlanan Gog’da Birinci Dünya Savaşı sırasında büyük bir servet edinen ve dünyayı gezmekte olan Amerikalı bir milyarderin hikâyesini anlatır. Dünyada olup bitenin nedenini arayan bu saf ve cahil Amerikalı, Bernard Shaw’dan Gandhi’ye, Freud’dan Einstein’a kadar birçok ünlü kişiyle karşılaşır."
+      ]
+    },
+    {
+      "id": 10447,
+      "title": "Korku",
+      "authors": [
+        {
+          "name": "— 057. Stefan Zweig",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/057_stefan_zweig_korku.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/057_stefan_zweig_korku.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/057_stefan_zweig_korku.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/057_stefan_zweig_korku.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Korku eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10448,
+      "title": "Ölümcül Yumurtalar",
+      "authors": [
+        {
+          "name": "— 058. Mihail Bulgakov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/058_mihail_bulgakov_olumcul_yumurtalar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/058_mihail_bulgakov_olumcul_yumurtalar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/058_mihail_bulgakov_olumcul_yumurtalar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/058_mihail_bulgakov_olumcul_yumurtalar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ölümcül Yumurtalar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10449,
+      "title": "Çatal Dil",
+      "authors": [
+        {
+          "name": "— 059. William Golding",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/059_william_golding_catal_dil.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/059_william_golding_catal_dil.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/059_william_golding_catal_dil.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/059_william_golding_catal_dil.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Çatal Dil eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10450,
+      "title": "Ekmeğimi Kazanırken",
+      "authors": [
+        {
+          "name": "— 060. Maksim Gorki",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/060_maksim_gorki_ekmegimi_kazanirken.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/060_maksim_gorki_ekmegimi_kazanirken.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/060_maksim_gorki_ekmegimi_kazanirken.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/060_maksim_gorki_ekmegimi_kazanirken.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ekmeğimi Kazanırken eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
       ]
     }
   ]
