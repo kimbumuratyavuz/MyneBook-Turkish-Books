@@ -1,5 +1,5 @@
 {
-  "count": 850,
+  "count": 900,
   "next": null,
   "previous": null,
   "results": [
@@ -29602,6 +29602,1756 @@
       "download_count": 0,
       "summaries": [
         "Kör Baykuƒ eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10851,
+      "title": "Vejetaryenliºin Yararlarì",
+      "authors": [
+        {
+          "name": "Sadìk Hidayet",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sad_k_hidayet_vejetaryenli_in_yararlar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sad_k_hidayet_vejetaryenli_in_yararlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sad_k_hidayet_vejetaryenli_in_yararlar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sad_k_hidayet_vejetaryenli_in_yararlar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Vejetaryenliºin Yararlarì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10852,
+      "title": "Üç Damla Kan",
+      "authors": [
+        {
+          "name": "Sadìk Hidayet",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sad_k_hidayet_uc_damla_kan.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sad_k_hidayet_uc_damla_kan.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sad_k_hidayet_uc_damla_kan.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sad_k_hidayet_uc_damla_kan.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Üç Damla Kan eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10853,
+      "title": "Herakleitos",
+      "authors": [
+        {
+          "name": "Samih Rifat",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/samih_rifat_herakleitos.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/samih_rifat_herakleitos.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/samih_rifat_herakleitos.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/samih_rifat_herakleitos.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Herakleitos eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10854,
+      "title": "Çocuºu Anlat Bana",
+      "authors": [
+        {
+          "name": "Samih Rifat",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/samih_rifat_cocu_u_anlat_bana.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/samih_rifat_cocu_u_anlat_bana.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/samih_rifat_cocu_u_anlat_bana.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/samih_rifat_cocu_u_anlat_bana.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Çocuºu Anlat Bana eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10855,
+      "title": "Kitaplarìn ×enlik Ateƒi",
+      "authors": [
+        {
+          "name": "Serdar Rifat",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/serdar_rifat_kitaplar_n_enlik_ate_i.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/serdar_rifat_kitaplar_n_enlik_ate_i.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/serdar_rifat_kitaplar_n_enlik_ate_i.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/serdar_rifat_kitaplar_n_enlik_ate_i.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kitaplarìn ×enlik Ateƒi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10856,
+      "title": "Bir Solgun Adam",
+      "authors": [
+        {
+          "name": "Selçuk Baran",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_bir_solgun_adam.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/selcuk_baran_bir_solgun_adam.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_bir_solgun_adam.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_bir_solgun_adam.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Solgun Adam eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10857,
+      "title": "Bozkìr Çiçekleri",
+      "authors": [
+        {
+          "name": "Selçuk Baran",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_bozk_r_cicekleri.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/selcuk_baran_bozk_r_cicekleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_bozk_r_cicekleri.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_bozk_r_cicekleri.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bozkìr Çiçekleri eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10858,
+      "title": "Ceviz Aºacìna Kar Yaºdì",
+      "authors": [
+        {
+          "name": "Selçuk Baran",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_ceviz_a_ac_na_kar_ya_d.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/selcuk_baran_ceviz_a_ac_na_kar_ya_d.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_ceviz_a_ac_na_kar_ya_d.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_ceviz_a_ac_na_kar_ya_d.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ceviz Aºacìna Kar Yaºdì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10859,
+      "title": "Güz Gelmeden",
+      "authors": [
+        {
+          "name": "Selçuk Baran",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_guz_gelmeden.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/selcuk_baran_guz_gelmeden.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_guz_gelmeden.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_guz_gelmeden.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Güz Gelmeden eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10860,
+      "title": "Türkan Hanìm'ìn Ölümü",
+      "authors": [
+        {
+          "name": "Selçuk Baran",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_turkan_han_m_n_olumu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/selcuk_baran_turkan_han_m_n_olumu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_turkan_han_m_n_olumu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/selcuk_baran_turkan_han_m_n_olumu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Türkan Hanìm'ìn Ölümü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10861,
+      "title": "O Pera'daki Hayalet",
+      "authors": [
+        {
+          "name": "Sezer Duru, Orhan Duru",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sezer_duru_orhan_duru_o_pera_daki_hayalet.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sezer_duru_orhan_duru_o_pera_daki_hayalet.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sezer_duru_orhan_duru_o_pera_daki_hayalet.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sezer_duru_orhan_duru_o_pera_daki_hayalet.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "O Pera'daki Hayalet eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10862,
+      "title": "Anadolu Masallarì",
+      "authors": [
+        {
+          "name": "Tahsin Yücel",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tahsin_yucel_anadolu_masallar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tahsin_yucel_anadolu_masallar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tahsin_yucel_anadolu_masallar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tahsin_yucel_anadolu_masallar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Anadolu Masallarì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10863,
+      "title": "Yüz ve Söz",
+      "authors": [
+        {
+          "name": "Tahsin Yücel",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tahsin_yucel_yuz_ve_soz.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tahsin_yucel_yuz_ve_soz.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tahsin_yucel_yuz_ve_soz.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tahsin_yucel_yuz_ve_soz.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yüz ve Söz eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10864,
+      "title": "Hatìratìm",
+      "authors": [
+        {
+          "name": "Talat Aydemir",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/talat_aydemir_hat_rat_m.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/talat_aydemir_hat_rat_m.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/talat_aydemir_hat_rat_m.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/talat_aydemir_hat_rat_m.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Hatìratìm eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10865,
+      "title": "Eski Bahçe, Eski Sevgi",
+      "authors": [
+        {
+          "name": "Tezer Özlü",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_eski_bahce_eski_sevgi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tezer_ozlu_eski_bahce_eski_sevgi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_eski_bahce_eski_sevgi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_eski_bahce_eski_sevgi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Eski Bahçe, Eski Sevgi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10866,
+      "title": "Kalanlar",
+      "authors": [
+        {
+          "name": "Tezer Özlü",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_kalanlar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tezer_ozlu_kalanlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_kalanlar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_kalanlar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kalanlar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10867,
+      "title": "Yaƒamìn Ucuna Yolculuk",
+      "authors": [
+        {
+          "name": "Tezer Özlü",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_ya_am_n_ucuna_yolculuk.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tezer_ozlu_ya_am_n_ucuna_yolculuk.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_ya_am_n_ucuna_yolculuk.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_ya_am_n_ucuna_yolculuk.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yaƒamìn Ucuna Yolculuk eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10868,
+      "title": "Yeryüzüne Dayanabilmek ÿçin",
+      "authors": [
+        {
+          "name": "Tezer Özlü",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_yeryuzune_dayanabilmek_cin.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tezer_ozlu_yeryuzune_dayanabilmek_cin.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_yeryuzune_dayanabilmek_cin.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_yeryuzune_dayanabilmek_cin.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yeryüzüne Dayanabilmek ÿçin eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10869,
+      "title": "Zaman Dìƒì Yaƒam",
+      "authors": [
+        {
+          "name": "Tezer Özlü",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_zaman_d_ya_am.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tezer_ozlu_zaman_d_ya_am.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_zaman_d_ya_am.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_zaman_d_ya_am.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Zaman Dìƒì Yaƒam eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10870,
+      "title": "Çocukluºumun Soºuk Geceleri",
+      "authors": [
+        {
+          "name": "Tezer Özlü",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_cocuklu_umun_so_uk_geceleri.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tezer_ozlu_cocuklu_umun_so_uk_geceleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_cocuklu_umun_so_uk_geceleri.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tezer_ozlu_cocuklu_umun_so_uk_geceleri.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Çocukluºumun Soºuk Geceleri eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10871,
+      "title": "Tezer Özlü'den Leyla Erbil'e Mektuplar",
+      "authors": [
+        {
+          "name": "Bilinmiyor",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bilinmiyor_tezer_ozlu_den_leyla_erbil_e_mektuplar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bilinmiyor_tezer_ozlu_den_leyla_erbil_e_mektuplar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bilinmiyor_tezer_ozlu_den_leyla_erbil_e_mektuplar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bilinmiyor_tezer_ozlu_den_leyla_erbil_e_mektuplar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Tezer Özlü'den Leyla Erbil'e Mektuplar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10872,
+      "title": "Aramìzdaki ×ey",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_aram_zdaki_ey.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_aram_zdaki_ey.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_aram_zdaki_ey.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_aram_zdaki_ey.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Aramìzdaki ×ey eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10873,
+      "title": "Aƒkìn Yìpranma Payì",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_a_k_n_y_pranma_pay.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_a_k_n_y_pranma_pay.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_a_k_n_y_pranma_pay.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_a_k_n_y_pranma_pay.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Aƒkìn Yìpranma Payì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10874,
+      "title": "Dizboyu Papatyalar",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_dizboyu_papatyalar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_dizboyu_papatyalar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_dizboyu_papatyalar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_dizboyu_papatyalar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Dizboyu Papatyalar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10875,
+      "title": "Gecegezen Kìzlar",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_gecegezen_k_zlar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_gecegezen_k_zlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_gecegezen_k_zlar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_gecegezen_k_zlar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Gecegezen Kìzlar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10876,
+      "title": "Gündökümü I",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_gundokumu_i.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_gundokumu_i.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_gundokumu_i.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_gundokumu_i.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Gündökümü I eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10877,
+      "title": "Gündökümü II",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_gundokumu_ii.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_gundokumu_ii.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_gundokumu_ii.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_gundokumu_ii.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Gündökümü II eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10878,
+      "title": "Güzel Yazì Defteri",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_guzel_yaz_defteri.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_guzel_yaz_defteri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_guzel_yaz_defteri.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_guzel_yaz_defteri.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Güzel Yazì Defteri eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10879,
+      "title": "Kitapla Direniƒ",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_kitapla_direni.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_kitapla_direni.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_kitapla_direni.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_kitapla_direni.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kitapla Direniƒ eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10880,
+      "title": "Metal Yorgunluºu",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_metal_yorgunlu_u.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_metal_yorgunlu_u.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_metal_yorgunlu_u.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_metal_yorgunlu_u.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Metal Yorgunluºu eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10881,
+      "title": "Otuzlarìn Kadìnì",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_otuzlar_n_kad_n.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_otuzlar_n_kad_n.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_otuzlar_n_kad_n.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_otuzlar_n_kad_n.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Otuzlarìn Kadìnì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10882,
+      "title": "Sekizinci Günah",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_sekizinci_gunah.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_sekizinci_gunah.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_sekizinci_gunah.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_sekizinci_gunah.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sekizinci Günah eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10883,
+      "title": "Veys",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_veys.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_veys.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_veys.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_veys.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Veys eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10884,
+      "title": "Yaz Düƒleri, Düƒ Kìƒlarì",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_yaz_du_leri_du_k_lar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_yaz_du_leri_du_k_lar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_yaz_du_leri_du_k_lar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_yaz_du_leri_du_k_lar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yaz Düƒleri, Düƒ Kìƒlarì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10885,
+      "title": "Yaza Yolculuk",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_yaza_yolculuk.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_yaza_yolculuk.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_yaza_yolculuk.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_yaza_yolculuk.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yaza Yolculuk eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10886,
+      "title": "Yürekte Bukaºì",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_yurekte_buka.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_yurekte_buka.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_yurekte_buka.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_yurekte_buka.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yürekte Bukaºì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10887,
+      "title": "Ödeƒmeler ve ×ahmeran Hikayesi",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_ode_meler_ve_ahmeran_hikayesi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_ode_meler_ve_ahmeran_hikayesi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_ode_meler_ve_ahmeran_hikayesi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_ode_meler_ve_ahmeran_hikayesi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ödeƒmeler ve ×ahmeran Hikayesi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10888,
+      "title": "ÿpek ve Bakìr",
+      "authors": [
+        {
+          "name": "Tomris Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_pek_ve_bak_r.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tomris_uyar_pek_ve_bak_r.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_pek_ve_bak_r.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tomris_uyar_pek_ve_bak_r.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "ÿpek ve Bakìr eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10889,
+      "title": "Adìm Ece Ayhan Çaºlar",
+      "authors": [
+        {
+          "name": "Tunç Tayanç",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tunc_tayanc_ad_m_ece_ayhan_ca_lar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tunc_tayanc_ad_m_ece_ayhan_ca_lar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tunc_tayanc_ad_m_ece_ayhan_ca_lar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tunc_tayanc_ad_m_ece_ayhan_ca_lar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Adìm Ece Ayhan Çaºlar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10890,
+      "title": "Bir ×iirden",
+      "authors": [
+        {
+          "name": "Turgut Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_bir_iirden.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/turgut_uyar_bir_iirden.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_bir_iirden.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_bir_iirden.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir ×iirden eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10891,
+      "title": "Büyük Saat",
+      "authors": [
+        {
+          "name": "Turgut Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_buyuk_saat.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/turgut_uyar_buyuk_saat.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_buyuk_saat.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_buyuk_saat.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Büyük Saat eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10892,
+      "title": "Divan",
+      "authors": [
+        {
+          "name": "Turgut Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_divan.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/turgut_uyar_divan.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_divan.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_divan.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Divan eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10893,
+      "title": "Elele Okuyalìm",
+      "authors": [
+        {
+          "name": "Turgut Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_elele_okuyal_m.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/turgut_uyar_elele_okuyal_m.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_elele_okuyal_m.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_elele_okuyal_m.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Elele Okuyalìm eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10894,
+      "title": "Korkulu Ustalìk",
+      "authors": [
+        {
+          "name": "Turgut Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_korkulu_ustal_k.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/turgut_uyar_korkulu_ustal_k.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_korkulu_ustal_k.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_korkulu_ustal_k.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Korkulu Ustalìk eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10895,
+      "title": "Yitiksiz",
+      "authors": [
+        {
+          "name": "Turgut Uyar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_yitiksiz.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/turgut_uyar_yitiksiz.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_yitiksiz.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/turgut_uyar_yitiksiz.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yitiksiz eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10896,
+      "title": "Nefaset Lokantasì",
+      "authors": [
+        {
+          "name": "Tuºba Doºan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tu_ba_do_an_nefaset_lokantas.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tu_ba_do_an_nefaset_lokantas.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tu_ba_do_an_nefaset_lokantas.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tu_ba_do_an_nefaset_lokantas.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Nefaset Lokantasì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10897,
+      "title": "Hegel",
+      "authors": [
+        {
+          "name": "Tülin Bumin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tulin_bumin_hegel.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/tulin_bumin_hegel.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tulin_bumin_hegel.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/tulin_bumin_hegel.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Hegel eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10898,
+      "title": "Uzun Gecenin Tutsaklarì",
+      "authors": [
+        {
+          "name": "Uºur Kökden",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/u_ur_kokden_uzun_gecenin_tutsaklar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/u_ur_kokden_uzun_gecenin_tutsaklar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/u_ur_kokden_uzun_gecenin_tutsaklar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/u_ur_kokden_uzun_gecenin_tutsaklar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Uzun Gecenin Tutsaklarì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10899,
+      "title": "Bahtiyar Ol Nazìm",
+      "authors": [
+        {
+          "name": "Vera Tulyakova Hikmet",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/vera_tulyakova_hikmet_bahtiyar_ol_naz_m.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/vera_tulyakova_hikmet_bahtiyar_ol_naz_m.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/vera_tulyakova_hikmet_bahtiyar_ol_naz_m.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/vera_tulyakova_hikmet_bahtiyar_ol_naz_m.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bahtiyar Ol Nazìm eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10900,
+      "title": "Bay Muannit Sahtegi'nin Notlarì",
+      "authors": [
+        {
+          "name": "Vüs'at O. Bener",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/vus_at_o_bener_bay_muannit_sahtegi_nin_notlar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/vus_at_o_bener_bay_muannit_sahtegi_nin_notlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/vus_at_o_bener_bay_muannit_sahtegi_nin_notlar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/vus_at_o_bener_bay_muannit_sahtegi_nin_notlar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bay Muannit Sahtegi'nin Notlarì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
       ]
     }
   ]
