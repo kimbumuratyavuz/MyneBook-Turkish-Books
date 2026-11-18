@@ -1,5 +1,5 @@
 {
-  "count": 373,
+  "count": 423,
   "next": null,
   "previous": null,
   "results": [
@@ -12980,6 +12980,1734 @@
       "download_count": 1000,
       "summaries": [
         "Bir Maskenin ÿtiraflarì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10374,
+      "title": "Yaz Ortasìnda Ölüm",
+      "authors": [
+        {
+          "name": "Yukio Miƒima",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/yukio_mi_ima_yaz_ortas_nda_olum.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/yukio_mi_ima_yaz_ortas_nda_olum.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/yukio_mi_ima_yaz_ortas_nda_olum.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/yukio_mi_ima_yaz_ortas_nda_olum.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Yaz Ortasìnda Ölüm eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10375,
+      "title": "Saba Cümlemiz",
+      "authors": [
+        {
+          "name": "Ziya Osman",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ziya_osman_saba_cumlemiz.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ziya_osman_saba_cumlemiz.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ziya_osman_saba_cumlemiz.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ziya_osman_saba_cumlemiz.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Saba Cümlemiz eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10376,
+      "title": "Suçluyorum",
+      "authors": [
+        {
+          "name": "Émile Zola",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/mile_zola_sucluyorum.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/mile_zola_sucluyorum.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/mile_zola_sucluyorum.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Suçluyorum eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10377,
+      "title": "Yüz Uzun Yìl cs",
+      "authors": [
+        {
+          "name": "×emsettin Ünlü",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/emsettin_unlu_yuz_uzun_y_l_cs.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/emsettin_unlu_yuz_uzun_y_l_cs.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/emsettin_unlu_yuz_uzun_y_l_cs.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/emsettin_unlu_yuz_uzun_y_l_cs.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Yüz Uzun Yìl cs eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10378,
+      "title": "Telli Horoz'un Oykusu cs",
+      "authors": [
+        {
+          "name": "ÿlhan Yuce",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lhan_yuce_telli_horoz_un_oykusu_cs.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/lhan_yuce_telli_horoz_un_oykusu_cs.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lhan_yuce_telli_horoz_un_oykusu_cs.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lhan_yuce_telli_horoz_un_oykusu_cs.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Telli Horoz'un Oykusu cs eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10379,
+      "title": "Yunus Emre Hayatı ve Bütün Şiirleri",
+      "authors": [
+        {
+          "name": "Abdülbaki Gölpınarlı",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Şiir",
+        "Yunus Emre",
+        "Biyografi",
+        "Orjinal"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/abdulbaki_golpinarli_yunus_emre_hayati_ve_butun_siirleri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/abdulbaki_golpinarli_yunus_emre_hayati_ve_butun_siirleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/abdulbaki_golpinarli_yunus_emre_hayati_ve_butun_siirleri.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Yunus Emre Hayatın ve halkın dili ile gür bir\nlirizmi kaynaştırarak tasavvuf şiirinin kurucularından\nbiri olmayı başaran unutulmaz bir\n13. yüzyıl sonu - 14. yüzyıl başı ozanıdır."
+      ]
+    },
+    {
+      "id": 10380,
+      "title": "Milletlerin Zenginliği",
+      "authors": [
+        {
+          "name": "Adam Smith",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "İş Ekonomi",
+        "Hukuk"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/adam_smith_milletlerin_zenginligi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/adam_smith_milletlerin_zenginligi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/adam_smith_milletlerin_zenginligi.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Adam Smith (1723-1790): Çağının önde gelen ahlâk felsefecilerinden biri ve bu yıl yayımının 230. yılı kutlanan ve \"İktisatın açılış kitabı\" Milletlerin Zenginliği (1776) ile kalıcılaşmış bir 18. yüzyıl düşünürüdür. Elinizdeki baskıysa, bu önemli yapıtın Türkçedeki ilk ve tek eksiksiz çevirisi olmasının yanısıra, Prof. Dr. Gülten Kazgan'ın kapsamlı sunuşuyla da farkını ortaya koymaktadır. Haldun Derin (1912-2004); Atatürk, İnönü ve Bayar dönemi anılarını kitaplaştırdığı Çankaya Özel Kalemini Anımsarken: 1933-1951 'den (1995) Shakespeare, Adam Smith ve Orwell çevirilerine, bürokrasimizin en önemli çevirmen-yazarlarındandır. Milletlerin Zenginliği ise , bugün çevirmeninin elinden çıktığı biçimiyle yayımlanışıyla da bir \"vasiyeti\" yerine getirmektedir."
+      ]
+    },
+    {
+      "id": 10381,
+      "title": "Zincire Vurulmuş Prometheus",
+      "authors": [
+        {
+          "name": "Aiskhylos",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aiskhylos_zincire_vurulmus_prometheus.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aiskhylos_zincire_vurulmus_prometheus.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aiskhylos_zincire_vurulmus_prometheus.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aiskhylos_zincire_vurulmus_prometheus.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Zincire Vurulmuş Prometheus eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10382,
+      "title": "Boris Godunov",
+      "authors": [
+        {
+          "name": "Aleksandr Puşkin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Oyun",
+        "Rus Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_boris_godunov.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aleksandr_puskin_boris_godunov.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aleksandr_puskin_boris_godunov.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Aleksandr Puşkin (1799-1837): Otuz sekiz yıl süren kısa hayatı, komploya çok benzeyen bir düelloyla son bulduğunda Puşkin şiirleri, romanları, öyküleri ve oyunlarıyla çoktan 19. yüzyılın ve Rus Edebiyatının öncü yazarlarından biri olmuştu. Puşkin Shakespeare'in tarihi oyunlarından etkilenerek yazdığı Boris Godunov tragedyasında insanın iktidarla ilişkisini gayet yalın, gerçekçi bir şiir diliyle aktarmaktadır. Puşkin'in 1825 yılında sürgündeyken yazdığı oyun, sansür dolayısıyla ve sahnelenmesinin güç olduğu düşünüldüğünden ancak ölümünden sonra 1865'te sahnelenebilmiştir. Daha sonra pek çok kez başarıyla sahnelenen oyun, Musorgski'nin aynı adlı operasına da esin kaynağı olmuştur."
+      ]
+    },
+    {
+      "id": 10383,
+      "title": "Binbir Hayalet",
+      "authors": [
+        {
+          "name": "Alexandre Dumas",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Öykü",
+        "Fransız Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_binbir_hayalet.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alexandre_dumas_binbir_hayalet.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_binbir_hayalet.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Binbir Hayalet'in öykülerini gerçek kişilerle örerek anlatan ve böylece konusuna sahicilik duygusu kazandıran A. Dumas, gerçek olayların korkunçluğunu da hayalet öykülerinin dehşetiyle örtülmüş olarak aktarıyor."
+      ]
+    },
+    {
+      "id": 10384,
+      "title": "Üç Silahşör",
+      "authors": [
+        {
+          "name": "Alexandre Dumas",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_uc_silahsor.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alexandre_dumas_uc_silahsor.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_uc_silahsor.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_uc_silahsor.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Üç Silahşör eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10385,
+      "title": "Yüzbaşının Kızı",
+      "authors": [
+        {
+          "name": "Alexsandr Sergeyeviç Puşkin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexsandr_sergeyevic_puskin_yuzbasinin_kizi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alexsandr_sergeyevic_puskin_yuzbasinin_kizi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexsandr_sergeyevic_puskin_yuzbasinin_kizi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexsandr_sergeyevic_puskin_yuzbasinin_kizi.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Yüzbaşının Kızı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10386,
+      "title": "Marianne'in Kalbi",
+      "authors": [
+        {
+          "name": "Alfred De Musset",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Orijinal",
+        "Fransız Edebiyatı",
+        "Klasik",
+        "Oyun"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alfred_de_musset_marianne_in_kalbi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alfred_de_musset_marianne_in_kalbi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alfred_de_musset_marianne_in_kalbi.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Alfred de Musset (1810-1857): İlk şiirleri yirmi yaşında yayımlanan sanatçı, daha sonra oyun, roman ve öyküler yazsa da şair olarak ün kazandı. Oyunlarını sahnelenmek üzere değil, daha çok okunması için yazdı. Bununla birlikte günümüzde dahi sahneye konulan oyunları eserlerinin taşıdığı dramatik değeri kanıtlamaktadır.\n\nDili ve duygularındaki içtenlik, seyirciyi kavrayan bir şiir ve rüya havası oyunlarının hep canlı ve yeni kalmasını sağlamıştır. Marianne'in Kalbi, Alfred de Musset'nin çok beğenilen ve en sık oynanan birkaç dramından biridir.\n\nYazarın tiyatro anlayışının iyi bir örneği olan bu oyun romantik Fransız dramının yapmacığa kaçmayan, bu yüzden eskimeyen eserleri arasında yer alır."
+      ]
+    },
+    {
+      "id": 10387,
+      "title": "Ayı",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Senaryo"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_ayi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_ayi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_ayi.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Anton Çehov (1860-1904): Oyun ve hikâyeleriyle hayatın yalınlığı ve karmaşası içindeki insanlık durumlarını büyük bir duyarlılıkla işleyerek dünya edebiyatına damgasını vuran en önemli Rus yazarlarından biridir. Bu kitapta yer alan dokuz kısa oyununun altısı komedi, üçü dramdır. Başta Ayı olmak üzere komedileri tüm dünyada defalarca sahnelenmiş, büyük beğeniyle karşılanmıştır. Dramlardan Kuğunun Şarkısı ve Şehir Yolunda kendi hikâyelerinden, Tatyana Repina'ysa Suvorin'in bir oyunundan ilhamla yazılmıştır. Çehov kısa oyunlarında da tıpkı hikâyelerindeki gibi ilk bakışta önemsiz, gülünç ya da tuhaf görünen günlük olayları işlemiştir.Yaşamın sıradan olaylarını kendine has, sade fakat bir o kadar çarpıcı üslubuyla sahneye aktararak Tolstoy'un onun için söylediği \"Çehov eşsiz bir yaşam ressamıdır\" sözlerinin doğruluğunu kanıtlamıştır."
+      ]
+    },
+    {
+      "id": 10388,
+      "title": "Büyük Oyunlar",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Oyun"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_buyuk_oyunlar.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_buyuk_oyunlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_buyuk_oyunlar.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Anton Çehov (1860-1904): Kırkdört yıllık ömrüne karşın, hayatın yalınlığı ve karmaşası içindeki insanlık durumlarını büyük bir duyarlılıkla işlediği oyun ve öyküleriyle, dünya edebiyatına damgasını vuran en önemli 19. yüzyıl yazarlarından biridir. Bu ciltteyse, İvanov ve Martı'dan Vişne Bahçesi'ne, Çehov'un altı büyük oyunu, yazılış sırasıyla yer almakta ve bu büyük ustanın oyun yazarlığının farklı evrelerine ışık tutmaktadır."
+      ]
+    },
+    {
+      "id": 10389,
+      "title": "Atinalıların Devleti",
+      "authors": [
+        {
+          "name": "Aristoteles",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Felsefe",
+        "Tarih",
+        "Yunan Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aristoteles_atinalilarin_devleti_10389.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/aristoteles_atinalilarin_devleti_10389.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/aristoteles_atinalilarin_devleti_10389.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Aristoteles (MÖ 384-MÖ 323): En önemli ve çok yönlü Antik Yunan filozoflarından biridir. Çağdaş felsefe eğitiminin ayrılmaz bir parçası olan görüşlerinin etkileri pek çok alanda sürmektedir. Dil, felsefe, sanat, fizik gibi çok çeşitli alanlarda, günümüzde dahi canlılığını koruyan pek çok kavram ve kuramsal ayrımla düşünce tarihine büyük katkısı olmuştur. Atinalıların Devleti, Aristoteles'in genel okur kitlesine hitaben yazılmış, devlet rejimlerini konu alan kapsamlı eseri Politeia'nın ilk ve en ayrıntılı kısmıdır.Aristoteles Atina tarihini anlattıktan sonra kendine has metodik ve bilimsel yaklaşımla Atina devletinin yapısını ve işleyişini anlatır. Atina demokrasisi ve kurumları hakkında bugün bildiklerimizin çoğuna kaynaklık eden Atinalıların Devleti, sadece içeriğiyle değil üslubuyla da çok değerli bir klasiktir."
+      ]
+    },
+    {
+      "id": 10390,
+      "title": "Illuminations Fransızca - Türkçe",
+      "authors": [
+        {
+          "name": "Arthur Rimbaud - Türkiye İş Bankası Kültür Yayınları",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_rimbaud_turkiye_is_bankasi_kultur_yayinlari_illuminations_fransizca.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_rimbaud_turkiye_is_bankasi_kultur_yayinlari_illuminations_fransizca.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_rimbaud_turkiye_is_bankasi_kultur_yayinlari_illuminations_fransizca.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Illuminations Fransızca - Türkçe eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10391,
+      "title": "Yaşam Bilgeliği Üzerine Aforizmalar",
+      "authors": [
+        {
+          "name": "Arthur Schopenhauer",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_schopenhauer_yasam_bilgeligi_uzerine_aforizmalar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_schopenhauer_yasam_bilgeligi_uzerine_aforizmalar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_schopenhauer_yasam_bilgeligi_uzerine_aforizmalar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_schopenhauer_yasam_bilgeligi_uzerine_aforizmalar.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Yaşam Bilgeliği Üzerine Aforizmalar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10392,
+      "title": "Hayat Bir Rüyadır",
+      "authors": [
+        {
+          "name": "Calderon De La Barca",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/calderon_de_la_barca_hayat_bir_ruyadir.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/calderon_de_la_barca_hayat_bir_ruyadir.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/calderon_de_la_barca_hayat_bir_ruyadir.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/calderon_de_la_barca_hayat_bir_ruyadir.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Hayat Bir Rüyadır eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10393,
+      "title": "Paris Sıkıntısı",
+      "authors": [
+        {
+          "name": "Charles Baudelaire",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/charles_baudelaire_paris_sikintisi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/charles_baudelaire_paris_sikintisi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/charles_baudelaire_paris_sikintisi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/charles_baudelaire_paris_sikintisi.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Paris Sıkıntısı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10394,
+      "title": "Robinson Crusoe",
+      "authors": [
+        {
+          "name": "Daniel Defoe",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Orijinal",
+        "Klasik",
+        "Macera"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/daniel_defoe_robinson_crusoe.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/daniel_defoe_robinson_crusoe.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/daniel_defoe_robinson_crusoe.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Daniel Defoe (1660-1731) Londra'da varlıklı bir ailede dünyaya geldi. İyi bir akademik eğitimin ardından ticarete atıldı. Çetin ve macera dolu bir ticaret hayatının ardından siyasi yergilerle yazarlığa başladı. Gözü pek bir gazetecilik kariyeri ve pek beğenilen didaktik eserlerinin ardından, geç sayılabilecek bir yaşta onu dünya edebiyatının başköşelerinden birine yerleştiren Robinson Crusoe romanını yazdı. Defoe bu ölümsüz eserinde, gemi kazası sonucu düştüğü ıssız bir adada hayatta kalma mücadelesi veren Robinson Crusoe'nun hikâyesini ustalıkla anlatır. İnsan doğasını çok iyi tanıyan yazar güçlü kalemi ve yalın üslubuyla insanlık tarihinin her döneminde, her okurun kendisinden bir şeyler bulabileceği bir kahraman yaratmayı başarır. Çeşitli konularda pek çok eser yazan Defoe, İngiliz romanının kurucularından sayılır."
+      ]
+    },
+    {
+      "id": 10395,
+      "title": "Siyasal İktisadın ve Vergilendirmenin İlkeleri",
+      "authors": [
+        {
+          "name": "David Ricardo",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Orjinal",
+        "Ekonomi",
+        "Politik"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/david_ricardo_siyasal_iktisadin_ve_vergilendirmenin_ilkeleri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/david_ricardo_siyasal_iktisadin_ve_vergilendirmenin_ilkeleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/david_ricardo_siyasal_iktisadin_ve_vergilendirmenin_ilkeleri.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "David Ricardo (1772-1823): A. Smith'le başlayıp J.S. Mill ile sona eren İngiliz Klasik Okulu'nun doruk noktasını oluşturduğu kabul edilir.. Siyasal İktisadın ve Vergilendirmenin İlkeleri'nde ekonomi bilimi ve politikanın bugün de uğraştığı sorunları iki yüzyıl önce ele alan Ricardo, bu yapıtıyla K. Marx'tan J.S. Mill'e kadar farklı çizgide birçok düşünürü derinden etkilemiştir."
+      ]
+    },
+    {
+      "id": 10396,
+      "title": "Stepançikovo Köyü",
+      "authors": [
+        {
+          "name": "Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dostoyevski_stepancikovo_koyu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/dostoyevski_stepancikovo_koyu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dostoyevski_stepancikovo_koyu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/dostoyevski_stepancikovo_koyu.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Stepançikovo Köyü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10397,
+      "title": "Dedektif Auguste Dupin Öyküleri",
+      "authors": [
+        {
+          "name": "Edgar Allan Poe",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Öykü"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/edgar_allan_poe_dedektif_auguste_dupin_oykuleri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/edgar_allan_poe_dedektif_auguste_dupin_oykuleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/edgar_allan_poe_dedektif_auguste_dupin_oykuleri.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Edgar Allan Poe (1809-1849): Topu topu kırk yıl süren çalkantılı yaşantısına karşın, şiirleri, öyküleri ve denemeleriyle, çığır açıcı etkisini günümüzde de sürdüren en önemli 19. yüzyıl yazarlarındandır.\n\n\nBu kitaptaysa; akıl yürütme ve çözümleme teknikleriyle, Poe'nun dünya edebiyatına armağan ettiği ilk dedektif Auguste Dupin ve onun üç sıradışı macerası yer almaktadır."
+      ]
+    },
+    {
+      "id": 10398,
+      "title": "Germinal",
+      "authors": [
+        {
+          "name": "Emile Zola",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Klasikleri",
+        "Fransız Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/emile_zola_germinal.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/emile_zola_germinal.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/emile_zola_germinal.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Natüralizm akımının en önemli temsilcilerinden olan yazar, romanları için gerekli yaşam deneyimini zorluklar içinde geçen gençlik yıllarında kazandı. Zola, romancının olayları bir izleyici gibi kaydetmekle yetinmemesi, kişileri ve tutkularını bir dizi deneyden geçirirken, duygusal ve toplumsal olguları bir kimyacı gibi işlemesi gerektiğini savundu. Kuzey Fransa'da uzlaşmaya yanaşmayan maden işçilerinin grevini konu alan Germinal sadece Zola'nın değil, Fransız edebiyatının da en değerli eserleri arasında sayılmaktadır."
+      ]
+    },
+    {
+      "id": 10399,
+      "title": "Mantık Al-Tayr",
+      "authors": [
+        {
+          "name": "Feridüddin Attar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Doğu Edebiyatı",
+        "İran Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/feriduddin_attar_mantik_al_tayr.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/feriduddin_attar_mantik_al_tayr.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/feriduddin_attar_mantik_al_tayr.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Feridüddin Attar (1140 civarı - 1220 civarı): Klasik Fars edebiyatının 12. yüzyıl sonu - 13. yüzyıl başındaki en önemli şair düşünürlerindendir. İlahiname ve Tezkiretüt Evliya gibi eserlerinin yanısıra, en tanınmış mesnevisi sayılan ve Mevlana dahil kendinden sonraki pek çok büyük şairde iz bırakan Mantık'uttayr (Kuşların Dili) da ise Attar, denebilirse, yolun ve yolculuğun kişileri bulmak istediklerinin ta kendisi kıldığı etkileyici biçimde göstermiştir."
+      ]
+    },
+    {
+      "id": 10400,
+      "title": "Gargantua",
+      "authors": [
+        {
+          "name": "Francois Rabelais",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/francois_rabelais_gargantua.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/francois_rabelais_gargantua.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/francois_rabelais_gargantua.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/francois_rabelais_gargantua.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Gargantua eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10401,
+      "title": "Putların Alacakaranlığı",
+      "authors": [
+        {
+          "name": "Friedrich Nitzsche",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_nitzsche_putlarin_alacakaranligi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/friedrich_nitzsche_putlarin_alacakaranligi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_nitzsche_putlarin_alacakaranligi.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Putların Alacakaranlığı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10402,
+      "title": "Tragedyanın Doğuşu",
+      "authors": [
+        {
+          "name": "Friedrich Wilhelm Nietzsche",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_wilhelm_nietzsche_tragedyanin_dogusu.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/friedrich_wilhelm_nietzsche_tragedyanin_dogusu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_wilhelm_nietzsche_tragedyanin_dogusu.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Tragedyanın Doğuşu eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10403,
+      "title": "Dionysos Dithyrambosları",
+      "authors": [
+        {
+          "name": "Friedrich Wilhelm Nietzsche - İş Bankası Kültür Yayınları",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_wilhelm_nietzsche_is_bankasi_kultur_yayinlari_dionysos_dithyrambo.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/friedrich_wilhelm_nietzsche_is_bankasi_kultur_yayinlari_dionysos_dithyrambo.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_wilhelm_nietzsche_is_bankasi_kultur_yayinlari_dionysos_dithyrambo.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Dionysos Dithyrambosları eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10404,
+      "title": "İnsanca, Pek İnsanca 2",
+      "authors": [
+        {
+          "name": "Friedrich Nietzsche",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_nietzsche_insanca_pek_insanca_2.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/friedrich_nietzsche_insanca_pek_insanca_2.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_nietzsche_insanca_pek_insanca_2.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "İnsanca, Pek İnsanca 2 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10405,
+      "title": "İnsanca, Pek İnsanca-1",
+      "authors": [
+        {
+          "name": "Friedrich Wilhelm Nietzsche",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Felsefe"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_wilhelm_nietzsche_insanca_pek_insanca_1.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/friedrich_wilhelm_nietzsche_insanca_pek_insanca_1.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_wilhelm_nietzsche_insanca_pek_insanca_1.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Friedrich Wilhelm Nietzsche (1844-1900): Geleneksel din, ahlak ve felsefe anlayislarini kendine ozgu yogun ve carpici bir dille elestiren en etkili cagdas felsefecilerdendir. Bonn Universitesi'nde teoloji okumaya baslayan Nietzsche daha sonra filolojiye yoneldi. Leipzig Universitesi'nde ogrenimini surdurdu, henuz ogrenci iken Basel Universitesi filoloji profesorlugune aday gosterildi. 1869'da sinav ve tez kosulu aranmadan, yalnizca yazilarina dayanarak doktor unvani verilen Nietzsche profesorlugu sirasinda klasik filoloji calismalarindan uzaklasti ve felsefeyle ugrasmaya basladi. Tragedyanin Dogusu, Zamana Aykiri Bakislar, Insanca Pek Insanca, Tan Kizilligi, Sen Bilim, Boyle Soyledi Zerdust, Iyinin ve Kotunun Otesinde, Ahlakin Soykutugu, Ecce Homo, Wagner Olayi, Dionysos Dithyramboslari, Putlarin Alacakaranligi, Antichrist, Nietzsche Wagner'e Karsi baslica buyuk eserleri arasinda yer almaktadir.**"
+      ]
+    },
+    {
+      "id": 10406,
+      "title": "Böyle Söyledi Zerdüşt",
+      "authors": [
+        {
+          "name": "Friedrich Wilhelm Nietzsche",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Orijinal",
+        "Felsefe"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_wilhelm_nietzsche_boyle_soyledi_zerdust.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/friedrich_wilhelm_nietzsche_boyle_soyledi_zerdust.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/friedrich_wilhelm_nietzsche_boyle_soyledi_zerdust.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Friedrich Wilhelm Nietzsche (1844-1900): Geleneksel din, ahlak ve felsefe anlayışlarını kendine özgü yoğun ve çarpıcı bir dille eleştiren en etkili çağdaş felsefecilerdendir. Bonn Üniversitesinde teoloji okumaya başlayan Nietzsche daha sonra filolojiye yöneldi. Leipzig Üniversitesinde öğrenimini sürdürdü, henüz öğrenci iken Basel Üniversitesi filoloji profesörlüğüne aday gösterildi. 1869da sınav ve tez koşulu aranmadan, yalnızca yazılarına dayanarak doktor unvanı verilen Nietzsche profesörlüğü sırasında klasik filoloji çalışmalarından uzaklaştı ve felsefeyle uğraşmaya başladı. Tragedyanın Doğuşu, Zamana Aykırı Bakışlar, İnsanca Pek İnsanca, Tan Kızıllığı, Şen Bilim, Böyle Söyledi Zerdüşt, İyinin ve Kötünün Ötesinde, Ahlakın Soykütüğü, Ecce Homo, Wagner Olayı, Dionysos Dithyrambosları, Putların Alacakaranlığı, Antichrist, Nietzsche Wagnere Karşı başlıca büyük eserleri arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10407,
+      "title": "Budala",
+      "authors": [
+        {
+          "name": "Fyodor Mihailovic Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_budala.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fyodor_mihailovic_dostoyevski_budala.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_budala.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_budala.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Budala eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10408,
+      "title": "Ölüler Evinden Anılar",
+      "authors": [
+        {
+          "name": "Fyodor Mihailovic Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_oluler_evinden_anilar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fyodor_mihailovic_dostoyevski_oluler_evinden_anilar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_oluler_evinden_anilar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_oluler_evinden_anilar.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Ölüler Evinden Anılar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10409,
+      "title": "Ev Sahibesi",
+      "authors": [
+        {
+          "name": "Fyodor Mihailoviç Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Rus Edebiyatı",
+        "Dünya Klasikleri"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_ev_sahibesi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fyodor_mihailovic_dostoyevski_ev_sahibesi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_ev_sahibesi.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Ünlü eleştirmen V. Belinski bu eser üzerine Dostoyevski'den geleceğin büyük yazarı olarak söz etti. Yazar 1849'da I. Nikola'nın baskıcı rejimine muhalif Petraşevski grubunun üyesi olduğu gerekçesiyle tutuklandı. Kurşuna dizilmek üzereyken cezası sürgün ve zorunlu askerliğe çevrildi. Cezasını tamamlayıp Sibirya'dan döndükten sonra Petersburg'da Vremya dergisini çıkarmaya başladı, yazdığı romanlarla tekrar eski ününe kavuştu. 1847-1848 yılları arasında yayımlanan Ev Sahibesi, Bay Proharçin, Dokuz Mektupluk Roman ve Polzunkov en güzel öyküleri arasında yer aldı."
+      ]
+    },
+    {
+      "id": 10410,
+      "title": "Karamazov Kardeşler",
+      "authors": [
+        {
+          "name": "Fyodor Mihailoviç Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Klasikleri",
+        "Rus Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_karamazov_kardesler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fyodor_mihailovic_dostoyevski_karamazov_kardesler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_karamazov_kardesler.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Dostoyevski, yaşamının son yıllarında başyapıtı Karamazov Kardeşler'i tamamladığında, Rus yazınında 'felsefe düzeyinde roman-tragedya denen türün de temelini attığının bilincinde değildi. Dostoyevski'nin yaşam birikiminin tümünü ve sanat gücünün doruğunu içeren bu roman, gerçekte insanı insan yapan ne varsa, onlara adanmış bir destan niteliğini taşır. Yazar, hiçbir romanında \"Karamazov Kardeşler\"de olduğu denli insan ruhuna inmemiş, insanoğlunu bu denli kesitler biçiminde, içgüdülerinin ve istencinin tüm görünümüyle sergilenmiştir. Bir aileyi konu alan ve bir felaketler zinciri olarak gelişen olay örgüsü, bireysel öğelerin yanı sıra, ondokuzuncu yüzyılın ikinci yarısındaki Rus toplumunu da geçirdiği sarsıntıların tümüyle, dünya edebiyatında bir eşi daha bulunmayan bir sanat aynasından yansıtır."
+      ]
+    },
+    {
+      "id": 10411,
+      "title": "Suç ve Ceza",
+      "authors": [
+        {
+          "name": "Fyodor Mihailoviç Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Klasikleri",
+        "Rus Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_suc_ve_ceza.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fyodor_mihailovic_dostoyevski_suc_ve_ceza.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_suc_ve_ceza.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Fyodor Mihayloviç Dostoyevski (1821-1881): İlk romanı İnsancıklar 1846'da yayımlandı. Ünlü eleştirmen V. Belinski bu eser üzerine Dostoyevski'den geleceğin büyük yazarı olarak söz etti. Ancak daha sonra yayımlanan öykü ve romanları, çağımızda edebiyat klasikleri arasında yer alsa da, o dönemde fazla ilgi görmedi. Yazar 1849'da I. Nikola'nın baskıcı rejimine muhalif Petraşevski grubunun üyesi olduğu gerekçesiyle tutuklandı. Kurşuna dizilmek üzereyken cezası sürgün ve zorunlu askerliğe çevrildi. Cezasını tamamlayıp Sibirya'dan döndükten sonra Petersburg'da Vremya dergisini çıkarmaya başladı, yazdığı romanlarla tekrar eski ününe kavuştu. Suç ve Ceza Dostoyevski'nin bütün dünyada en çok okunan başyapıtıdır."
+      ]
+    },
+    {
+      "id": 10412,
+      "title": "Yeraltından Notlar",
+      "authors": [
+        {
+          "name": "Fyodor Mihailoviç Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_yeraltindan_notlar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fyodor_mihailovic_dostoyevski_yeraltindan_notlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_yeraltindan_notlar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_yeraltindan_notlar.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Yeraltından Notlar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10413,
+      "title": "Iki Büyük Dünya Sistemi Hakkında Diyalog",
+      "authors": [
+        {
+          "name": "Galileo Galilei",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/galileo_galilei_iki_buyuk_dunya_sistemi_hakkinda_diyalog.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/galileo_galilei_iki_buyuk_dunya_sistemi_hakkinda_diyalog.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/galileo_galilei_iki_buyuk_dunya_sistemi_hakkinda_diyalog.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/galileo_galilei_iki_buyuk_dunya_sistemi_hakkinda_diyalog.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Iki Büyük Dünya Sistemi Hakkında Diyalog eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10414,
+      "title": "Dördüncü Haçlı Seferi Kronikleri",
+      "authors": [
+        {
+          "name": "Geoffroi de Villehardouin",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Tarih",
+        "Araştırma",
+        "İnceleme"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/geoffroi_de_villehardouin_dorduncu_hacli_seferi_kronikleri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/geoffroi_de_villehardouin_dorduncu_hacli_seferi_kronikleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/geoffroi_de_villehardouin_dorduncu_hacli_seferi_kronikleri.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Geoffroi de Villehardoin (1160 - 1212?) Fransız şövalye ve tarihçi. IV. Haçlı Seferi'ne katılmış, yazdığı kronikte Kutsal Topraklar'a varmadan Konstantinopolis'te sona eren seferin komutanlarını savunmuştur. IV. Haçlı Seferi Kronikleri, Geoffroi de Villehardoin'in Konstantinopolis'in Fethi ve Henri de Valenciennes'in İmparator Henri Tarihi adlı eserlerinden oluşmaktadır. Villehardoin amacından sapan IV. Haçlı Seferi'nin macerasını, Valenciennes ise Bizans'ta Latin İmparatorluğu dönemini samimi ve güvenilir bir biçimde anlatmışlardır."
+      ]
+    },
+    {
+      "id": 10415,
+      "title": "Ermiş Antonius ve Şeytan",
+      "authors": [
+        {
+          "name": "Gustave Flaubert",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gustave_flaubert_ermis_antonius_ve_seytan.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gustave_flaubert_ermis_antonius_ve_seytan.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gustave_flaubert_ermis_antonius_ve_seytan.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gustave_flaubert_ermis_antonius_ve_seytan.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Ermiş Antonius ve Şeytan eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10416,
+      "title": "Madame Bovary",
+      "authors": [
+        {
+          "name": "Gustave Flaubert",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Klasikleri",
+        "Fransız Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gustave_flaubert_madame_bovary.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gustave_flaubert_madame_bovary.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gustave_flaubert_madame_bovary.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Gustave Flaubert (1821-1880); 1857'de yayımlanan ve kamuoyunda hayat-edebiyat ekseninde ciddi tartışmalar yaratan ilk romanı Madame Bovary'den insanın bilmeyle olan derin mücadelesine odaklanan ancak tamamlayamadığı son romanı Bouvard ile Pécuchet'ye her romanında farklı yollar deneyen 19. yüzyılın en yenilikçi klasiklerinden biridir.1856'nın son aylarında tefrika edilen Madame Bovary ise, yayımlanışının 150. yılı arifesinde, Hasan Âli Yücel Klasikler dizisinde çeviri edebiyatımızın iki önemli ustasının çevirisiyleyeniden yayımlanıyor.Nurullah Ataç (1898-1957): Hasan Âli Yücel'in kurduğu Tercüme Bürosu'nun başkanı olmanın yanısıra, gerek çevirileri gerekse denemeleriyle Türkçeyi baştan aşağıya yenileyen bir edebiyat ve dil ustasıydı."
+      ]
+    },
+    {
+      "id": 10417,
+      "title": "Gezgin satıcı",
+      "authors": [
+        {
+          "name": "Guy De Maupassant",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Öykü"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guy_de_maupassant_gezgin_satici.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/guy_de_maupassant_gezgin_satici.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guy_de_maupassant_gezgin_satici.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Guy de Maupassant (1850-1893) : Ünlü romancı L. N. Tolstoy'un '... sayıları az olmakla birlikte, Maupassant gibi bir başka tür insan daha vardır ki, bunlar her şeyi kendi gözleriyle, içerdiği önemi ve anlamıyla, olduğu gibi görürler' sözleriyle andığı yazar ardında pek çok roman, öykü, deneme ve tiyatro oyunu bıraktı. \n\nYazarın 1882-1887 arasında, özellikle 1883'te gazetelerde çıkmış öyküleri ölümünden sonra,1900 yılında Gezgin Satıcı başlığı altında bir kitapta toplandı. Maupassant bu öykülerde, terk edilme duygusunu, kaygıyı, kadınla erkek arasındaki eşitsizliği, en büyük salgın hastalık saydığı savaşı anlatıyor. Kimi zaman güldüren, çoğu kez acıyla gülümseten öyküleri en yalın, en çarpıcı anlatımla dile getiriyor."
+      ]
+    },
+    {
+      "id": 10418,
+      "title": "Güzel Dostlar",
+      "authors": [
+        {
+          "name": "Guy De Maupassant",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guy_de_maupassant_guzel_dostlar.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/guy_de_maupassant_guzel_dostlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guy_de_maupassant_guzel_dostlar.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Guy de Maupassant (1850-1893): Tolstoy'un, \"...sayıları az olmakla birlikte, Maupassant gibi bir başka tür insan daha vardır ki, bunlar her şeyi kendi gözleriyle, içerdiği önem ve anlamıyla, olduğu gibi görürler.\" sözleriyle andığı yazar, kırk üç yıllık kısa ömrüne pek çok roman, öykü, deneme ve tiyatro oyunu sığdırdı. Yazarın ikinci romanı olan Güzel Dost 1885 yılında yayımlandığında geniş yankı uyandırmıştır. Romanın kahramanı Georges Duroy'nın muhabirlikle başlayan, uğruna her tür ahlaksızlığı mubah gördüğü güç sahibi olma serüvenini olanca yalınlığı ve çarpıcılığıyla öykülerken, zengin gazetecilik tecrübesinin de epeyce faydasını görmüştür."
+      ]
+    },
+    {
+      "id": 10419,
+      "title": "Düello",
+      "authors": [
+        {
+          "name": "Heinrich von Kleist",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Öykü"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/heinrich_von_kleist_duello.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/heinrich_von_kleist_duello.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/heinrich_von_kleist_duello.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Heinrich von Kleist (1777-1811): XIX. yüzyıl Alman edebiyatının en önemli yazarlarındandır. Tiyatro oyunları, şiirler ve öyküler yazdı. Kantı okuduktan sonra bilginin değerinden kuşkuya düştü, akla değil duyguya güvenmeyi tercih etti. Akıl ile duygu arasında süren zıtlık eserlerinin özünü oluşturdu. Öykülerinde insanların ve doğanın zorbalığı karşısında kendilerini tüketircesine bütün güçlerini harcayan kişileri konu aldı. Eserlerinde titizlikle seçilmiş sözcüklerle örülü güçlü bir ifade kullandı. Sanatsal dehası ile çağdaş yaşam ve edebiyatın pek çok sorununu önceden gören Kleist, kendisinden sonraki Alman ve Fransız yazarları için önemli bir ilk örnek oldu."
+      ]
+    },
+    {
+      "id": 10420,
+      "title": "Gülme",
+      "authors": [
+        {
+          "name": "Henri Bergson",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henri_bergson_gulme.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/henri_bergson_gulme.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henri_bergson_gulme.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henri_bergson_gulme.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Gülme eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10421,
+      "title": "Güvercinin Kanatları",
+      "authors": [
+        {
+          "name": "Henry James",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Klasik",
+        "Amerikan Edebiyatı",
+        "Tarihi Kurgu"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henry_james_guvercinin_kanatlari.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/henry_james_guvercinin_kanatlari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henry_james_guvercinin_kanatlari.epub"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Henry James (1843-1916): Eserlerinde Amerika ile Avrupa arasındaki yaşam anlayışı ve kültür farklılıklarını sarsıcı bir gözlem gücü ve derinlikle işledi. Genç yaşında Amerikan edebiyatının en tanınmış yazarlarından biri olan Henry James, 1875'ten itibaren Avrupa'da yaşadı ve bu dönemde yaşamının büyük bir bölümünü İngiltere'de geçirdi. Ölümünden kısa bir süre önce, 1915'te İngiliz uyruğuna geçti. 1878'de Daisy Miller ile uluslararası üne kavuşan yazar, olaylardan çok kişilerin içsel yaşamına ve zihinsel süreçlere önem verdi. 1902'de yayımlanan Güvercinin Kanatları Henry James'in son dönem romanlarındandır ve 20. yüzyıl romancılığının önünü açan başlıca eserlerden biri sayılır.\n\nRoza Hakmen (1956): İzmir Amerikan Kız Koleji'ni ve Odtü Ekonomi Bölümü'nü bitirdi. Dünya edebiyatının birçok önemli eserini Fransızca, İspanyolca ve İngilizceden Türkçeye çeviren en tanınmış çevirmenlerdendir. Miguel de Cervantes'ten Don Quijote, Marcel Proust'tan Kayıp Zamanın İzinde, Federico Garcia Lorca'dan Kanlı Düğün çevirdiği pek çok eserden ilk akla gelenler arasındadır.\n\nRoza Hakmen'in eserlerini çevirdiği yazarlar arasında Oscar Wilde, Anthony Burgess, Henry James, Mircea Eliade, E.M. Forster, Tim Parks, Anne Rice, Howard Norman da yer alıyor."
+      ]
+    },
+    {
+      "id": 10422,
+      "title": "Tarih",
+      "authors": [
+        {
+          "name": "Herodotos",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/herodotos_tarih.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/herodotos_tarih.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/herodotos_tarih.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/herodotos_tarih.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Tarih eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10423,
+      "title": "Bir Havva Kızı",
+      "authors": [
+        {
+          "name": "Honoré De Balzac",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/honor_de_balzac_bir_havva_kizi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/honor_de_balzac_bir_havva_kizi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/honor_de_balzac_bir_havva_kizi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/honor_de_balzac_bir_havva_kizi.pdf"
+      },
+      "download_count": 1000,
+      "summaries": [
+        "Bir Havva Kızı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
       ]
     }
   ]
