@@ -1,5 +1,5 @@
 {
-  "count": 100,
+  "count": 150,
   "next": null,
   "previous": null,
   "results": [
@@ -3441,6 +3441,1730 @@
       "download_count": 0,
       "summaries": [
         "Huzursuzluºun Kitabì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10101,
+      "title": "Amerika",
+      "authors": [
+        {
+          "name": "Franz Kafka",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Klasik",
+        "Alman Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_amerika_10101.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/franz_kafka_amerika.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_amerika_10101.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Amerika, yapıtlarında 20. yüzyıl insanını korkularını, yalnızlığını, kaygı ve saplantılarını, kendi kendine yabancılaşmasını dile getiren Franz Kafka'nın ilk romanı. Kafka'nın 1912'de yazmaya başladığı ve Kayıp adını verdiği bu yapıt, yazarın ölümünden sonra arkadaşı Max Brod tarafından Amerika adıyla ilk kez 1927'de yayınlandı. Ailesinden 16 yaşında ayrılarak Amerika'ya, zengin amcasının yanına giden Praglı delikanlının yaşantısını kendi ağzından anlatan bu romanı, iyimser tutumuyla, Kafka'nın öbür iki romanı Dava ve Şato'dan belirgin ölçüde ayrılır. Amerika'daki labirent görünümle merdiven ve koridorlar, yazarın sonraki romanlarının temel atmosferinin ipuçları sayılır. Yapıtlarıyla bütün bir çağdaş edebiyatı etkileyen Kafka'nın bu romanını Ayça Sabuncuoğlu'nun yeni çevirisiyle sunuyoruz."
+      ]
+    },
+    {
+      "id": 10102,
+      "title": "Babaya Mektup",
+      "authors": [
+        {
+          "name": "Franz Kafka",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_babaya_mektup_10102.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/franz_kafka_babaya_mektup.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_babaya_mektup_10102.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Babaya Mektup eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10103,
+      "title": "Ceza Kolonisinde",
+      "authors": [
+        {
+          "name": "Franz Kafka",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Anlatı",
+        "Deneme",
+        "Alman Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_ceza_kolonisinde_10103.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/franz_kafka_ceza_kolonisinde.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_ceza_kolonisinde_10103.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ceza Kolonisi'nde, çağımız insanının kaygı ve korkularını, yalnızlığını, kendi kendine yabancılaşmasını, çevresiyle iletişimsizliğini ustalıkla dile getirmiş olan Franz Kafka'nın tüm anlatılarını bir araya getiren bir çalışmanın ilk kitabı. Anlatılar'ın bu ilk kitabı, Kafka'nın kitaplarında yayınladığı anlatılar ile kitaplarında yer almayan, ayrı ayrı yayınlanmış anlatıları dilimizde ilk kez bir arada sunuyor.\n\nKafka'nın yazdıklarına farklı eleştirmenlerce çok farklı yorumlar getirilmiştir. Kimilerince varoluşçuluk bağlamında değerlendirilen Kafka'da kimileri Marksist, kimileri Freudcu etkiler bulmuşlar, kimileri de onun yapıtlarının özünde gerçeküstücü bir mizahın yattığını ileri sürmüşlerdir. Ne var ki, Kafka'nın belki de en belirleyici özelliği, hiçbir kalıba girmemesi, hiçbir akıma sığmamasıdır. Kafka, tüm yazdıklarıyla, 20. yüzyılın en kendine özgü yazarlarının başında gelir."
+      ]
+    },
+    {
+      "id": 10104,
+      "title": "Dava",
+      "authors": [
+        {
+          "name": "Franz Kafka",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Klasik",
+        "Alman Edebiyatı",
+        "Felsefe",
+        "Distopya"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_dava_10104.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/franz_kafka_dava.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_dava_10104.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Franz Kafka'nın Dava adlı romanının bu çevirisi, yazarın Oxford Metinleri diye adlandırılan el yazıları üzerinde Amerikalı ve Alman uzman-ların yaptıkları son çalışmalarla oluşturulan metinden yapıldı.\n\nDava, Korku Çağı diye adlandırılan 20. yüzyılda insanoğlunun artık neredeyse kurtulunması olanaksız bir yazgıya dönüşen kuşatılmış yaşamının öyküsüdür.\n\nBu çağa korku egemendir, çünkü insan, hemcinsleriyle insanca bir dil aracılığıyla iletişim kurabilme, böyle bir dille insanca tepkiler uyandırabilme olanağından yoksun kalmıştır. \nAlbert Camus'nün deyişiyle, bu olanağın bulunmadığı bir çağ artık ancak \"Korku Çağı\" diye adlandırılabilir.\n\nKafka'nın Dava'da betimlediği yargılama süreci, böyle bir çağın en güçlü simgelerinden biridir ve onun eseri, insan insanın korkusu olarak kaldığı sürece, güncelliğini hiç yitirmeyecektir."
+      ]
+    },
+    {
+      "id": 10105,
+      "title": "Donusum",
+      "authors": [
+        {
+          "name": "Franz Kafka",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_donusum_10105.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/franz_kafka_donusum.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_donusum_10105.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/franz_kafka_donusum_10105.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Donusum eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10106,
+      "title": "Günübirlik Acı",
+      "authors": [
+        {
+          "name": "Françoise Sagan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/francoise_sagan_gunubirlik_aci_10106.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/francoise_sagan_gunubirlik_aci.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/francoise_sagan_gunubirlik_aci_10106.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Françoise Sagan, adını dünyaya 1954 yılında, on dokuz yaşındayken yazdığı Günaydın Hüzün adlı romanıyla duyurmuştu. Unutulmazlar arasına giren o kitabından sonra bugüne kadar tam kırk iki roman yazdı ve ilk romanında yakaladığı başarıyı sürdürdü. Fransa'nın klasik yazarları arasında yer alan Françoise Sagan, romanlarındaki kurguları daha çok, birlikte olan bir kadınla bir erkek ve onların dışındaki üçüncü bir kişi üzerine oturtur. Kahramanları, genellikle burjuva çevrelerin insanlarıdır. Yalnızlık, acı ve hüzün, onun temel izlekleridir. Günübirlik Acı'nın kahramanı bir erkektir; başarılı bir mimar olan Matthieu. Sıradan şikayetlerle gittiği doktorundan birgün hiç beklemediği bir şey öğrenir genç adam: kanserdir. Çoğu kişinin yaptığını yapmaz. Matthieu, kendisiyle hesaplaşmaz, içine kapanmaz. Sorununu yakınındaki insanlarla paylaşır; onların tepkileri, onun bu insanlarla olan ilişkilerinin de sınanmasıdır bir bakıma. Çelişkiler içinde geçirdiği bu süreç, Matthieu'yü uzun zamandır yaşamından silmiş olduğu birine götürür: bir zamanlar delice sevmiş olduğu kadına. Bütün düzeni altüst olan genç adamı bir büyük sürpriz daha beklemektedir"
+      ]
+    },
+    {
+      "id": 10107,
+      "title": "Yeryüzü Ayetleri (Can Yayìnlarì)",
+      "authors": [
+        {
+          "name": "Furuº Ferruhzad",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/furu_ferruhzad_yeryuzu_ayetleri_can_yay_nlar_10107.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/furu_ferruhzad_yeryuzu_ayetleri_can_yay_nlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/furu_ferruhzad_yeryuzu_ayetleri_can_yay_nlar_10107.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/furu_ferruhzad_yeryuzu_ayetleri_can_yay_nlar_10107.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yeryüzü Ayetleri (Can Yayìnlarì) eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10108,
+      "title": "Yufka Yürek (Can Yayınları)",
+      "authors": [
+        {
+          "name": "Fyodor Mihailoviç Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Klasik",
+        "Rus Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_yufka_yurek_can_yayinlari_10108.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fyodor_mihailovic_dostoyevski_yufka_yurek_can_yayinlari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_yufka_yurek_can_yayinlari_10108.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Dostoyevski'nin ilk dönem öyküleri... Daha önce yayımladığımız Beyaz Geceler ve İkiz gibi uzun öykülerden sonra Dostoyevski, kısalı uzunlu bir dizi metin kaleme almıştı. Yazarın sürgün dönüşü öncesi yazdığı öykülerin tamamı, böylece, bu öykü kitabıyla birlikte yeniden çevrilip Can Yayınları'nın Klasikler dizisinde yerini almış oluyor. \n\n\"Dokuz Mektuplu Roman\", \"Yufka Yürek\" gibi ünlü öykülerin de yer aldığı bu kitap, Dostoyevski'nin gençlik yıllarında edebiyata bakışını, etkilendiği kaynakları, konu edindiği meseleleri göster­mesi bakımından çok önemli. Bu öykülerde, sonraki yıllarda yazacağı Suç ve Ceza, Karamazov Kardeşler gibi büyük romanların işaretleri var. Özellikle uyumsuz kişiliklerin, deliliğin sınırında yaşayanların, toplumsal konum ve mevki meselesiyle kavgalı karakterlerin yer aldığı öykülerde Gogol'ün etkisi iyice hissedilirken, Dostoyevski'nin yazar kimliğinin henüz oturmadığı da gözlemleniyor."
+      ]
+    },
+    {
+      "id": 10109,
+      "title": "İnsancıklar(Can)",
+      "authors": [
+        {
+          "name": "Fyodor Mihailoviç Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Rus Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_insanciklar_can_10109.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fyodor_mihailovic_dostoyevski_insanciklar_can.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_insanciklar_can_10109.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yıl 1846'dır. Genç Dostoyevski, ilk romanı İnsancıklar'ı tamamlar tamamlamaz ev arkadaşı yazar Grigoroviç'e okutur. Grigoroviç o kadar heyecanlanır ki birkaç kez kalkıp Fyodor'un boynuna sarılmak ister; fakat arkadaşının aşırı duygu gösterilerinden hoşlanmadığını bildiği için yapmaz. Grigoroviç ertesi gün romanı yazar ve yayımcı Nekrasov'a götürür; kitaptan çok etkilenen Nekrasov da eleştirmen Belinski'ye... \"Yeni Gogol doğdu!\" der, Nekrasov, daha kapı ağzında. Aynı günün akşamı, Belinski'ye tekrar uğradığında onu heyecan içinde bulur: \"Nerede kaldınız? Nerede bu Dostoyevskiniz? Genç mi? Kaç yaşında? Hemen getirin bana onu!\"   Belinski'nin evine getirilen yirmi üç yaşındaki genç yazar, daha sonra orada olanları şöyle anlatacaktır: \"Ve işte... beni onun yanına götürdüler. Belinski'yi birkaç yıl önce heyecanla okumuştum, ama bana ürkütücü ve sert gelmişti ve benim İnsancıklar'ımla alay edecek diye düşünüyordum. Beni çok saygılı ve ağırbaşlı bir şekilde karşıladı; ama daha bir dakika bile geçmeden her şey bambaşka oldu... Ateşli ateşli, alevli gözlerle konuşuyordu. \"Siz kendiniz anlıyor musunuz?\" diyordu bana tekrar tekrar, alışkanlığı olduğu üzere bağırarak, \"Ne yazmış olduğunuzu anlıyor musunuz?.. Bütün bu korkunç gerçeği, bizlere göstermiş olduğunuz bu gerçeği siz mi düşündünüz? Olamaz, sizin gibi yirmi yaşında birinin bütün bunları anlamış olmasına imkân yok... Gerçeği keşfetmiş ve bir sanatçı olarak ilan etmişsiniz, size bir yetenek verilmiş, yeteneğinizin değerini bilin ve emin olun, siz büyük bir yazar olacaksınız.\"  Yıl 2013. 167 yıl sonra Dostoyevski her kuşağın başucu yazarlarından olma özelliğini koruyor ve İnsancıklar, onun dünya edebiyatına ilk armağanı..."
+      ]
+    },
+    {
+      "id": 10110,
+      "title": "Lodoslar Kenti - Can Yay - 1991",
+      "authors": [
+        {
+          "name": "Füruzan",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/furuzan_lodoslar_kenti_can_yay_1991_10110.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/furuzan_lodoslar_kenti_can_yay_1991.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/furuzan_lodoslar_kenti_can_yay_1991_10110.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/furuzan_lodoslar_kenti_can_yay_1991_10110.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Lodoslar Kenti - Can Yay - 1991 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10111,
+      "title": "Albaya Mektup Yazan Kimse Yok",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_albaya_mektup_yazan_kimse_yok_10111.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_albaya_mektup_yazan_kimse_yok.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_albaya_mektup_yazan_kimse_yok_10111.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Albaya Mektup Yok, çağımızın en büyük yazarlarından Gabriel García Márquez'in en güzel uzun öykülerinden biri. Ülkesi uğruna savaşarak yaptığı hizmetlerin karşılıksız kaldığını anlayan, emekliye ayrılmış yaşlı bir askerin öyküsü. Bir türlü gelmeyen emekli aylığını her cuma günü karısı ve horozuyla birlikte bekleyen emekli bir albayın komik, ama bir o kadar da trajik hikâyesi. Gabriel García Márquez'in 1982'de Nobel Edebiyat Ödülü'ne değer görülmesinde, hiç kuşkusuz, Albaya Mektup Yok'un da payı var. Büyülü gerçekçilik ustasının anlattığı her sahne, karakterlerin her davranışı, umarsız görünen bir dünyada yaşama sevincinin türküsünü söylüyor, ölüme ve yalnızlığa meydan okuyor. Her cümle, yaşamın uçsuz bucaksız boşluğunun suskunluğunu kırıyor. \"İmge, gerçekliğe ulaşmanın aracıdır,\" diyen Gabriel García Márquez'in buruk bir alaycılık içeren bu öyküsü neredeyse görsel bir edebiyat başyapıtı."
+      ]
+    },
+    {
+      "id": 10112,
+      "title": "Anlatmak Icin Yasamak",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_anlatmak_icin_yasamak_10112.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_anlatmak_icin_yasamak.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_anlatmak_icin_yasamak_10112.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_anlatmak_icin_yasamak_10112.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Anlatmak Icin Yasamak eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10113,
+      "title": "Aşk ve Öbür Cinler",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_ask_ve_obur_cinler_10113.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_ask_ve_obur_cinler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_ask_ve_obur_cinler_10113.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ustalık döneminin doruklarında dolaşan Gabriel Garcia Marquez'in,\ngençliğinde, günlük bir gazetenin muhabiriyken tanık olduğu bir olaydan\nyola çıkarak yazdığı bu roman, 1994 yılında ilk kez yayımlandığında hem\ndünyada hem Türkiye'de çok ses getirmişti. Çok eski bir manastırın\nyıkıntıları üzerine, beş yıldızlı bir otel yapılacaktır. Manastırın mahzenindeki mezarlar kazılıp boşaltılırken, bir mezarda bakır rengi canlı bir saç yığını\nbulunur. Bu gür saçlar çekilip çıkarılmakta, ama bir türlü sonu\ngelmemektedir; sonunda hâlâ bir kız çocuğunun kafatasına yapışık son\nsaç telleri de dışarı çıkar. O harikulâde saçlar yirmi iki metre, on bir santim\nuzunluğundadır. Gabriel Garcia Marquez, yıllar önce tanık olduğu bu\nilginç olaydan yola çıkarak, çocukluğunda büyükannesinden dinlediği bir\nköpek ısırması sonucunda kuduzdan ölen küçük bir kızın masalını\nbirleştirerek olağanüstü güzellikteki bu yeni romanını yazmış. İnci Kut'un\nİspanyolca aslından büyük bir özenle Türkçeye çevirdiği Aşk ve Öbür Cinler, bu ünlü yazarın yarattığı büyülü gerçekçiliğe yeni bir\nörnek"
+      ]
+    },
+    {
+      "id": 10114,
+      "title": "Başkan Babamızın Sonbaharı",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Klasik",
+        "Büyülü Gerçeklik"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_baskan_babamizin_sonbahari_10114.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_baskan_babamizin_sonbahari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_baskan_babamizin_sonbahari_10114.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "\"Başkan Babamızın Sonbaharı\", ölmek üzere olan, ama bir türlü ölmek bilmeyen, yaşama tutunmak adına ne cinayetler işleyip ne kanlar döken bir diktatörün öyküsüdür. Romanın karmaşık öyküsü, sözü edilen ülkedeki yaşamın karmaşıklığı ile atbaşı gider. Öyle ki, Başkan'la ilgili anılarını anlatanları, yalnızca bir noktalı virgül ayırır. Romanın sonunda yinelenen belli sahneleri birleştirerek, konuşanların yaşam öykülerini bütünleyebiliriz. \"Başkan Babamızın Sonbaharı\"nı okurken, çağımızda sürüp gelen umutsuzlukla, sürüp gidecek olan umudun öyküsünü de izlemiş oluyoruz. Bu arada yazarın, yine Latin Amerika edebiyatı geleneğine bağlı kaldığını, birtakım 'tip'ler aracılığıyla, yalnızca sevgisiz, zavallı, bunak bir başkan'ı değil, onu yaratan gerçekdışı düzeni yargılama amacı da güttüğünü görüyoruz. Kolombiyalı bu ünlü yazar, çoksatar yazarların deneyimlerinden de yararlanıyor; böylece günümüzde şiddet ve cinsellikle uyarılan okurun da ilgisini çekmeyi başarıyor."
+      ]
+    },
+    {
+      "id": 10115,
+      "title": "Bir Kaçìrìlma Öyküsü",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_bir_kac_r_lma_oykusu_10115.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_bir_kac_r_lma_oykusu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_bir_kac_r_lma_oykusu_10115.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_bir_kac_r_lma_oykusu_10115.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Kaçìrìlma Öyküsü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10116,
+      "title": "Hanìm Ana'nìn Cenaze Töreni",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_han_m_ana_n_n_cenaze_toreni_10116.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_han_m_ana_n_n_cenaze_toreni.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_han_m_ana_n_n_cenaze_toreni_10116.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_han_m_ana_n_n_cenaze_toreni_10116.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Hanìm Ana'nìn Cenaze Töreni eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10117,
+      "title": "Kolera Günlerinde Aƒk",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_kolera_gunlerinde_a_k_10117.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_kolera_gunlerinde_a_k.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_kolera_gunlerinde_a_k_10117.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_kolera_gunlerinde_a_k_10117.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kolera Günlerinde Aƒk eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10118,
+      "title": "Kırmızı Pazartesi",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Klasik"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_kirmizi_pazartesi_10118.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_kirmizi_pazartesi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_kirmizi_pazartesi_10118.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kolombiyalı büyük yazar Gabriel García Márquez'in 1981'de yayımlanan yedinci romanı Kırmızı Pazartesi, işleneceğini herkesin bildiği, engel olmak için kimsenin bir şey yapmadığı bir namus cinayetinin öyküsü. Hem Kolombiya'da, hem de yayımlandığı dünyanın dört bir yanındaki pek çok ülkede sarsıcı etkileri olmuş bir roman. Usta yazar, çocukluğunu geçirdiği kasabada yıllar önce yaşanmış bir cinayet olayını aktarıyor. Romanın kahramanı Santiago Nasar'ın öldürüleceği daha ilk satırlardan belli. Kırmızı Pazartesi, yalnızca bir cinayetin arka planını değil, bir halkın ortak davranış biçimlerinin potresini de çiziyor. Böylece, sonuna dek ilgiyle okuyacağınız bu kısa ve ölümsüz roman, bir toplumsal ruhçözümü niteliği de kazanmış oluyor."
+      ]
+    },
+    {
+      "id": 10119,
+      "title": "On ÿki Gezici Öykü",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_on_ki_gezici_oyku_10119.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_on_ki_gezici_oyku.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_on_ki_gezici_oyku_10119.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_on_ki_gezici_oyku_10119.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "On ÿki Gezici Öykü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10120,
+      "title": "Yaprak Fìrtìnasì",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_yaprak_f_rt_nas_10120.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_yaprak_f_rt_nas.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_yaprak_f_rt_nas_10120.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_yaprak_f_rt_nas_10120.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yaprak Fìrtìnasì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10121,
+      "title": "Yüzyìllìk Yalnìzlìk",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_yuzy_ll_k_yaln_zl_k_10121.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_yuzy_ll_k_yaln_zl_k.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_yuzy_ll_k_yaln_zl_k_10121.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_yuzy_ll_k_yaln_zl_k_10121.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yüzyìllìk Yalnìzlìk eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10122,
+      "title": "×er Saati",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_er_saati_10122.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_er_saati.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_er_saati_10122.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_er_saati_10122.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "×er Saati eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10123,
+      "title": "ÿyi Kalpli Erendira",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_yi_kalpli_erendira_10123.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_yi_kalpli_erendira.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_yi_kalpli_erendira_10123.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_yi_kalpli_erendira_10123.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "ÿyi Kalpli Erendira eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10124,
+      "title": "Benim Hüzünlü Orospularım",
+      "authors": [
+        {
+          "name": "Gabriel Garcí­a Márquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garc_a_m_rquez_benim_huzunlu_orospularim_10124.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garc_a_m_rquez_benim_huzunlu_orospularim.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garc_a_m_rquez_benim_huzunlu_orospularim_10124.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "1982 Nobel Edebiyat Ödülü'nü de almış olan Gabriel Garcia Marquez'in, dünyanın en büyük yazarlarından biri olduğunu herkes biliyor. Yazdığı son romanı Benim Hüzünlü Orospularım'la yine dünya kitap dünyasının doruğuna oturdu. Yazar, bu kez, doksanını bulmuş çok yaşlı bir gazete köşe yazarının ağzından müthiş bir aşk serüvenini dile getiriyor. Son yılların en güzel aşk romanlarından biri. Büyülü Gerçekçilik akımının yaratıcısı bu büyük ustadan büyüleyici bir roman daha. Kolombiyalı yazar, bu kitapta 90 yaşındaki bir adamla 14 yaşında bir yeniyetmenin ilişkisini anlatıyor...\"Doksanıncı yaşımda, kendime bakire bir yeniyetmeyle çılgınca bir aşk gecesi armağan etmek istedim. Aklıma Rosa Cabarcas geldi, hani şu gizli genelevinde eline bir yenilik geçtiğinde hatırlı müşterilerine haber veren kadın. Daha önce öyle şeylere ya da onun baştan çıkarıcı müstehcen önerilerinin hiçbirine asla kapılmamıştım ama benim ilke sahibi biri olduğuma hiç inanmazdı o. Ahlâk da bir zaman sorunudur, derdi, yüzünde hınzır bir gülümsemeyle, görürsün bak..."
+      ]
+    },
+    {
+      "id": 10125,
+      "title": "Kolera Günlerinde Aşk",
+      "authors": [
+        {
+          "name": "Gabriel Garcia Marquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Klasik",
+        "Aşk",
+        "Tarihi Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_kolera_gunlerinde_ask_10125.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garcia_marquez_kolera_gunlerinde_ask.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garcia_marquez_kolera_gunlerinde_ask_10125.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kolera Günlerinde Aşk\", bırakılmış bir sevgilinin, yeniyetmelik yıllarından başlayarak yaşlılığın alacakaranlığına dek süren yarım yüzyıllık aşkının öyküsü. \"Marquez\"in, ustalığı, bu öyküyü bir destana dönüştürüyor: aşkın, deli-akıllı, yabanıl-evcil, tensel, romantik tüm biçimlerinin pastoral bir şiirin büyüsüne büründüğü bir destan. On dokuzuncu yüzyılın yirminci yüzyıla dönüştüğü bir zaman dilimini kapsayan bu bitmeyen aşkın gerisinde, çağdaşlaşma çabası içindeki bir toplumun çeşitli yönlerini, özellikle taşra kentsoyluluğunun saçmalıklarını ince bir alayla eleştiriyor yazar. Roman boyunca, aşk acılarının lirik rüzgarlarının esintileri arasında, Marquez'in, insancıl mizahı, sürekli olarak duyuruyor kendini. Bu nitelikleriyle, \"Kolera Günlerinde Aşk\", Marquez'in başyapıtı sayılan \"Yüz Yıllık Yalnızlık\"ın yanında tartışılmaz bir biçimde yerini alıyor."
+      ]
+    },
+    {
+      "id": 10126,
+      "title": "Yüzyıllık Yalnızlık",
+      "authors": [
+        {
+          "name": "Gabriel Garcí­a Márquez",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Klasik",
+        "İspanyol Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garc_a_m_rquez_yuzyillik_yalnizlik_10126.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/gabriel_garc_a_m_rquez_yuzyillik_yalnizlik.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/gabriel_garc_a_m_rquez_yuzyillik_yalnizlik_10126.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "\"Yüzyıllık Yalnızlık'ı yazmaya başladığımda, çocukluğumda beni etkilemiş olan her şeyi edebiyat aracılığıyla aktarabileceğim bir yol bulmak istiyordum. Çok kasvetli kocaman bir evde, toprak yiyen bir kız kardeş, geleceği sezen bir büyükanne ve mutlulukla çılgınlık arasında ayrım gözetmeyen, adları bir örnek bir yığın hısım akraba arasında geçen çocukluk günlerimi sanatsal bir dille ardımda bırakmaktı amacım. Yüzyıllık Yalnızlık'ı iki yıldan daha kısa bir sürede yazdım, ama yazı makinemin başına oturmadan önce bu kitap hakkında düşünmek on beş, on altı yılımı aldı. Büyükannem, en acımasız şeyleri, kılını bile kıpırdatmadan, sanki yalnızca gördüğü olağan şeylermiş gibi anlatırdı bana. Anlattığı öyküleri bu kadar değerli kılan şeyin, onun duygusuz tavrı ve imgelerindeki zenginlik olduğunu kavradım. Yüzyıllık Yalnızlık'ı büyükannemin işte bu yöntemini kullanarak yazdım. Bu romanı dikkat ve keyifle okuyan, hiç şaşırmayan sıradan insanlar tanıdım. Şaşırmadılar, çünkü ben onlara hayatlarında yeni olan bir şey anlatmamıştım, kitabımda gerçekliğe dayanmayan tek cümle bulamazsınız.\""
+      ]
+    },
+    {
+      "id": 10127,
+      "title": "Aspidistra",
+      "authors": [
+        {
+          "name": "George Orwell",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "İngiliz Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_aspidistra_10127.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/george_orwell_aspidistra.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_aspidistra_10127.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "İngiliz romancı George Orwell, Hayvan Çiftliği adlı siyasal masalında, zorbalığa dönüşen Stalin yönetimini yerden yere vurmuş; Bin Dokuz Yüz Seksen Dört adlı ünlü yapıtında da insanlığı belleksiz ve muhalefetsiz bir totaliter toplum tehlikesine karşı uyarmıştı. Ama bu iki büyük yapıtından önce, 1930'lar İngiltere'sinde 'sınıf atlama özlemi'ni benzersiz bir kara mizahla eleştirdiği Aspidistra romanını kaleme almıştı. Aspidistra, sınıf atlama özentisindeki dar gelirlilerin bir statü simgesi olarak gördükleri, evlerinden eksik etmedikleri çiçeksiz bir zambak türüdür. Bir reklâm ajansında metin yazarlığı yapan Gordon Comstock, kapitalizmin yutturmacası olarak gördüğü reklâmcılıktan nefret eder, orta sınıfın boğucu yaşamından kaçarak şairliğe soyunur. Bu uğurda sevgilisinden ayrılmayı bile göze alır; ama romanın sürpriz sonunu yine sevgilisi yaratacaktır."
+      ]
+    },
+    {
+      "id": 10128,
+      "title": "Bin Dokuz Yüz Seksen Dört",
+      "authors": [
+        {
+          "name": "George Orwell",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_bin_dokuz_yuz_seksen_dort_10128.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/george_orwell_bin_dokuz_yuz_seksen_dort.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_bin_dokuz_yuz_seksen_dort_10128.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bin Dokuz Yüz Seksen Dört eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10129,
+      "title": "Burma Günleri",
+      "authors": [
+        {
+          "name": "George Orwell",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Kurgu",
+        "Klasik",
+        "Tarihi Kurgu",
+        "İngiliz Edebiyatı"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_burma_gunleri_10129.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/george_orwell_burma_gunleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_burma_gunleri_10129.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "\"Bu ülkede bulunmamızın, hırsızlıktan başka bir nedeni olduğunu söyleyebilir misiniz? Bu öylesine kolay ki. İngiltere'nin memuru, Burmalı'nın kollarını tutar, tüccar da adamın ceplerini boşaltır. Britanya İmparatorluğu, İngilizlerin, daha doğrusu Yahudi ve İskoç çetelerinin ticaret tekelleri kurmalarını sağlayan bir aracıdan başka bir şey değildir.\" \nBu sözler, George Orwell'in Burma'daki İngiliz sömürgeciliğine bakış açısını yansıtıyro. Kendisi de Burma'da görev yapmış olan Orwell, en başarılı yapıtı olarak tanımlanan Burma Günleri'nde, İngilizlerin bu sömürgedeki yaşamını ve yaptıklarını, yerli işbirlikçileri ve fırsatçıları, yerli halka insanca yaklaşarak İmparatorluğun tutumuna karşı çıkanları, aşk, nefret, tutku çemberinde destansı bir anlatımla ele alıyor. Burma Günleri, ilk kez 1934 yılında Amerika Birleşik Devletleri'nde yayınlandı. Kitap ve yazarı hakkında herhangi bir dava açılmayınca, ertesi yıl İngiltere'de de basıldı. Ama sömürgecilik dönemi sona erinceye kadar kitabın Hindistan ve Burma'da satılması yasaklandı ve okuyanlar hakkında yasal işlemler yapıldı. Burma Günleri, İngiltere'nin, üzerinde güneş batmayan bir imparatorluk olduğu dönemdeki politik ve sosyal yaklaşımını göz önüne sererken, romandaki karakterlerin işlenmesindeki ayrıntılı ustalıkla da Orwell'in başarısını pekiştirdi."
+      ]
+    },
+    {
+      "id": 10130,
+      "title": "Hayvan Çiftliği",
+      "authors": [
+        {
+          "name": "George Orwell",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Klasikleri",
+        "Distopya",
+        "Politik"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_hayvan_ciftligi_10130.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/george_orwell_hayvan_ciftligi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/george_orwell_hayvan_ciftligi_10130.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "İngiliz yazar George Orwell, ülkemizde daha çok Bin Dokuz Yüz Seksen Dört adlı kitabıyla tanınır. Hayvan Çiftliği, onun çağdaş klasikler arasına girmiş bir diğer çok ünlü eseridir. 1940lardaki \"reel sos­yalizm\"in eleştirisi olan bu roman, dünya edebiyatında yergi türünün başyapıtlarından biri olarak kabul edilir. \n\nHayvan Çiftliğinin başkişileri hayvanlardır. Bir çiftlikte yaşayan hayvanlar, kendilerini sömüren insanlara başkaldırıp çiftliğin yönetimini ele geçirir. Amaçları daha eşitlikçi bir topluluk oluşturmaktır. Aralarında en akıllı olan domuzlar, kısa sürede önder bir takım oluşturur; ama devrimi de yine onlar yolundan saptırır. Ne yazık ki insanlardan daha baskıcı, daha acımasız bir diktatörlük kurulmuştur artık. George Orwell, bu romanında tarihsel bir gerçeği eleştirmektedir. Romandaki önder domuzun, düpedüz Stalini simgelediği açıktır. Diğer kahramanlar gerçek kişileri çağrıştırmasalar da, bir diktatörlük ortamında olabilecek kişilerdir. \n\nAltbaşlığı Bir Peri Masalı olan Hayvan Çiftliği, bir masal anlatımıyla yazılmıştır; ama küçükleri eğlendirecek bir peri masalı değil, çarpıcı bir politik taşlamadır.\n(Tanıtım Bülteninden)"
+      ]
+    },
+    {
+      "id": 10131,
+      "title": "Seçilmiƒ Mektuplar Can Yayìnlarì",
+      "authors": [
+        {
+          "name": "Goethe",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/goethe_secilmi_mektuplar_can_yay_nlar_10131.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/goethe_secilmi_mektuplar_can_yay_nlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/goethe_secilmi_mektuplar_can_yay_nlar_10131.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/goethe_secilmi_mektuplar_can_yay_nlar_10131.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Seçilmiƒ Mektuplar Can Yayìnlarì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10132,
+      "title": "Ay Işığı",
+      "authors": [
+        {
+          "name": "Guy de Maupassant",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Fransız Edebiyatı",
+        "Klasik"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guy_de_maupassant_ay_isigi_10132.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/guy_de_maupassant_ay_isigi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guy_de_maupassant_ay_isigi_10132.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ay Işığı, öykü alanında dünya edebiyatına damgasını vurmuş olan Fransız yazar Guy de Maupassant'nın on dört öyküsünden oluşan bir derleme. \nEdebiyat yaşamına Flaubert'in çırağı olarak başlayan Maupassant, benzerine az rastlanır gözlem gücü, küçük ayrıntıları değerlendirme ustalığı ve doğrudan söylenenin gerisindeki ince alayla kaleme aldığı eserleriyle öykü türünü adeta yeniden tanımlamıştır. Olaylara, nesnelere hep dışarıdan bakan, okuru çok değişik çevrelerde, çok değişik insanlar arasında dolaştıran yazarın öykülerinin büyük çoğunluğu okuru hep derin bir gerçeklik duygusu içinde gülümsetir ya da ürpertir. Yazar, sıradan insanların yaşamındaki küçük dramlardan ve onların zihinlerini meşgul eden gündelik sorunlardan ironi dolu çarpıcı hikâyeler çıkarır.\nÖzlü, güçlü, keskin, ekonomik anlatımla güçlendirdiği gerçekçiliği ve kurgudaki ustalığıyla öykü türüne yeni bir anlayış getiren yazarın bu derlemesini Türkçe'nin usta kalemlerinden Tahsin Yücel'in çevirisiyle okurlara sunuyoruz."
+      ]
+    },
+    {
+      "id": 10133,
+      "title": "Ateşten Gömlek",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Cumhuriyet Dönemi",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_atesten_gomlek_10133.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_atesten_gomlek.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_atesten_gomlek_10133.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ateşten Gömlek, cepheden, romanda anlatılan kişilerle omuz omuza yaşamış birinden gelen bir yapıt. Kurtuluş Savaşı'nın ateşten gömleğinin içinden çıkmış bir roman. Halide Edib Adıvar, her birini yakından tanıdığı roman kişilerini, yani silah arkadaşlarını içtenlikle, çağına ve yaşanan acı olaylara sorumlulukla tanıklık ederek anlatıyor. Bağımsızlık savaşımızı bütün gerçekliği ve canlılığıyla anlatan belki de en önemli roman, Ateşten Gömlek.\n\nİhtilal ve isyan günlerinden beri koza, kurt, kelebek devirleri tetkik edilen mahlûkat gibi Sakarya silâh arkadaşlarımın \"Ateşten Gömlek\"te birkaç solgun aksini İstanbul, ihtilal ve ordu günlerinden alıp kâğıt üstüne koymaya çalıştım. İstediğim gibi olmadığı için silâh arkadaşlarımdan af dilemek isterdim. Bize onlar ilham ettiler."
+      ]
+    },
+    {
+      "id": 10134,
+      "title": "Handan",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Roman",
+        "Cumhuriyet Dönemi"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_handan_10134.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_handan.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_handan_10134.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ben artık zelil ve sefil bir günahkâr oldum. Ben artık tarihin en mel un çehresi Yehuda 'ya bir nazire oldum. Yehuda nasıl dünyanın pek muazzez bir simasını, efendisini birkaç dinar için sattı ise ben de dünyanın beni en çok sevmiş bir ruhunu, o ruhun hududu olmayan emniyetini, muhitini sattım, dünyada en çok sevdiği bir şeyin kalbini ondan çaldım.\nHalide Edib Adıvar, kendisine asıl ününü kazandıran yapıtlarından biri olan Handan'da evlilik ve aşk ilişkilerini konu alır. İngiliz terbiyesiyle yetişmiş Handan, 11. Abdülhamid rejimine karşı mücadele eden Nâzım'ı reddederek Hüsnü Paşa ile evlenir, ama mutlu olmaz. Mutsuzluğu onu bir beyin kanamasına ve bilinç kaybına götürür.\nHandanın yeni ve özenli basımını genç kuşakların kaçırmamaları gerekiyor."
+      ]
+    },
+    {
+      "id": 10135,
+      "title": "Kalp Ağrısı",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_kalp_agrisi_10135.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_kalp_agrisi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_kalp_agrisi_10135.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kalp Ağrısı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10136,
+      "title": "Mor Salkımlı Ev",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Anı",
+        "Mektup"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_mor_salkimli_ev_10136.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_mor_salkimli_ev.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_mor_salkimli_ev_10136.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Evin kendisi, çocuğun hafızasında Mor Salkımlı Ev yaftasını taşır. Bu ev, yarım asırdan ziyade, bazan da her gece, bu küçük kızın rüyalarına girmiştir. Arka taraftaki bahçeye nazır pencereler, çifte merdivenlerin sahanlıklarındaki ince uzun pencereleri, baştan başa mor salkımlıdır ve akşam güneşinde mor çiçekler arasında camlar birer ateş levhası gibi parlar. \n\nHalide Edib Adıvar, anılarını iki cilt halinde kaleme almış, bu iki cildi de hayatının ayrı dönemlerinde yazmıştı. Mor Salkımlı Ev, yazarın çocukluk günlerinden 1918 yılına kadar olan dönemi anlatır. 'İstiklâl Savaşı Hatıraları' alt başlığını verdiği Türk'ün Ateşle İmtihanı ise bu tarihten 1923 yılına kadar olan olayları. \n\nMor Salkımlı Ev'de, ülkesinin tarihine hem bir aydın, hem de bir eylemci olarak büyük katkılarda bulunmuş bir yazarın yetiştiği yılları okuyacaksınız."
+      ]
+    },
+    {
+      "id": 10137,
+      "title": "Sevda Sokağı Komedyası",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Orijinal",
+        "Edebiyat"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_sevda_sokagi_komedyasi_10137.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_sevda_sokagi_komedyasi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_sevda_sokagi_komedyasi_10137.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Edebiyatımızın öncü kadın yazarlarından Halide Edib Adıvar, üretken kalemiyle yaşadığı çağın bir \nportresini çizmişti.\nHalide Edib Adıvar'ın bu kısa romanı, yazarımızın kaleminden çıkan en eğlenceli, en akılda kalıcı tipleri barındırıyor. Annesi ile babasını bir yangında kaybetmiş, sonradan bir Saraylı ailenin beslemesi olmuş Numune; birbirinden güzel kadın ayakkabıları yapmakla meşhur Macit; güzelliğiyle olduğu kadar geçimsizliği ile de dillere destan Leyla... Bu üç kahramanın yolları, mahalle sakinlerinin onlara ithafen verdiği adla Sevda Sokağı'nda buluşuyor. Ama ne buluşma: Macit, Leyla'ya körkütük âşık, Numune Macit'le evlenmeyi kafasına koymuş. Leyla, Doktor Kerem'i seviyor ama bu imkânsız bir aşk. Macit'in Leyla'ya aşkı da imkânsız, çünkü Leyla onunla evlense de yatağına girmemeye yeminli. Peki işin içinden nasıl çıkılacak? Cevabı bu ilginç romanın sayfalarında bulacaksınız. Sevda Sokağı Komedyası, 1900'lerin başında İstanbul'un gündelik yaşamını merak edenler için."
+      ]
+    },
+    {
+      "id": 10138,
+      "title": "Sinekli Bakkal",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_sinekli_bakkal_10138.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_sinekli_bakkal.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_sinekli_bakkal_10138.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Adıvar'ın bugüne kadar defalarca basılmış, milyonlarca okur tarafından okunmuş ve güncelliğini hiç yitirmemiş romanı Sinekli Bakkal, Türk romanı içerisinde özel bir yere sahip. \"Roman,\" dendiğinde aklımıza gelen ilk kitaplardan biri olan bu yapıtı Selim İleri'nin yazdığı sonsöz eşliğinde sunuyoruz.\n\nDefalarca basılmış, kuşaklardan kuşaklara ulaşabilmiş Sinekli Bakkal, II. Abdülhamid dönemini bir geçmiş zaman dekoru önünde yansıtarak, eskiden yeniye devralınması gereken kültür, sanat ve töre değerleri üzerinde durur. Bir anlamda, yazar ve eseri, tarihi süreklilik arayışı içerisindedirler."
+      ]
+    },
+    {
+      "id": 10139,
+      "title": "Tatarcık",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_tatarcik_10139.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_tatarcik.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_tatarcik_10139.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Tatarcık eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10140,
+      "title": "Türk'ün Ateşle İmtihanı",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Orijinal",
+        "Edebiyat"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_tu_rk_u_n_atesle_imtihani_10140.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_tu_rk_u_n_atesle_imtihani.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_tu_rk_u_n_atesle_imtihani_10140.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Burada. Türkiye, başşehrinden ve Anadolu daki topraklarından mahrum edilmek istenilmiyordu. İmparatorluk un. İstanbul başşehri olarak kalmasına taraftar olmakla beraber. Akdeniz le Karadeniz aracındaki geçidi tarafsız hale sokmak. Ermenistan. Arabistan. Mezopotamya. Suriye ve Filistin V ayrı ayrı parçalara ayırmak vardı.Halide Edib Adıvar. çocukluk günlerinden 1918'e kadarki anılarını Mor Salkındı Ev başlığıyla kaleme almıştı. Türk 'ün Ateşle İmtihanı, bundan sonrasını. 1918'den 1923 sonlarına kadar olan dönemi anlatıyor. Ulusal Kurtuluş Savaşı sırasında yaşananlar, yazarın gözlemleri canlı ve etkileyici bir anlatımla okura sunuluyor.Türk ün Ateşle İmtihanı. Halide Onbaşı'nın. o günleri yaşayan bir aydının içten anlatımıyla yakin tarihimize ışık tutuyor."
+      ]
+    },
+    {
+      "id": 10141,
+      "title": "Türk'ün Ateşle İmtihanı",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_turk_un_atesle_imtihani_10141.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_turk_un_atesle_imtihani.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_turk_un_atesle_imtihani_10141.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Türk'ün Ateşle İmtihanı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10142,
+      "title": "Vurun Kahpeye",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Cumhuriyet Dönemi",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_vurun_kahpeye_10142.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_vurun_kahpeye.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_vurun_kahpeye_10142.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir taşra kasabasında. Halide Edib Adıvar'ın son derece gerçekçi, ayrıntılara inen gözlem gücüyle yazılmış bu unutulmaz roman, Anadolu aydınlanmasının gerçek kahramanlarına, halkın aydınlanması için hayatlarını hiçe sayan kadınlara adanmış bir ağıt, dönüp dönüp yeniden okunacak bir belge niteliğinde."
+      ]
+    },
+    {
+      "id": 10143,
+      "title": "Yolpalas Cinayeti",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Cumhuriyet Dönemi",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_yolpalas_cinayeti_10143.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_yolpalas_cinayeti.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_yolpalas_cinayeti_10143.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Halide Edib Adıvar'ın 1936 yılında Paris'te kaleme aldığı bir cinayet romanı, Yolpalas Cinayeti. Bu kısa roman, Adıvar'ın güçlü anlatımını göstermesi bakımından son derece değerli. Kitap, 1900'lerin başında Şişli'de bir konakta işlenen bir cinayetin görüldüğü dava ile başlıyor ve o yılların İstanbul'una dair gözlemler eşliğinde anlatılıyor. Dönemin İstanbul'unu, kentte yaşayan aydınların Türkiye'ye ve Avrupa'ya bakışlarını, yeni yeni bilincine varılan sınıf çatışmalarını gözler önüne seriyor. \n“Duygusallıkla yaklaştığımız romanlar vardır; Yolpalas Cinayeti benim için onlardan biri. Halide Edib Adıvar'ın en güçlü eserlerinden mi? Sinekli Bakkal kadar ünlü, Kalb Ağrısı kadar ince ve duyarlı, Handan kadar çarpıcı mı? Bunları bilemem. Ama Yolpalas Cinayeti'nin derin etkisi altında kaldığımı, yıllar yılı ondan izdüşümlerle yaşadığımı mutlaka söylemeliyim.” -Selim İleri"
+      ]
+    },
+    {
+      "id": 10144,
+      "title": "Çaresaz",
+      "authors": [
+        {
+          "name": "Halide Edib Adıvar",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Orijinal",
+        "Edebiyat"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_caresaz_10144.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_caresaz.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_caresaz_10144.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Çaresaz, edebiyatımızın unutulmaz yazarı Halide Edib Adıvar'ın, çağdaşlaşma sürecinde İstanbul'da yaşanan günlük hayatı tasvir ettiği kısa romanlarından biri. Hikâyemizin kahramanı, her derde deva, yardımsever bir kız olduğu için mahallelinin Çaresaz diye seslendiği genç öğretmen Mediha. Kahramanımız, komşu köşkte oturan ihtiyar kadına vakfetmiş kendini... Tabii ihtiyar kadının oğlu Münir'in köşke döneceğinden, aralarında tuhaf, gelgitlerle sürecek bir aşkın başlayacağından habersiz... Halide Edib, modern ilişkileri, aşkı, imam nikâhını, resmî nikâhı konu ediniyor. Bu küçük kitabı okurken hem yazarın tadına doyulmaz dilini hem o yılların İstanbul yaşamından sahneleri, kişileri izleyeceksiniz. Çaresaz'ın, Münir'in, konu komşunun sıradan, masum ve dingin yaşamlarını gözleyecek, romanda Halide Edib'in kendi hayatından da izler bulacaksınız."
+      ]
+    },
+    {
+      "id": 10145,
+      "title": "Mavi Melek-Profesör Unrat - Can Yay-1992",
+      "authors": [
+        {
+          "name": "Heinrich Mann",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/heinrich_mann_mavi_melek_profesor_unrat_can_yay_1992_10145.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/heinrich_mann_mavi_melek_profesor_unrat_can_yay_1992.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/heinrich_mann_mavi_melek_profesor_unrat_can_yay_1992_10145.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/heinrich_mann_mavi_melek_profesor_unrat_can_yay_1992_10145.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Mavi Melek-Profesör Unrat - Can Yay-1992 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10146,
+      "title": "Çocuk ve Irmak - Can Yay-1982",
+      "authors": [
+        {
+          "name": "Henri Bosco",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henri_bosco_cocuk_ve_irmak_can_yay_1982_10146.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/henri_bosco_cocuk_ve_irmak_can_yay_1982.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henri_bosco_cocuk_ve_irmak_can_yay_1982_10146.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henri_bosco_cocuk_ve_irmak_can_yay_1982_10146.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Çocuk ve Irmak - Can Yay-1982 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10147,
+      "title": "Her Sozcugu Bir Ask... cs",
+      "authors": [
+        {
+          "name": "Henrik Nordbrandt",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henrik_nordbrandt_her_sozcugu_bir_ask_cs_10147.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/henrik_nordbrandt_her_sozcugu_bir_ask_cs.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henrik_nordbrandt_her_sozcugu_bir_ask_cs_10147.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henrik_nordbrandt_her_sozcugu_bir_ask_cs_10147.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Her Sozcugu Bir Ask... cs eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10148,
+      "title": "Masallar",
+      "authors": [
+        {
+          "name": "Hermann Hesse",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hermann_hesse_masallar_10148.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/hermann_hesse_masallar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hermann_hesse_masallar_10148.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hermann_hesse_masallar_10148.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Masallar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10149,
+      "title": "Aydìnlar Üzerine",
+      "authors": [
+        {
+          "name": "Jean Paul Sartre",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jean_paul_sartre_ayd_nlar_uzerine_10149.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/jean_paul_sartre_ayd_nlar_uzerine.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jean_paul_sartre_ayd_nlar_uzerine_10149.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jean_paul_sartre_ayd_nlar_uzerine_10149.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Aydìnlar Üzerine eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10150,
+      "title": "Bulantì",
+      "authors": [
+        {
+          "name": "Jean Paul Sartre",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jean_paul_sartre_bulant_10150.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/jean_paul_sartre_bulant.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jean_paul_sartre_bulant_10150.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/jean_paul_sartre_bulant_10150.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bulantì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
       ]
     }
   ]
