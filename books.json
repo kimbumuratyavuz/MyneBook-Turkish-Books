@@ -1,5 +1,5 @@
 {
-  "count": 1000,
+  "count": 1023,
   "next": null,
   "previous": null,
   "results": [
@@ -34852,6 +34852,811 @@
       "download_count": 0,
       "summaries": [
         "Yabandomuzunun İzinde eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11001,
+      "title": "Jean-Jacques Rousseau",
+      "authors": [
+        {
+          "name": "Leo Damrosch",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/leo_damrosch_jean_jacques_rousseau.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/leo_damrosch_jean_jacques_rousseau.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/leo_damrosch_jean_jacques_rousseau.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/leo_damrosch_jean_jacques_rousseau.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Jean-Jacques Rousseau eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11002,
+      "title": "Aile Mutluluğu",
+      "authors": [
+        {
+          "name": "Lev Nikolayeviç Tolstoy",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lev_nikolayevic_tolstoy_aile_mutlulugu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/lev_nikolayevic_tolstoy_aile_mutlulugu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lev_nikolayevic_tolstoy_aile_mutlulugu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lev_nikolayevic_tolstoy_aile_mutlulugu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Aile Mutluluğu eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11003,
+      "title": "Mektup Aşkları",
+      "authors": [
+        {
+          "name": "Leyla Erbil",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/leyla_erbil_mektup_asklari.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/leyla_erbil_mektup_asklari.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/leyla_erbil_mektup_asklari.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/leyla_erbil_mektup_asklari.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Mektup Aşkları eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11004,
+      "title": "Tuhaf Bir Erkek",
+      "authors": [
+        {
+          "name": "Leyla Erbil",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/leyla_erbil_tuhaf_bir_erkek.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/leyla_erbil_tuhaf_bir_erkek.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/leyla_erbil_tuhaf_bir_erkek.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/leyla_erbil_tuhaf_bir_erkek.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Tuhaf Bir Erkek eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11005,
+      "title": "Immanuel Kant",
+      "authors": [
+        {
+          "name": "Manfred Kuehn",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/manfred_kuehn_immanuel_kant.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/manfred_kuehn_immanuel_kant.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/manfred_kuehn_immanuel_kant.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/manfred_kuehn_immanuel_kant.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Immanuel Kant eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11006,
+      "title": "Süper İyi Günler",
+      "authors": [
+        {
+          "name": "Mark Haddon",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/mark_haddon_super_iyi_gunler.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/mark_haddon_super_iyi_gunler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/mark_haddon_super_iyi_gunler.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/mark_haddon_super_iyi_gunler.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Süper İyi Günler eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11007,
+      "title": "99 Sayfada Küresel İklim Değişimi",
+      "authors": [
+        {
+          "name": "Mikdat Kadıoğlu & Serhan Yedig",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/mikdat_kadioglu_serhan_yedig_99_sayfada_kuresel_iklim_degisimi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/mikdat_kadioglu_serhan_yedig_99_sayfada_kuresel_iklim_degisimi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/mikdat_kadioglu_serhan_yedig_99_sayfada_kuresel_iklim_degisimi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/mikdat_kadioglu_serhan_yedig_99_sayfada_kuresel_iklim_degisimi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "99 Sayfada Küresel İklim Değişimi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11008,
+      "title": "İstanbul Yahudi Cemaati'nin Tarihi (1453-1566)",
+      "authors": [
+        {
+          "name": "Minna Rozen",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/minna_rozen_istanbul_yahudi_cemaati_nin_tarihi_1453_1566.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/minna_rozen_istanbul_yahudi_cemaati_nin_tarihi_1453_1566.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/minna_rozen_istanbul_yahudi_cemaati_nin_tarihi_1453_1566.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/minna_rozen_istanbul_yahudi_cemaati_nin_tarihi_1453_1566.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "İstanbul Yahudi Cemaati'nin Tarihi (1453-1566) eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11009,
+      "title": "Çin Şiirleri",
+      "authors": [
+        {
+          "name": "Muhaddere Nabi Özerdim",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/muhaddere_nabi_ozerdim_cin_siirleri.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/muhaddere_nabi_ozerdim_cin_siirleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/muhaddere_nabi_ozerdim_cin_siirleri.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/muhaddere_nabi_ozerdim_cin_siirleri.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Çin Şiirleri eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11010,
+      "title": "Bacaksız Paralı Atlet",
+      "authors": [
+        {
+          "name": "Rıfat Ilgaz",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_bacaksiz_parali_atlet.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/rifat_ilgaz_bacaksiz_parali_atlet.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_bacaksiz_parali_atlet.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_bacaksiz_parali_atlet.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bacaksız Paralı Atlet eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11011,
+      "title": "Dördüncü Bölük",
+      "authors": [
+        {
+          "name": "Rıfat Ilgaz",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_dorduncu_boluk.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/rifat_ilgaz_dorduncu_boluk.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_dorduncu_boluk.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_dorduncu_boluk.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Dördüncü Bölük eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11012,
+      "title": "Rüşvetin Alamancası",
+      "authors": [
+        {
+          "name": "Rıfat Ilgaz",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_rusvetin_alamancasi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/rifat_ilgaz_rusvetin_alamancasi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_rusvetin_alamancasi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_rusvetin_alamancasi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Rüşvetin Alamancası eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11013,
+      "title": "Sosyal Kadınlar Partisi",
+      "authors": [
+        {
+          "name": "Rıfat Ilgaz",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_sosyal_kadinlar_partisi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/rifat_ilgaz_sosyal_kadinlar_partisi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_sosyal_kadinlar_partisi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/rifat_ilgaz_sosyal_kadinlar_partisi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sosyal Kadınlar Partisi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11014,
+      "title": "Köçekçeler",
+      "authors": [
+        {
+          "name": "Salah Birsel",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/salah_birsel_kocekceler.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/salah_birsel_kocekceler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/salah_birsel_kocekceler.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/salah_birsel_kocekceler.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Köçekçeler eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11015,
+      "title": "Ay Hırsızı",
+      "authors": [
+        {
+          "name": "Sunay Akın",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_ay_hirsizi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sunay_akin_ay_hirsizi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_ay_hirsizi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_ay_hirsizi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ay Hırsızı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11016,
+      "title": "Bir Çift Ayakkabı",
+      "authors": [
+        {
+          "name": "Sunay Akın",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_bir_c_ift_ayakkabi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sunay_akin_bir_c_ift_ayakkabi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_bir_c_ift_ayakkabi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_bir_c_ift_ayakkabi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Çift Ayakkabı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11017,
+      "title": "Kırdığımız Oyuncaklar",
+      "authors": [
+        {
+          "name": "Sunay Akın",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_kirdigimiz_oyuncaklar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sunay_akin_kirdigimiz_oyuncaklar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_kirdigimiz_oyuncaklar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_kirdigimiz_oyuncaklar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kırdığımız Oyuncaklar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11018,
+      "title": "Önce Çocuklar ve Kadınlar",
+      "authors": [
+        {
+          "name": "Sunay Akın",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_o_nce_c_ocuklar_ve_kadinlar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sunay_akin_o_nce_c_ocuklar_ve_kadinlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_o_nce_c_ocuklar_ve_kadinlar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sunay_akin_o_nce_c_ocuklar_ve_kadinlar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Önce Çocuklar ve Kadınlar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11019,
+      "title": "Bir Şairin Günlüğü- 1945-1951 Günleri",
+      "authors": [
+        {
+          "name": "Yorgo Seferis",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/yorgo_seferis_bir_sairin_gunlugu_1945_1951_gunleri.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/yorgo_seferis_bir_sairin_gunlugu_1945_1951_gunleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/yorgo_seferis_bir_sairin_gunlugu_1945_1951_gunleri.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/yorgo_seferis_bir_sairin_gunlugu_1945_1951_gunleri.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Şairin Günlüğü- 1945-1951 Günleri eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11020,
+      "title": "Velosipet ile Bir Cevelan- 1900'e Doğru İstanbul'dan Bursa'ya Bisikletli Bir Gezi",
+      "authors": [
+        {
+          "name": "İbnülcemal Ahmet Tevfik",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ibnulcemal_ahmet_tevfik_velosipet_ile_bir_cevelan_1900_e_dogru_istanbul_dan.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ibnulcemal_ahmet_tevfik_velosipet_ile_bir_cevelan_1900_e_dogru_istanbul_dan.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ibnulcemal_ahmet_tevfik_velosipet_ile_bir_cevelan_1900_e_dogru_istanbul_dan.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ibnulcemal_ahmet_tevfik_velosipet_ile_bir_cevelan_1900_e_dogru_istanbul_dan.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Velosipet ile Bir Cevelan- 1900'e Doğru İstanbul'dan Bursa'ya Bisikletli Bir Gezi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11021,
+      "title": "Birinci TBMM'nin Düşünce Yapısı (1920-1923)",
+      "authors": [
+        {
+          "name": "İhsan Güneş",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ihsan_gunes_birinci_tbmm_nin_dusunce_yapisi_1920_1923.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ihsan_gunes_birinci_tbmm_nin_dusunce_yapisi_1920_1923.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ihsan_gunes_birinci_tbmm_nin_dusunce_yapisi_1920_1923.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ihsan_gunes_birinci_tbmm_nin_dusunce_yapisi_1920_1923.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Birinci TBMM'nin Düşünce Yapısı (1920-1923) eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11022,
+      "title": "Sanatsal Yaratma, Çocukta Yaratıcılık",
+      "authors": [
+        {
+          "name": "İnci San",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/inci_san_sanatsal_yaratma_cocukta_yaraticilik.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/inci_san_sanatsal_yaratma_cocukta_yaraticilik.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/inci_san_sanatsal_yaratma_cocukta_yaraticilik.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/inci_san_sanatsal_yaratma_cocukta_yaraticilik.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sanatsal Yaratma, Çocukta Yaratıcılık eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 11023,
+      "title": "Mevlevilikte Resim Resimde Mevleviler",
+      "authors": [
+        {
+          "name": "Şahabettin Uzluk",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sahabettin_uzluk_mevlevilikte_resim_resimde_mevleviler.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/sahabettin_uzluk_mevlevilikte_resim_resimde_mevleviler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sahabettin_uzluk_mevlevilikte_resim_resimde_mevleviler.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/sahabettin_uzluk_mevlevilikte_resim_resimde_mevleviler.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Mevlevilikte Resim Resimde Mevleviler eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
       ]
     }
   ]
