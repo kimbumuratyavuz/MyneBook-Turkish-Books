@@ -2,7 +2,7 @@
 
 Bu depo, **MyneBook** Android uygulaması için hazırlanan ücretsiz, tam metin ve yüksek kaliteli Türkçe e-kitap kataloğudur.
 
-> **Katalog Durumu:** Toplam **1020** kitap bulunmaktadır.
+> **Katalog Durumu:** Toplam **1019** kitap bulunmaktadır.
 
 ---
 
@@ -147,7 +147,6 @@ Bu depo, **MyneBook** Android uygulaması için hazırlanan ücretsiz, tam metin
 | 10138 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_sinekli_bakkal.jpg" width="40" height="60" /> | **Sinekli Bakkal** | Halide Edib Adıvar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_sinekli_bakkal_10138.epub) |
 | 10139 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_tatarcik.jpg" width="40" height="60" /> | **Tatarcık** | Halide Edib Adıvar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_tatarcik_10139.epub) |
 | 10140 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_tu_rk_u_n_atesle_imtihani.jpg" width="40" height="60" /> | **Türk'ün Ateşle İmtihanı** | Halide Edib Adıvar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_tu_rk_u_n_atesle_imtihani_10140.epub) |
-| 10141 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_turk_un_atesle_imtihani.jpg" width="40" height="60" /> | **Türk'ün Ateşle İmtihanı** | Halide Edib Adıvar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_turk_un_atesle_imtihani_10141.epub) |
 | 10142 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_vurun_kahpeye.jpg" width="40" height="60" /> | **Vurun Kahpeye** | Halide Edib Adıvar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_vurun_kahpeye_10142.epub) |
 | 10143 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_yolpalas_cinayeti.jpg" width="40" height="60" /> | **Yolpalas Cinayeti** | Halide Edib Adıvar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_yolpalas_cinayeti_10143.epub) |
 | 10144 | <img src="https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/halide_edib_adivar_caresaz.jpg" width="40" height="60" /> | **Çaresaz** | Halide Edib Adıvar | [EPUB İndir](https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/halide_edib_adivar_caresaz_10144.epub) |
