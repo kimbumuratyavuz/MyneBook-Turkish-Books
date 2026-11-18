@@ -1,5 +1,5 @@
 {
-  "count": 350,
+  "count": 400,
   "next": null,
   "previous": null,
   "results": [
@@ -12123,6 +12123,1737 @@
       "download_count": 0,
       "summaries": [
         "VI. Henry 2.Cilt eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10351,
+      "title": "VI. Henry 3.Cilt",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_vi_henry_3_cilt.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_vi_henry_3_cilt.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_vi_henry_3_cilt.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_vi_henry_3_cilt.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "VI. Henry 3.Cilt eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10352,
+      "title": "Antonius ve Kleopatra",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Tiyatro Oyunu",
+        "Klasik"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_antonius_ve_kleopatra.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_antonius_ve_kleopatra.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_antonius_ve_kleopatra.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "William Shakespeare (1564-1616): Oyunları ve şiirlerinde insanlık durumlarını dile getiriş gücüyle yaklaşık 400 yıldır bütün dünya okur ve seyircilerini etkilemeyi sürdüren bu efsanevi yazarın 1606 ya da 1607 yılında yazdığı Antonius ve Kleopatra' da ise, Roma (Batı) ve Mısır (Doğu) ekseninde, denebilirse, hem aşkın hem de tarihin yıkıma uğradığı çifte bir tragedya işlenmektedir."
+      ]
+    },
+    {
+      "id": 10353,
+      "title": "III. Richard",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Oyun",
+        "Klasik"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_iii_richard.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_iii_richard.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_iii_richard.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "William Shakespeare (1564-1616): Oyunları ve şiirlerinde insanlık durumlarını dile getiriş gücüyle yaklaşık 400 yıldır bütün dünya okur ve seyircilerini etkilemeyi sürdüren efsanevi yazar, III. Richard'da en çok ilgilendiği temalardan iktidar hırsı ve bunun getirdiği zincirleme suç dizisini işler.\n\nRichard, Shakespeare'in ayrıntılı bir biçimde ele aldığı, gerçek dünya ile trajik hesaplaşmasını yapan, tarihsel deneyimle donatılmış ilk büyük oyun kahramanıdır."
+      ]
+    },
+    {
+      "id": 10354,
+      "title": "Julius Caesar",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Tiyatro Oyunu"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_julius_caesar.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_julius_caesar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_julius_caesar.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "William Shakespeare (1564-1616): Oyunları ve şiirlerinde insanlık durumlarını dile getiriş gücüyle yaklaşık 400 yıldır bütün dünya okur ve seyircilerini etkilemeyi sürdüren bu efsanevi yazar, ilk kez 1599 sonlarında sahnelenen ve Roma İmparatorluğu'na odaklanan ilk oyunu olan Julius Caesar'da ise, bir kez daha kişi ve toplumunun ortak yazgısına ışık düşürmüştür"
+      ]
+    },
+    {
+      "id": 10355,
+      "title": "Kral John'un Yaşamı Ve Ölümü",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kral_john_un_yasami_ve_olumu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_kral_john_un_yasami_ve_olumu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kral_john_un_yasami_ve_olumu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kral_john_un_yasami_ve_olumu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kral John'un Yaşamı Ve Ölümü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10356,
+      "title": "Kral Lear",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Klasik",
+        "Tiyatro Oyunu"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kral_lear.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_kral_lear.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kral_lear.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "William Shakespeare (1564-1616): Oyunları ve şiirlerinde insanlık durumlarını dile getiriş gücüyle yaklaşık 400 yıldır bütün dünya okur ve seyircilerini etkilemeyi sürdüren efsanevi yazar, Kral Lear'de yozlaşan dünyanın çaresi olmayan çöküşünü ele alır. \n\nBu oyunun kurgusu, karakterleri, felsefeli konuşmaları, evrenselliği ve zaman aşımına uğramayacak insani boyutuyla ortaya çıkan görünüm, Shakespeare'in hiçbir tragedyasında görülmeyen ölçüye ulaşır. Bu tragedyanın yapısına iyice kaynaşmış olan grotesk özellikler, tragedya-komedya ikilemi, Kral Lear'in kendine özgü niteliklerinin başında yer alır."
+      ]
+    },
+    {
+      "id": 10357,
+      "title": "Kral VIII. Henry",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kral_viii_henry.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_kral_viii_henry.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kral_viii_henry.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kral_viii_henry.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kral VIII. Henry eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10358,
+      "title": "Kısasa Kısas",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kisasa_kisas.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_kisasa_kisas.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kisasa_kisas.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_kisasa_kisas.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kısasa Kısas eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10359,
+      "title": "Macbeth",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Dünya Klasikleri",
+        "İngiliz Edebiyatı",
+        "Tiyatro"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_macbeth.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_macbeth.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_macbeth.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "William Shakespeare (1564-1616): Oyunları ve şiirlerinde insanlık durumlarını dile getiriş gücüyle yaklaşık 400 yıldır bütün dünya okur ve seyircilerini etkilemeyi sürdüren bu efsanevi yazar, büyük olasılıkla 1606 yılında yazdığı Macbeth'le \"yükselme arzusu ve politik hırsın\" kişiyi neye dönüştürebileceğini dünü, bugünü ve yarını kapsayacak bir derinlikle öngörmüştür."
+      ]
+    },
+    {
+      "id": 10360,
+      "title": "On İkinci Gece",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Tiyatro Oyunu"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_on_ikinci_gece.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_on_ikinci_gece.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_on_ikinci_gece.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Oyunları ve şiirlerinde insanlık durumlarını dile getiriş gücüyle yaklaşık 400 yıldır bütün dünya okur ve seyircilerini etkilemeyi sürdürmektedir. On İkinci Gece'nin konusu yazarın öteki romantik komedilerinde olduğu gibi, aşktır. Gizlenen kimlikler, birbirine karıştırılan kişiler olayları gülünç hale getirir. Ancak konudan daha önemli olan, güzelliğiyle öne çıkar bir şiir diliyle gülmece öğelerinin sergilenmesi, ilginç duygu ve düşüncelerle kişilerin gerçeklik kazanmasıdır."
+      ]
+    },
+    {
+      "id": 10361,
+      "title": "Othello",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Tiyatro Oyunu",
+        "Klasik"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_othello.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_othello.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_othello.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "William Shakespeare (1564-1616): Oyunları ve şiirlerinde insanlık durumlarını dile getiriş gücüyle yaklaşık\n400 yıldır bütün dünya okur ve seyircilerini etkilemeyi sürdüren efsanevi yazar, Othello´da kıskançlığı,\nhırsı ve coşkuyu dinamik ve görkemli bir biçimde yansıtmıştır. Yine de bu eser sadece bir kıskançlık tragedyası değildir. Shakespeare, Othello´da her çağda geçerli olan trajik bir durumu, saf dürüstlüğün, yalan ve\ndüzen dünyasına yenilişini, yazgıların birbirinden ayrılıp birbiriyle karşılaştığı labirentler içinde aktarır.\n..."
+      ]
+    },
+    {
+      "id": 10362,
+      "title": "Pericles",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_pericles.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_pericles.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_pericles.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_pericles.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Pericles eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10363,
+      "title": "Soneler",
+      "authors": [
+        {
+          "name": "William Shakespeare - Türkiye İş Bankası Kültür Yayınları",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_turkiye_is_bankasi_kultur_yayinlari_soneler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_turkiye_is_bankasi_kultur_yayinlari_soneler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_turkiye_is_bankasi_kultur_yayinlari_soneler.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Soneler eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10364,
+      "title": "Yanlışlıklar Komedyası",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_yanlisliklar_komedyasi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_yanlisliklar_komedyasi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_yanlisliklar_komedyasi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_yanlisliklar_komedyasi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yanlışlıklar Komedyası eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10365,
+      "title": "Cardenio",
+      "authors": [
+        {
+          "name": "John Fletcher William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Oyun"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/john_fletcher_william_shakespeare_cardenio.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/john_fletcher_william_shakespeare_cardenio.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/john_fletcher_william_shakespeare_cardenio.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "William Shakespeare (1564-1616): Oyunları ve şiirlerinde insanlık durumlarını dile getiriş gücüyle yaklaşık 400 yıldır bütün dünya okur ve seyircilerini etkilemeyi sürdüren efsanevi yazar, Cardenio'yu Cervantes'in Don Quijote adlı eserindeki Cardenio'nun öyküsünden esinlenerek yazmıştır. İktidar, zorbalık, aşk, iffet ve ölüm öğeleriyle şekillenen tragedyada kadınların sahip olduğu değerlerin üstünlüğü vurgulanmıştır. Eser sahnelendiğinde, ustaca düşünülen olay dizisi, canlı tabloları ve mükemmel oyun kurgusu ile övgü toplamıştır. Türkçeye ilk kez çevrilen Cardenio Shakespeare'in yardımcı yazarı John Fletcher ile birlikte yazdığı iki oyundan biridir.John Fletcher (1779-1625): Shakespeare'in sağlığının bozulduğu son yıllarda \"The King's Men\" topluluğuna yardımcı yazar olarak kabul edildi. Fletcher'ın kendi döneminde verimli ve başarılı bir yazar olmasında Shakespeare'in çıraklığını yapması büyük rol oynamıştır. John Fletcher, Cardenio'dan başka İki Soylu Akraba'nın yazılmasında da Shakespeare ile birlikte çalışmıştır."
+      ]
+    },
+    {
+      "id": 10366,
+      "title": "Dörtlükler",
+      "authors": [
+        {
+          "name": "Ömer Hayyam",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Şiir",
+        "Orijinal"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/omer_hayyam_dortlukler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/omer_hayyam_dortlukler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/omer_hayyam_dortlukler.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ömer Hayyam: Doğum ve ölüm tarihleri çeşitli kaynaklara göre farlılık gösterse de, 11.yüzyılın ortalarında doğduğu, 12. yüzyılın ilk çeyreğinde öldüğü kabul edilen İranlı şair, felsefeci ve bilim adamıdır. Günümüzde daha çok \"rubai\" türünün yaratıcısı olarak kabul gören Hayyam'ın dörtlükleri, Türkçeye Yahya Kemal ve Abdülbaki Gölpınarlı başta olmak üzere pek çok kez çevrildi. Sabahattin Eyüboğlu'nun çevirisi de bunlar arasında en sevilenlerinden biridir."
+      ]
+    },
+    {
+      "id": 10367,
+      "title": "Oblomov",
+      "authors": [
+        {
+          "name": "İvan Goncarov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ivan_goncarov_oblomov.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/ivan_goncarov_oblomov.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ivan_goncarov_oblomov.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/ivan_goncarov_oblomov.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Oblomov eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10368,
+      "title": "Hüsn ü Aşk",
+      "authors": [
+        {
+          "name": "Şeyh Galib",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/seyh_galib_husn_u_ask.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/seyh_galib_husn_u_ask.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/seyh_galib_husn_u_ask.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/seyh_galib_husn_u_ask.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Hüsn ü Aşk eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10369,
+      "title": "Kamelyalı Kadın",
+      "authors": [
+        {
+          "name": "Alexandre Dumas",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_kamelyali_kadin.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alexandre_dumas_kamelyali_kadin.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alexandre_dumas_kamelyali_kadin.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Alexandre Dumas fils (1824-1895); Henüz 24 yaşında yayımladığı Kamelyalı Kadın’ın (1848) içtenliğiyle tüm zamanların en tanınan aşk romanlarından birini imza atmakla kalmamış; Verdi’nin La Traviata (1853) operasından günümüze, gerek sanatı gerekse hayatı etkilemeyi sürdürmüştür.Tahsin Yücel (1933); Dergilerde ilk ürünlerinin yayımlandığı 1950’den günümüze, edebiyatımızın son elli yılına damga vuran en önemli ustalarındandır. Gerek öykü ve roman, gerekse deneme ve eleştirel çalışmalarıyla ufuk açan bu önemli yazarın Balzac’tan Flaubert’e, Gide’den Camus’ye çeviri edebiyatımıza katkılarıysa, 80 kitabı aşmaktadır."
+      ]
+    },
+    {
+      "id": 10370,
+      "title": "Sapho",
+      "authors": [
+        {
+          "name": "Alphonse Daudet",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_sapho.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/alphonse_daudet_sapho.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/alphonse_daudet_sapho.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sapho eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10371,
+      "title": "Köpeğiyle Dolaşan Kadın Otuz Yedi Seçme Öykü",
+      "authors": [
+        {
+          "name": "Anton Çehov",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_kopegiyle_dolasan_kadin_otuz_yedi_secme_oyku.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/anton_cehov_kopegiyle_dolasan_kadin_otuz_yedi_secme_oyku.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/anton_cehov_kopegiyle_dolasan_kadin_otuz_yedi_secme_oyku.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Köpeğiyle Dolaşan Kadın Otuz Yedi Seçme Öykü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10372,
+      "title": "Illuminations",
+      "authors": [
+        {
+          "name": "Arthur Rimbaud",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Şiir"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_rimbaud_illuminations.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/arthur_rimbaud_illuminations.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/arthur_rimbaud_illuminations.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Can Alkor, özenli dili ve mükemmeliyetçi tutumuyla Illuminations'u Türkçeye çevirdi\n\nArthur Rimbaud (1854-1891): On altı yaşında başlayan şairlik hayatı sadece beş yıl sürdü. Ancak bu süre içinde yüzlerce yıllık geleneksel şiir dilini, yapısını, söylemini ve imge düzenini kökten değiştirdi. Ona göre şair duyuların düzenini bilinçle sonsuzca bozan ve bu yolla başkaları için bilinmez olanları gören bir kâhindi. Cehennemde Bir Mevsim ve Illuminations ile dünya edebiyatında şiirin zirvesine yerleşen Rimbaud 1875'den sonra şiir yazmadı."
+      ]
+    },
+    {
+      "id": 10373,
+      "title": "Ezilenler",
+      "authors": [
+        {
+          "name": "Fyodor Mihailoviç Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_ezilenler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fyodor_mihailovic_dostoyevski_ezilenler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_ezilenler.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ezilenler eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10374,
+      "title": "Öteki",
+      "authors": [
+        {
+          "name": "Fyodor Mihailoviç Dostoyevski",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Orijinal",
+        "Rus Edebiyatı",
+        "Klasik"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_oteki.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/fyodor_mihailovic_dostoyevski_oteki.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/fyodor_mihailovic_dostoyevski_oteki.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Çar I. Nikola'ya muhalif Petraşevski grubunun üyesi olduğu için önce idama mahkûm edilen, sonra cezası sürgüne çevrilerek Sibirya'ya gönderilen Dostoyevski, ilk eserlerini sürgün öncesi dönemde vermiştir. \"Öteki\" bu dönemde 1846 yılında yayımlanan dikkat çekici eserleri arasında yer almaktadır. Dostoyevski bu kitabında kişilik bölünmesini, parçalanmış bilincin kurduğu ürkütücü ve tehlikeli dünyayı konu edinmiştir."
+      ]
+    },
+    {
+      "id": 10375,
+      "title": "Güzel Dost",
+      "authors": [
+        {
+          "name": "Guy De Maupassant",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guy_de_maupassant_guzel_dost.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/guy_de_maupassant_guzel_dost.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/guy_de_maupassant_guzel_dost.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Guy de Maupassant (1850-1893): Tolstoy’un, “…sayıları az olmakla birlikte, Maupassant gibi bir başka tür insan daha vardır ki, bunlar her şeyi kendi gözleriyle, içerdiği önem ve anlamıyla, olduğu gibi görürler.” sözleriyle andığı yazar, kırk üç yıllık kısa ömrüne pek çok roman, öykü, deneme ve tiyatro oyunu sığdırdı. Yazarın ikinci romanı olan Güzel Dost 1885 yılında yayımlandığında geniş yankı uyandırmıştır. Romanın kahramanı Georges Duroy’nın muhabirlikle başlayan, uğruna her tür ahlaksızlığı mubah gördüğü güç sahibi olma serüvenini olanca yalınlığı ve çarpıcılığıyla öykülerken, zengin gazetecilik tecrübesinin de epeyce faydasını görmüştür.Alev Özgüner (1960): Galatasaray Lisesi ve Boğaziçi Üniversitesi’ni bitirdi. Çeşitli yayınevlerinde çalıştı. Aralarında Jules Verne, Emile Zola, Yasmina Khadra, Pierre Daix, Nelly Arcan, André Gorz’un da olduğu birçok yazarın eserlerini Fransızcadan Türkçeye çevirdi."
+      ]
+    },
+    {
+      "id": 10376,
+      "title": "Seçme Masallar",
+      "authors": [
+        {
+          "name": "Hans Christian Andersen",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hans_christian_andersen_secme_masallar.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/hans_christian_andersen_secme_masallar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/hans_christian_andersen_secme_masallar.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Seçme Masallar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10377,
+      "title": "Kısa Romanlar, Uzun Öyküler",
+      "authors": [
+        {
+          "name": "Henry James",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henry_james_kisa_romanlar_uzun_oykuler.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/henry_james_kisa_romanlar_uzun_oykuler.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/henry_james_kisa_romanlar_uzun_oykuler.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kısa Romanlar, Uzun Öyküler eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10378,
+      "title": "Yaşamının Son Yıllarında Goethe ile Konuşmalar",
+      "authors": [
+        {
+          "name": "Johann Peter Eckermann",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Biyografi"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/johann_peter_eckermann_yasaminin_son_yillarinda_goethe_ile_konusmalar.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/johann_peter_eckermann_yasaminin_son_yillarinda_goethe_ile_konusmalar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/johann_peter_eckermann_yasaminin_son_yillarinda_goethe_ile_konusmalar.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Johann Peter Eckermann (1792-1854) : Goethe'nin kırk cildi bulan toplu yapıtlarının yayımlanmasında ona asistanlık yapan Eckermann, ilk Goethe filologu sayılmaktadır. Goethe'nin ölümünden sonra Eckermann'ın 1842 yılına kadar sürdürdüğü çalışmalar sonucunda toplu yapıtlara yirmi cilt daha eklenmiştir. \n\nYayımlanmış şiirlerinden başka, Jena Üniversitesi'den doktor unvanı almasını sağlayan Şiir Sanatına Katkılar adlı kuramsal bir kitabı da olan Eckermann, Yaşamının Son Yıllarında Goethe ile Konuşmalar adlı yapıtıyla tanınır. Yazarın Goethe ile geçirdiği on yılın ürünü olan bu kitap,1835 yılında iki cilt olarak yayımlanmış, üçüncü cildi ise 1848'de basılmıştır. Goethe ile Konuşmalar Nietzsche'ye göre, Goethe'nin yazılarından daha çok ve tekrar tekrar okunmayı hak eden en iyi Almanca kitaptır. \n\nMahmure Kahraman (1956) : Lise eğitimini Trabzon'da tamamladıktan sonra, iki yıl Münih'te yaşadı ve Goethe Enstitüsü'ne devam etti.1983 yılında Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi Alman Dili ve Edebiyatı Bölümü'nü bitirdi. Yüksek lisans eğitimini 1986'da, doktora eğitimini ise 1992'de tamamladı. Halen Ege Üniversitesi'nde Almanca okutmanı olarak çalışmaktadır."
+      ]
+    },
+    {
+      "id": 10379,
+      "title": "Yaşamımdan Şiir ve Hakikat",
+      "authors": [
+        {
+          "name": "Johann Wolfgang von Goethe",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Orjinal",
+        "Klasik",
+        "Biyografi"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/johann_wolfgang_von_goethe_yasamimdan_siir_ve_hakikat.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/johann_wolfgang_von_goethe_yasamimdan_siir_ve_hakikat.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/johann_wolfgang_von_goethe_yasamimdan_siir_ve_hakikat.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Şiir ve Hakikat Gothe'nin dünya görüşünü ve sanat anlayışını yaşamöyküsü içinde aktardığı en dikkat çekici eserlerinden biridir. İlk bölümü 1811'de yayımlanan, dördüncü bölümü ise 1833'de Gothe'nin ölümünden sonra tamamlanan Şiir ve Hakiket'te dönemin tanınmış sanatçı, bilim adamı ve devlet adamlarının yaşamlarından kesitler de yer almaktadır."
+      ]
+    },
+    {
+      "id": 10380,
+      "title": "Katıksız Mutluluk",
+      "authors": [
+        {
+          "name": "Katherine Mansfield",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Orjinal",
+        "Öykü"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/katherine_mansfield_katiksiz_mutluluk.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/katherine_mansfield_katiksiz_mutluluk.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/katherine_mansfield_katiksiz_mutluluk.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yeni Zelanda'da doğan Katherine Mansfield yazar olmak için 19 yaşında İngiltere'ye yerleşti. Gündelik olayların içinden duygu dünyasına yönelen, ruhsal çatışmaların üstüne eğilen derin bir gözlem gücü ve şiirsel ögelerle süslenmiş diliyle kısa öykünün edebi bir tür olmasına önemli katkısı oldu. 1911'de yayımlanan Alman Pansiyonu yazarın düş kırıklıklarını ve karamsarlığını yansıtır. 1920'de yayımlanan Katıksız Mutluluk ile ünü daha da yaygınlaşan yazarın, 1922'de yayımlanan Bahçede Eğlence adlı kitabında ustalığının doruk notası sergilenir. Yayımlanmamış öyküleri ölümünden sonra Kumru Yuvası, Çocuksu Bir Şey adlı kitaplarda toplanmıştır."
+      ]
+    },
+    {
+      "id": 10381,
+      "title": "Anna Karenina",
+      "authors": [
+        {
+          "name": "Lev Nikolayeviç Tolstoy",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lev_nikolayevic_tolstoy_anna_karenina.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/lev_nikolayevic_tolstoy_anna_karenina.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lev_nikolayevic_tolstoy_anna_karenina.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Anna Karenina eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10382,
+      "title": "Hacı Murat",
+      "authors": [
+        {
+          "name": "Lev Nikolayeviç Tolstoy",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lev_nikolayevic_tolstoy_haci_murat.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/lev_nikolayevic_tolstoy_haci_murat.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lev_nikolayevic_tolstoy_haci_murat.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Hacı Murat eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10383,
+      "title": "Kafkas Tutsağı",
+      "authors": [
+        {
+          "name": "Lev Nikolayeviç Tolstoy",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Edebiyat",
+        "Çeviri",
+        "Rus - Eski Sovyet Cumhuriyetleri"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lev_nikolayevic_tolstoy_kafkas_tutsagi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/lev_nikolayevic_tolstoy_kafkas_tutsagi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/lev_nikolayevic_tolstoy_kafkas_tutsagi.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Tarihsel olaylar ve Rusların başka halklarla ilişkileri Anna Karenina, Savaş ve Barış, Diriliş gibi romanların büyük yazarı Tolstoyun ilgisini çeken başlıca konular arasında yer almıştır. Bir süre subay olarak orduya katılan Tolstoy, Kafkasyada geçirdiği günlerde edindiği izlenimleri gerçekçi bir biçimde öykülerine yansıttı. \nKafkas Tutsağında savaş, esaret ve özgürlük \ntemalarını işledi, savaşan insanların ruh hallerini \nyalın ve duygulu bir dille aktardı."
+      ]
+    },
+    {
+      "id": 10384,
+      "title": "Abel Sanchez-Tula Teyze",
+      "authors": [
+        {
+          "name": "Miguel de Unamuno",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/miguel_de_unamuno_abel_sanchez_tula_teyze.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/miguel_de_unamuno_abel_sanchez_tula_teyze.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/miguel_de_unamuno_abel_sanchez_tula_teyze.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Abel Sanchez-Tula Teyze eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10385,
+      "title": "Bir Delinin Anı Defteri",
+      "authors": [
+        {
+          "name": "Nikolay Vasilyeviç Gogol",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Öykü"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/nikolay_vasilyevic_gogol_bir_delinin_ani_defteri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/nikolay_vasilyevic_gogol_bir_delinin_ani_defteri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/nikolay_vasilyevic_gogol_bir_delinin_ani_defteri.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Gogol'un en ünlü öykülerinin yer aldığı bu kitap her yaştan okurun zevkle okuyacağı bir klasik."
+      ]
+    },
+    {
+      "id": 10386,
+      "title": "Müfettiş",
+      "authors": [
+        {
+          "name": "Nikolay Vasilyeviç Gogol",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/nikolay_vasilyevic_gogol_mufettis.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/nikolay_vasilyevic_gogol_mufettis.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/nikolay_vasilyevic_gogol_mufettis.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Müfettiş eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10387,
+      "title": "Taras Bulba ve Mirgorod Öyküleri",
+      "authors": [
+        {
+          "name": "Nikolay Vasilyeviç Gogol",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/nikolay_vasilyevic_gogol_taras_bulba_ve_mirgorod_oykuleri.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/nikolay_vasilyevic_gogol_taras_bulba_ve_mirgorod_oykuleri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/nikolay_vasilyevic_gogol_taras_bulba_ve_mirgorod_oykuleri.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Taras Bulba ve Mirgorod Öyküleri eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10388,
+      "title": "Siyasetname",
+      "authors": [
+        {
+          "name": "Nizamülmülk",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Klasik",
+        "Siyasi",
+        "Türk Tarihi"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/nizamulmulk_siyasetname.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/nizamulmulk_siyasetname.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/nizamulmulk_siyasetname.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Her şeyin kanlı ve kirli bir iktidar imgesinde odaklandığı modern zamanların en netameli kavramlarından biridir siyaset. Modern siyasetin doğası, egemen olma ve sahiplik güdüsünü aşırı biçimde kışkırtır.\n\nBöyle bir dönemde \"bilgelik sanatı\" olarak siyasetin esaslı metinlerinden biri, ünlü Selçuklu veziri Nizamülmülk’ün olan Siyasetnamesi daha da çok önem kazanıyor. Alp Arslan ve Melik Şah’ın saltanat devirlerinde devlet idaresinin zirvesinde bulunan Nizamülmülk, bir tür anayasa sayılabilecek bu eserle yüzyıllar öncesinden sesleniyor."
+      ]
+    },
+    {
+      "id": 10389,
+      "title": "Şölen-Dostluk",
+      "authors": [
+        {
+          "name": "Platon",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/platon_solen_dostluk.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/platon_solen_dostluk.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/platon_solen_dostluk.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Şölen-Dostluk eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10390,
+      "title": "Bizans'ın Gizli Tarihi",
+      "authors": [
+        {
+          "name": "Prokopios",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/prokopios_bizans_in_gizli_tarihi.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/prokopios_bizans_in_gizli_tarihi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/prokopios_bizans_in_gizli_tarihi.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Prokopios (500-565): Ünlü Bizanslı tarihçi 527 yılında Komutan Belisarios'un özel yazmanı ve hukuk danışmanı oldu. İran, Afrika ve İtalya'daki seferlere katılarak buralarda yapılan savaşları yakından izledi. 560 yılında Prokopios'a çok az kişiye verilen illustres unvanı verildi, 562 yılında Bizans kenti yöneticisi oldu. Herodotos ve Thukidides'den etkilenen Prokopios, yazdığı resmi tarihlerde onların yöntemlerini izlemiştir. Savaşlar Tarihi'nde Bizans ordularının Vandallar, Gotlar ve Perslerle yaptığı savaşları anlatır. Yapılar adlı eserinde imparatorluğun kilise, köprü ve başka yapılarını ele alır, o dönemin mimarisi hakkında çok değerli bilgiler verir. Prokopios, İmparator İustinianos zamanını anlattığı Bizans'ın Gizli Tarihi'nde daha önceki kitaplarında zamana uydurmak zorunda kaldığı, işin içyüzünü açıklamayı göze alamadığı, sessizce geçiştirilmiş  olayları apaçık ortaya koyduğunu belirtir."
+      ]
+    },
+    {
+      "id": 10391,
+      "title": "Phadera",
+      "authors": [
+        {
+          "name": "Seneca",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/seneca_phadera.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/seneca_phadera.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/seneca_phadera.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Phadera eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10392,
+      "title": "Hamlet",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Tiyatro Oyunu",
+        "Klasik"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_hamlet.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_hamlet.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_hamlet.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "William Shakespeare (1564-1616) : Oyunları ve şiirlerinde insanlık durumlarını dile getiriş gücüyle yaklaşık \n\n400 yıldır bütün dünya okur ve seyircilerini etkilemeyi sürdüren efsanevi yazar, Hamlet'de aşk, akrabalık ve iktidar ilişkileri ile intikam arzusunu birbirini izleyen cinayetlerin örgüsünde ele alır. Kaynağı eski kuzey masallarına kadar uzanan bu tragedya sadece Shakespeare'in değil, dünya tiyatro tarihinin de \n\nen tanınmış eserlerindendir. Üzerine binlerce kitap \n\nyazılan Hamlet, çağımızda en çok sahneye \n\nkonulan oyunlardan biri olmuştur."
+      ]
+    },
+    {
+      "id": 10393,
+      "title": "İki Soylu Akraba",
+      "authors": [
+        {
+          "name": "William Shakespeare",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman",
+        "Klasikler"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_iki_soylu_akraba.epub",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/william_shakespeare_iki_soylu_akraba.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/william_shakespeare_iki_soylu_akraba.epub"
+      },
+      "download_count": 0,
+      "summaries": [
+        "İki Soylu Akraba eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10394,
+      "title": "Sineklerin Tanrısı",
+      "authors": [
+        {
+          "name": "— 001. William Golding",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/001_william_golding_sineklerin_tanrisi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/001_william_golding_sineklerin_tanrisi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/001_william_golding_sineklerin_tanrisi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/001_william_golding_sineklerin_tanrisi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sineklerin Tanrısı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10395,
+      "title": "Bilinmeyen Adanın Öyküsü",
+      "authors": [
+        {
+          "name": "— 002. José Saramago",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/002_jos_saramago_bilinmeyen_adanin_oykusu.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/002_jos_saramago_bilinmeyen_adanin_oykusu.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/002_jos_saramago_bilinmeyen_adanin_oykusu.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/002_jos_saramago_bilinmeyen_adanin_oykusu.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bilinmeyen Adanın Öyküsü eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10396,
+      "title": "Otomatik Portakal",
+      "authors": [
+        {
+          "name": "— 003. Anthony Burgess",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/003_anthony_burgess_otomatik_portakal.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/003_anthony_burgess_otomatik_portakal.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/003_anthony_burgess_otomatik_portakal.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/003_anthony_burgess_otomatik_portakal.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Otomatik Portakal eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10397,
+      "title": "Casus",
+      "authors": [
+        {
+          "name": "— 004. Joseph Conrad",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/004_joseph_conrad_casus.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/004_joseph_conrad_casus.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/004_joseph_conrad_casus.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/004_joseph_conrad_casus.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Casus eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10398,
+      "title": "Sherlock Holmes Korku Vadisi",
+      "authors": [
+        {
+          "name": "— 005. Sir Arthur Conan Doyle",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/005_sir_arthur_conan_doyle_sherlock_holmes_korku_vadisi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/005_sir_arthur_conan_doyle_sherlock_holmes_korku_vadisi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/005_sir_arthur_conan_doyle_sherlock_holmes_korku_vadisi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/005_sir_arthur_conan_doyle_sherlock_holmes_korku_vadisi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sherlock Holmes Korku Vadisi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10399,
+      "title": "Vahşetin Çağrısı",
+      "authors": [
+        {
+          "name": "— 006. Jack London",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/006_jack_london_vahsetin_cagrisi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/006_jack_london_vahsetin_cagrisi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/006_jack_london_vahsetin_cagrisi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/006_jack_london_vahsetin_cagrisi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Vahşetin Çağrısı eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10400,
+      "title": "Aforizmalar",
+      "authors": [
+        {
+          "name": "— 007. Franz Kafka",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/007_franz_kafka_aforizmalar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/007_franz_kafka_aforizmalar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/007_franz_kafka_aforizmalar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/007_franz_kafka_aforizmalar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Aforizmalar eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
       ]
     }
   ]
