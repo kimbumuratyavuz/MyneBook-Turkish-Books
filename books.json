@@ -1,5 +1,5 @@
 {
-  "count": 600,
+  "count": 650,
   "next": null,
   "previous": null,
   "results": [
@@ -20852,6 +20852,1756 @@
       "download_count": 0,
       "summaries": [
         "Mayìs 68 eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10601,
+      "title": "Cumhuriyet Alkìƒla Olmaz",
+      "authors": [
+        {
+          "name": "Cogito 15. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_15_say_cumhuriyet_alk_la_olmaz.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_15_say_cumhuriyet_alk_la_olmaz.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_15_say_cumhuriyet_alk_la_olmaz.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_15_say_cumhuriyet_alk_la_olmaz.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Cumhuriyet Alkìƒla Olmaz eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10602,
+      "title": "Yalan",
+      "authors": [
+        {
+          "name": "Cogito 16. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_16_say_yalan.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_16_say_yalan.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_16_say_yalan.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_16_say_yalan.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yalan eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10603,
+      "title": "Bizans",
+      "authors": [
+        {
+          "name": "Cogito 17. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_17_say_bizans.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_17_say_bizans.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_17_say_bizans.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_17_say_bizans.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bizans eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10604,
+      "title": "Bir Anatomi Dersi Ev",
+      "authors": [
+        {
+          "name": "Cogito 18. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_18_say_bir_anatomi_dersi_ev.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_18_say_bir_anatomi_dersi_ev.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_18_say_bir_anatomi_dersi_ev.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_18_say_bir_anatomi_dersi_ev.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bir Anatomi Dersi Ev eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10605,
+      "title": "Osmanlìlar Özel Sayìsì",
+      "authors": [
+        {
+          "name": "Cogito 19. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_19_say_osmanl_lar_ozel_say_s.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_19_say_osmanl_lar_ozel_say_s.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_19_say_osmanl_lar_ozel_say_s.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_19_say_osmanl_lar_ozel_say_s.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Osmanlìlar Özel Sayìsì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10606,
+      "title": "Deprem Özel Sayìsì",
+      "authors": [
+        {
+          "name": "Cogito 20. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_20_say_deprem_ozel_say_s.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_20_say_deprem_ozel_say_s.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_20_say_deprem_ozel_say_s.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_20_say_deprem_ozel_say_s.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Deprem Özel Sayìsì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10607,
+      "title": "Yerli Malì Yurdun Malì",
+      "authors": [
+        {
+          "name": "Cogito 21. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_21_say_yerli_mal_yurdun_mal.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_21_say_yerli_mal_yurdun_mal.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_21_say_yerli_mal_yurdun_mal.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_21_say_yerli_mal_yurdun_mal.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yerli Malì Yurdun Malì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10608,
+      "title": "Takvim, Zamanìn Haritasì",
+      "authors": [
+        {
+          "name": "Cogito 22. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_22_say_takvim_zaman_n_haritas.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_22_say_takvim_zaman_n_haritas.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_22_say_takvim_zaman_n_haritas.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_22_say_takvim_zaman_n_haritas.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Takvim, Zamanìn Haritasì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10609,
+      "title": "Türkiye'nin Yabancìlarì",
+      "authors": [
+        {
+          "name": "Cogito 23. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_23_say_turkiye_nin_yabanc_lar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_23_say_turkiye_nin_yabanc_lar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_23_say_turkiye_nin_yabanc_lar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_23_say_turkiye_nin_yabanc_lar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Türkiye'nin Yabancìlarì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10610,
+      "title": "Oto-Mobil & Bir Röntgen Denemesi",
+      "authors": [
+        {
+          "name": "Cogito 24. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_24_say_oto_mobil_bir_rontgen_denemesi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_24_say_oto_mobil_bir_rontgen_denemesi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_24_say_oto_mobil_bir_rontgen_denemesi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_24_say_oto_mobil_bir_rontgen_denemesi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Oto-Mobil & Bir Röntgen Denemesi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10611,
+      "title": "Nietzsche, Kayìp Bir Kìta",
+      "authors": [
+        {
+          "name": "Cogito 25. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_25_say_nietzsche_kay_p_bir_k_ta.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_25_say_nietzsche_kay_p_bir_k_ta.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_25_say_nietzsche_kay_p_bir_k_ta.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_25_say_nietzsche_kay_p_bir_k_ta.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Nietzsche, Kayìp Bir Kìta eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10612,
+      "title": "×akanìn Sìrasì Deºil",
+      "authors": [
+        {
+          "name": "Cogito 26. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_26_say_akan_n_s_ras_de_il.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_26_say_akan_n_s_ras_de_il.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_26_say_akan_n_s_ras_de_il.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_26_say_akan_n_s_ras_de_il.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "×akanìn Sìrasì Deºil eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10613,
+      "title": "Kriz & Daha Derin, Daha Eski, Daha Yaygìn",
+      "authors": [
+        {
+          "name": "Cogito 27. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_27_say_kriz_daha_derin_daha_eski_daha_yayg_n.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_27_say_kriz_daha_derin_daha_eski_daha_yayg_n.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_27_say_kriz_daha_derin_daha_eski_daha_yayg_n.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_27_say_kriz_daha_derin_daha_eski_daha_yayg_n.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kriz & Daha Derin, Daha Eski, Daha Yaygìn eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10614,
+      "title": "Cogito 28. Sayì- Arkeoloji, Bir Bilimin Katmanlarì",
+      "authors": [
+        {
+          "name": "Bilinmiyor",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bilinmiyor_cogito_28_say_arkeoloji_bir_bilimin_katmanlar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/bilinmiyor_cogito_28_say_arkeoloji_bir_bilimin_katmanlar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bilinmiyor_cogito_28_say_arkeoloji_bir_bilimin_katmanlar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/bilinmiyor_cogito_28_say_arkeoloji_bir_bilimin_katmanlar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Cogito 28. Sayì- Arkeoloji, Bir Bilimin Katmanlarì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10615,
+      "title": "Selçuklular",
+      "authors": [
+        {
+          "name": "Cogito 29. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_29_say_selcuklular.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_29_say_selcuklular.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_29_say_selcuklular.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_29_say_selcuklular.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Selçuklular eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10616,
+      "title": "ÿnternet & Üçüncü Devrim",
+      "authors": [
+        {
+          "name": "Cogito 30. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_30_say_nternet_ucuncu_devrim.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_30_say_nternet_ucuncu_devrim.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_30_say_nternet_ucuncu_devrim.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_30_say_nternet_ucuncu_devrim.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "ÿnternet & Üçüncü Devrim eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10617,
+      "title": "Entelektüeller Gerekli mi",
+      "authors": [
+        {
+          "name": "Cogito 31. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_31_say_entelektueller_gerekli_mi.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_31_say_entelektueller_gerekli_mi.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_31_say_entelektueller_gerekli_mi.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_31_say_entelektueller_gerekli_mi.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Entelektüeller Gerekli mi eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10618,
+      "title": "Hayvan & ÿmge, Simge, Gerçeklik",
+      "authors": [
+        {
+          "name": "Cogito 32. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_32_say_hayvan_mge_simge_gerceklik.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_32_say_hayvan_mge_simge_gerceklik.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_32_say_hayvan_mge_simge_gerceklik.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_32_say_hayvan_mge_simge_gerceklik.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Hayvan & ÿmge, Simge, Gerçeklik eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10619,
+      "title": "Wittgenstein, Sessizliºin Grameri",
+      "authors": [
+        {
+          "name": "Cogito 33. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_33_say_wittgenstein_sessizli_in_grameri.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_33_say_wittgenstein_sessizli_in_grameri.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_33_say_wittgenstein_sessizli_in_grameri.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_33_say_wittgenstein_sessizli_in_grameri.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Wittgenstein, Sessizliºin Grameri eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10620,
+      "title": "Seçmek",
+      "authors": [
+        {
+          "name": "Cogito 34. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_34_say_secmek.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_34_say_secmek.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_34_say_secmek.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_34_say_secmek.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Seçmek eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10621,
+      "title": "Yeni ÿstanbul",
+      "authors": [
+        {
+          "name": "Cogito 35. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_35_say_yeni_stanbul.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_35_say_yeni_stanbul.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_35_say_yeni_stanbul.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_35_say_yeni_stanbul.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Yeni ÿstanbul eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10622,
+      "title": "Adorno & Kitle, Melankoli, Felsefe",
+      "authors": [
+        {
+          "name": "Cogito 36. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_36_say_adorno_kitle_melankoli_felsefe.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_36_say_adorno_kitle_melankoli_felsefe.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_36_say_adorno_kitle_melankoli_felsefe.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_36_say_adorno_kitle_melankoli_felsefe.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Adorno & Kitle, Melankoli, Felsefe eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10623,
+      "title": "Kan, Damardan",
+      "authors": [
+        {
+          "name": "Cogito 37. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_37_say_kan_damardan.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_37_say_kan_damardan.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_37_say_kan_damardan.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_37_say_kan_damardan.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kan, Damardan eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10624,
+      "title": "×Iir",
+      "authors": [
+        {
+          "name": "Cogito 38. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_38_say_iir.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_38_say_iir.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_38_say_iir.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_38_say_iir.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "×Iir eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10625,
+      "title": "Avrupa'yì Düƒünmek",
+      "authors": [
+        {
+          "name": "Cogito 39. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_39_say_avrupa_y_du_unmek.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_39_say_avrupa_y_du_unmek.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_39_say_avrupa_y_du_unmek.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_39_say_avrupa_y_du_unmek.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Avrupa'yì Düƒünmek eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10626,
+      "title": "Ölüm, Bir Topografya",
+      "authors": [
+        {
+          "name": "Cogito 40. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_40_say_olum_bir_topografya.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_40_say_olum_bir_topografya.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_40_say_olum_bir_topografya.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_40_say_olum_bir_topografya.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ölüm, Bir Topografya eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10627,
+      "title": "Sonsuzluºun Sìnìrìnda & Immanuel Kant",
+      "authors": [
+        {
+          "name": "Cogito 41. ve 42. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_41_ve_42_say_sonsuzlu_un_s_n_r_nda_immanuel_kant.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_41_ve_42_say_sonsuzlu_un_s_n_r_nda_immanuel_kant.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_41_ve_42_say_sonsuzlu_un_s_n_r_nda_immanuel_kant.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_41_ve_42_say_sonsuzlu_un_s_n_r_nda_immanuel_kant.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sonsuzluºun Sìnìrìnda & Immanuel Kant eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10628,
+      "title": "Çer-Çöp",
+      "authors": [
+        {
+          "name": "Cogito 43. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_43_say_cer_cop.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_43_say_cer_cop.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_43_say_cer_cop.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_43_say_cer_cop.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Çer-Çöp eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10629,
+      "title": "Ten & Derinden",
+      "authors": [
+        {
+          "name": "Cogito 44. ve 45. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_44_ve_45_say_ten_derinden.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_44_ve_45_say_ten_derinden.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_44_ve_45_say_ten_derinden.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_44_ve_45_say_ten_derinden.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ten & Derinden eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10630,
+      "title": "Ezoterizm",
+      "authors": [
+        {
+          "name": "Cogito 46. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_46_say_ezoterizm.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_46_say_ezoterizm.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_46_say_ezoterizm.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_46_say_ezoterizm.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ezoterizm eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10631,
+      "title": "Derrida",
+      "authors": [
+        {
+          "name": "Cogito 47. ve 48. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_47_ve_48_say_derrida.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_47_ve_48_say_derrida.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_47_ve_48_say_derrida.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_47_ve_48_say_derrida.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Derrida eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10632,
+      "title": "Freud ve Kültür",
+      "authors": [
+        {
+          "name": "Cogito 49. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_49_say_freud_ve_kultur.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_49_say_freud_ve_kultur.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_49_say_freud_ve_kultur.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_49_say_freud_ve_kultur.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Freud ve Kültür eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10633,
+      "title": "Bellek & Öncesiz, Sonrasìz",
+      "authors": [
+        {
+          "name": "Cogito 50. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_50_say_bellek_oncesiz_sonras_z.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_50_say_bellek_oncesiz_sonras_z.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_50_say_bellek_oncesiz_sonras_z.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_50_say_bellek_oncesiz_sonras_z.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Bellek & Öncesiz, Sonrasìz eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10634,
+      "title": "Melankoli",
+      "authors": [
+        {
+          "name": "Cogito 51. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_51_say_melankoli.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_51_say_melankoli.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_51_say_melankoli.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_51_say_melankoli.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Melankoli eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10635,
+      "title": "Walter Benjamin",
+      "authors": [
+        {
+          "name": "Cogito 52. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_52_say_walter_benjamin.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_52_say_walter_benjamin.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_52_say_walter_benjamin.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_52_say_walter_benjamin.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Walter Benjamin eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10636,
+      "title": "Fanatizm & Ya Bizdensin Ya Öteki",
+      "authors": [
+        {
+          "name": "Cogito 53. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_53_say_fanatizm_ya_bizdensin_ya_oteki.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_53_say_fanatizm_ya_bizdensin_ya_oteki.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_53_say_fanatizm_ya_bizdensin_ya_oteki.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_53_say_fanatizm_ya_bizdensin_ya_oteki.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Fanatizm & Ya Bizdensin Ya Öteki eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10637,
+      "title": "Tragedya",
+      "authors": [
+        {
+          "name": "Cogito 54. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_54_say_tragedya.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_54_say_tragedya.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_54_say_tragedya.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_54_say_tragedya.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Tragedya eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10638,
+      "title": "ÿnsan Giyinir",
+      "authors": [
+        {
+          "name": "Cogito 55. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_55_say_nsan_giyinir.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_55_say_nsan_giyinir.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_55_say_nsan_giyinir.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_55_say_nsan_giyinir.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "ÿnsan Giyinir eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10639,
+      "title": "Paul Ricoeur",
+      "authors": [
+        {
+          "name": "Cogito 56. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_56_say_paul_ricoeur.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_56_say_paul_ricoeur.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_56_say_paul_ricoeur.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_56_say_paul_ricoeur.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Paul Ricoeur eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10640,
+      "title": "Ÿroni",
+      "authors": [
+        {
+          "name": "Cogito 57. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_57_say_roni.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_57_say_roni.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_57_say_roni.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_57_say_roni.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Ÿroni eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10641,
+      "title": "Feminizm",
+      "authors": [
+        {
+          "name": "Cogito 58. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_58_say_feminizm.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_58_say_feminizm.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_58_say_feminizm.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_58_say_feminizm.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Feminizm eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10642,
+      "title": "Turist, Modern Çaºìn Seyyahì",
+      "authors": [
+        {
+          "name": "Cogito 59. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_59_say_turist_modern_ca_n_seyyah.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_59_say_turist_modern_ca_n_seyyah.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_59_say_turist_modern_ca_n_seyyah.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_59_say_turist_modern_ca_n_seyyah.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Turist, Modern Çaºìn Seyyahì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10643,
+      "title": "Darwin Devrimi, Evrim",
+      "authors": [
+        {
+          "name": "Cogito 60. ve 61. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_60_ve_61_say_darwin_devrimi_evrim.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_60_ve_61_say_darwin_devrimi_evrim.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_60_ve_61_say_darwin_devrimi_evrim.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_60_ve_61_say_darwin_devrimi_evrim.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Darwin Devrimi, Evrim eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10644,
+      "title": "Kaos ve Karmaƒìklìk & Düzenli Düzensizlik Çalìƒmalarì",
+      "authors": [
+        {
+          "name": "Cogito 62. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_62_say_kaos_ve_karma_kl_k_duzenli_duzensizlik_cal_malar.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_62_say_kaos_ve_karma_kl_k_duzenli_duzensizlik_cal_malar.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_62_say_kaos_ve_karma_kl_k_duzenli_duzensizlik_cal_malar.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_62_say_kaos_ve_karma_kl_k_duzenli_duzensizlik_cal_malar.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Kaos ve Karmaƒìklìk & Düzenli Düzensizlik Çalìƒmalarì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10645,
+      "title": "Dünya Gözüyle Futbol",
+      "authors": [
+        {
+          "name": "Cogito 63. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_63_say_dunya_gozuyle_futbol.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_63_say_dunya_gozuyle_futbol.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_63_say_dunya_gozuyle_futbol.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_63_say_dunya_gozuyle_futbol.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Dünya Gözüyle Futbol eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10646,
+      "title": "Heidegger, Varlìºìn Çobanì",
+      "authors": [
+        {
+          "name": "Cogito 64. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_64_say_heidegger_varl_n_coban.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_64_say_heidegger_varl_n_coban.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_64_say_heidegger_varl_n_coban.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_64_say_heidegger_varl_n_coban.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Heidegger, Varlìºìn Çobanì eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10647,
+      "title": "Cinsel Yönelimler ve Queer Kuram",
+      "authors": [
+        {
+          "name": "Cogito 65. ve 66. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_65_ve_66_say_cinsel_yonelimler_ve_queer_kuram.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_65_ve_66_say_cinsel_yonelimler_ve_queer_kuram.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_65_ve_66_say_cinsel_yonelimler_ve_queer_kuram.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_65_ve_66_say_cinsel_yonelimler_ve_queer_kuram.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Cinsel Yönelimler ve Queer Kuram eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10648,
+      "title": "Sivil ÿtaatsizlik",
+      "authors": [
+        {
+          "name": "Cogito 67. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_67_say_sivil_taatsizlik.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_67_say_sivil_taatsizlik.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_67_say_sivil_taatsizlik.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_67_say_sivil_taatsizlik.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Sivil ÿtaatsizlik eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10649,
+      "title": "Dostluk",
+      "authors": [
+        {
+          "name": "Cogito 68. ve 69. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_68_ve_69_say_dostluk.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_68_ve_69_say_dostluk.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_68_ve_69_say_dostluk.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_68_ve_69_say_dostluk.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Dostluk eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": 10650,
+      "title": "Michel Foucault",
+      "authors": [
+        {
+          "name": "Cogito 70. ve 71. Sayì",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Türk Edebiyatı",
+        "Roman"
+      ],
+      "bookshelves": [
+        "Türk Klasikleri",
+        "En Çok Okunanlar"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_70_ve_71_say_michel_foucault.pdf",
+        "image/jpeg": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/covers/cogito_70_ve_71_say_michel_foucault.jpg",
+        "text/plain; charset=utf-8": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_70_ve_71_say_michel_foucault.pdf",
+        "application/pdf": "https://raw.githubusercontent.com/kimbumuratyavuz/MyneBook-Turkish-Books/main/books/cogito_70_ve_71_say_michel_foucault.pdf"
+      },
+      "download_count": 0,
+      "summaries": [
+        "Michel Foucault eseri, kütüphanenizin seçkin kitapları arasında yer almaktadır."
       ]
     }
   ]
